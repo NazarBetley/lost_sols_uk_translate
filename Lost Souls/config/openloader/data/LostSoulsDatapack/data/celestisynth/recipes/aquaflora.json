@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "  #",
+        "B# ",
+        "OB "
+    ],
+    "key": {
+        "#": {
+            "item": "caverns_and_chasms:silver_ingot"
+        },
+        "B": {
+            "item": "minecraft:amethyst_shard"
+        },
+        "O": {
+            "item": "upgrade_aquatic:prismarine_rod"
+        }
+    },
+    "result": {
+        "item": "celestisynth:aquaflora",
+        "count": 1
+    }
+}

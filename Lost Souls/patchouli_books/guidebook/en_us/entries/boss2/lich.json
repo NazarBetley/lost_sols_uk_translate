@@ -1,0 +1,20 @@
+{
+    "name": "Ліч",
+    "icon": "twilightforest:lich_trophy",
+    "sortnum": 1,
+    "category": "patchouli:boss2_category",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Ліч — це другий бос $(l:patchouli:world/twilightforest)$(#5BA52E)Сутінкового лісу$(). Цей бос дуже небезпечний: якщо не знати його атак і сильно хвилюватися, гравець може помилитися в розрахунках і загинути. Цей бос відкриває шлях до Гриботавра."
+        },
+        {
+            "type": "entity",
+            "name": "Ліч",
+            "text": "Цей бос зустрічається в $(l:patchouli:world/twilightforest)$(#5BA52E)Сутінковому лісі$().",
+            "entity": "twilightforest:lich",
+            "scale": "1",
+            "offset": "0.1"
+        }
+    ]
+}

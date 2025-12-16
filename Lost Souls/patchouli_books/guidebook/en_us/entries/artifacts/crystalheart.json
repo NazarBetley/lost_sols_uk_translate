@@ -1,0 +1,17 @@
+{
+    "name": "Кришталеве серце",
+    "icon": "artifacts:crystal_heart",
+    "category": "patchouli:artefact_category",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Яке воно крихке... Використовувати це серце може лише особлива й могутня людина! Цікаво... Як його можна застосувати на ділі..."
+        },
+        {
+            "type": "spotlight",
+            "title": "Кришталеве серце",
+            "text": "Це серце збільшує максимальне здоров'я власника, надягається на пояс!",
+            "item": "artifacts:crystal_heart"
+        }
+    ]
+}

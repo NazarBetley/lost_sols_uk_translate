@@ -1,0 +1,20 @@
+{
+    "name": "Портал у Сут. ліс",
+    "icon": "twilightforest:twilight_portal_miniature_structure",
+    "category": "patchouli:world_category",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Цей загадковий світ настільки загадковий, що потрапити туди можна, обклавши ділянку 2x2, заливши її водою і... Кинути діамант? Серйозно? Хто до цього додумався!?"
+        },
+        {
+            "type": "image",
+            "text": "",
+            "title": "",
+            "border": true,
+            "images": [
+                "patchouli:twilight_portal.png"
+            ]
+        }
+    ]
+}

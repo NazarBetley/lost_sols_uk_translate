@@ -1,0 +1,17 @@
+{
+    "name": "Ковбойський капелюх",
+    "icon": "artifacts:cowboy_hat",
+    "category": "patchouli:artefact_category",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Гадаю, з цим ковбойським капелюхом пов'язано чимало спогадів! У ньому точно їздили верхи та співали пісеньку... Як там вона починалася? Здається: I got the horses in the back, horse tack is attached..."
+        },
+        {
+            "type": "spotlight",
+            "title": "Ковбойський капелюх",
+            "text": "Збільшує швидкість пересування верхи на тваринах, як-от на конях чи свинях.",
+            "item": "artifacts:cowboy_hat"
+        }
+    ]
+}

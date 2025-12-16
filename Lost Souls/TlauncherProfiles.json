@@ -1,0 +1,41 @@
+{
+  "clientToken": "f9491682-9aeb-445d-8e58-33446732ee37",
+  "accounts": {
+    "a041ffeb33bd4cf5979fcea21558626f": {
+      "username": "********",
+      "displayName": "zevs_ua",
+      "microsoftOAuthToken": {
+        "createdAt": {
+          "seconds": 1765223160,
+          "nanos": 789412600
+        },
+        "accessToken": "EwD4A+pvBAAUKods63Ys1fGlwiccIFJ+qE1hANsAAV4DR8qBus+QXMmUM7D5pG3WIsg7X07zqq3YsCJxeomsqdT+Kq2neB6tdGdAvbQmgYe8/Hz68fkZSZqiaa5BMo5RIJLW2AXGxLkDEiwdw+9ylcguwMCZSZpZug6+YcxzMsrm7AEA0ueHEN9UsdESDmkArRA/kbjIRhtRl4lebJAwIW+ElcsZZyYJcFEuKHAEbSNwKvcRlDpbbprjnrFOQTCLp6R95U+PKdTKP/IewEZHXgX/Z+3imAUVdCHhs2lxTdzIumYjOriP75zelmPw5WRA7wT1BtBl3bgjfXfes7vGHVvfMalxGauM/4vVQddGEmKZ+ujU1QHznAsg+AFOAIMQZgAAEIw53gmDvtYjQXwGtC6ItDLAAl5mlNQ7kB1nOZjYJNfDJ/omjHgQpGZd6BUvuly+77d+QJ+MvelOM+MMMSuGjjDhjmhL00itB74U//meV3iXVLnigeWY2SyR8CaePET8p7ehWLKKtqaTwaZ8MBl85mxjugXQV9FuXsNNIgTdbGDhmpizYr61vyCm622LAZJkpQOv9Qb+czEW8666f5zmmQewtz60Dd1yhaUoYmdlQshql9QhKOlK23gT6NJ82prHHlCsi8IFkSTBKdOWDYLGL0haKDRdP5ATK77hBb4PAI6FYO1PbHbGtxdmvO/2s3shtJ7cVDsatRu+kYU4lke2dpzQ/9TwYG2HDVwdVEgcU45/hTJ7+MbGkQO/deZR7igjhIyig0x3EjQIJaGeQergEjraYQDJCUxVAqyb4qFiXW7uyNjifDpn2leHAud0RUGhSkA6+d+njT/CdJy4tPU/bZ40Hb5XlFL9aFa9lxdwB7sNCEC8szhSo1+LPV/zCb9JL7x1JyalFkgTwYbb8I2qTJhwWeh4RFyK8c3viwqMAQXVz6EAFU4AgQqqdwNaXUMkqmcJxS35vg4LzZsa/Vk/3+Vv/pt60yw6EUOh9EzswMgTIGIT6/xE7NC2mfGoGSd9cZTnmNG9Qs2INkmFQABC19giy4cnTshp4sXXcg/Fg8uAFsxQ1ItJ/abMmmgvUm236v2y9UJXCMb1Ju+dJJHbQeMZCPWUYj/7Xsbw3+9u1RjcovzZM80kcmWllf1CL+k3lkVeBhJpsTuLhZMsO/h9JteHXyp4vZ5h3l3FxxX2D6YLfZceI7T0M13TVImbYtIW/PeBkLVoUrKrtAfKggbvO8zLMsbIa7oHQwYwf4DWU9zC6k5Jjhr7Yw0lxyQZ11yjViyN7hPVjUCLat5hg4G6M+Ntn1GVz/NS7UkFUDc6H+ff7Vrkx/k9729DG7hT/s1FDcpL5AI\u003d",
+        "refreshToken": "M.C506_SN1.0.U.-CmLeyHAloYjTFMK2fbkOBGX4loJLW0HE0VX58ID0k2NuLGbYjHQZHrh4ze0Z3tykY7oRFkXjUrz5a5GMY6YHeI4JfFcSJ3Kzj2uhTIM*j2FpTHueopmRCyNWR2aOIBDuhA92okDLemsEqNBqlXzwsOaAPObhcIntc1cpNbQgWk3cNyC6eVVFKRg*F338MuFJHk11O7g7QebCNaSLfeLEYJsZND0B*YavbxaND9pn4WylIMcnhp6!uudyUA0frb4TIdEWuzuXlsaEQE3EGnXELHj*vLJzkNXw*uCWLKyWvsUCDIh!JbTGPDXQH0XZdGeJUIR0WJcDAWp!KAxnN1WSYbPpN9nZklcMD1acojnbYySyrUEyGvSsO6CGbmSCBn8qUg$$",
+        "expiresIn": 3600
+      },
+      "minecraftServicesToken": {
+        "createdAt": {
+          "seconds": 1765223162,
+          "nanos": 353952500
+        },
+        "accessToken": "eyJraWQiOiIwNDkxODEiLCJhbGciOiJSUzI1NiJ9.eyJ4dWlkIjoiMjUzNTQ1MzY1NDIyMjQ4MiIsImFnZyI6IkFkdWx0Iiwic3ViIjoiMjU1MWFkMWYtNjkxMC00MjNmLWE0NmEtMmRlZGViNGY5OGJiIiwiYXV0aCI6IlhCT1giLCJucyI6ImRlZmF1bHQiLCJyb2xlcyI6W10sImlzcyI6ImF1dGhlbnRpY2F0aW9uIiwiZmxhZ3MiOlsibXVsdGlwbGF5ZXIiLCJvcmRlcnNfMjAyMiIsIm1zYW1pZ3JhdGlvbl9zdGFnZTQiLCJ0d29mYWN0b3JhdXRoIl0sInByb2ZpbGVzIjp7Im1jIjoiYTA0MWZmZWItMzNiZC00Y2Y1LTk3OWYtY2VhMjE1NTg2MjZmIn0sInBsYXRmb3JtIjoiUENfTEFVTkNIRVIiLCJwZmQiOlt7InR5cGUiOiJtYyIsImlkIjoiYTA0MWZmZWItMzNiZC00Y2Y1LTk3OWYtY2VhMjE1NTg2MjZmIiwibmFtZSI6InpldnNfdWEifV0sIm5iZiI6MTc2NTIyMzE2NiwiZXhwIjoxNzY1MzA5NTY2LCJpYXQiOjE3NjUyMjMxNjYsImFpZCI6IjJiODIzMWUyLTNiN2UtNDI1Mi05MGQ5LTA3MzJjZjM4ZTUyOSJ9.kGy10nUMqitEEO9h5KpGTXBXw5ROqwRG2iLmlwOo1gqwfhjbKoWdxkGDc7kNztrOm1JQqMySDfdUoUqmk0ymJkRFTj5S16aoRyq-pMDC6POYkHd3hc6w-L2gyOb7GRYYWBZvfjt7100f5A8G6hti7zOtoXPD9vPibm6NYc9LRWBvKLZ4Rfl8qSMFVKYmOzM8Bszsn7grpFuxYu-tF4rNrTtzKkUUfC2P6F_bYCSiL37dydBeV8nUDyxsXR-Q0UkXFni3Bih0c5ZZebGM1w627YieZlFXAHm46EMMf1kOMcHLrh3f2cIUItHmU9T2DiSr9PHhMqIDldsNkKlT6oFnjg",
+        "expiresIn": 86400
+      },
+      "uuid": "a041ffeb33bd4cf5979fcea21558626f",
+      "type": "microsoft",
+      "skinType": "mojang",
+      "premiumAccount": false
+    },
+    "ba035896644844b48101823e63348951": {
+      "username": "zevs_ua",
+      "userID": "zevs_ua",
+      "displayName": "zevs_ua",
+      "uuid": "ba035896644844b48101823e63348951",
+      "type": "free",
+      "skinType": "tlauncher",
+      "premiumAccount": false
+    }
+  },
+  "selectedAccountUUID": "ba035896644844b48101823e63348951",
+  "freeAccountUUID": "ba035896644844b48101823e63348951"
+}

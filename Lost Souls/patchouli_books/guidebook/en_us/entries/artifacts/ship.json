@@ -1,0 +1,17 @@
+{
+    "name": "Міцні шипи",
+    "icon": "artifacts:steadfast_spikes",
+    "category": "patchouli:artefact_category",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Текстура дуже сильно нагадує кігті альпініста з іншого всесвіту. Оце так збіг, що тут так багато речей з інших всесвітів, які не пов'язані з нашим... Оце так!"
+        },
+        {
+            "type": "spotlight",
+            "title": "Міцні шипи",
+            "text": "Міцні шипи дають стійкість до відкидання. 10% Стійкості.",
+            "item": "artifacts:steadfast_spikes"
+        }
+    ]
+}

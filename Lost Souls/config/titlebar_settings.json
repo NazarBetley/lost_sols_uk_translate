@@ -1,0 +1,21 @@
+{
+  "theme": 1,
+  "corner": 1,
+  "titleBarColor": {
+    "r": 5,
+    "g": 5,
+    "b": 5
+  },
+  "titleBarTextColor": {
+    "r": 0,
+    "g": 255,
+    "b": 0
+  },
+  "titleBarStrokeColor": {
+    "r": 0,
+    "g": 255,
+    "b": 0
+  },
+  "showTheMenu": false,
+  "showWarnScreen": false
+}

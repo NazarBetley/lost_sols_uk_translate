@@ -1,0 +1,25 @@
+{
+    "name": "Вартовий Краю",
+    "icon": "cataclysm:void_core",
+    "sortnum": 10,
+    "category": "patchouli:boss_category",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Щоб знайти цього боса, потрібно скрафтити $(#9065E5)Око Порожнечі$(). Цей бос знаходиться в кімнаті під цим містом."
+        },
+        {
+            "type": "crafting",
+            "title": "Око Порожнечі",
+            "text": "Це око покаже вам, де знаходиться арена Вартового Краю.",
+            "recipe": "cataclysm:void_eye"
+        },
+        {
+            "type": "entity",
+            "name": "Вартовий Краю",
+            "text": "Цей бос знаходиться у Краї, в місті.",
+            "entity": "cataclysm:ender_guardian",
+            "scale": "0.8"
+        }
+    ]
+}

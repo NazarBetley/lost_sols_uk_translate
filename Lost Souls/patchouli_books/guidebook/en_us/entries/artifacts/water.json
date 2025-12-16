@@ -1,0 +1,17 @@
+{
+    "name": "Водні бігуни",
+    "icon": "artifacts:aqua_dashers",
+    "category": "patchouli:artefact_category",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Ви коли-небудь уявляли себе Ісусом? Цікаві черевики, що дадуть змогу бігати по воді!"
+        },
+        {
+            "type": "spotlight",
+            "title": "Водні бігуни",
+            "text": "Дозволяють власнику пересуватися по рідинах під час бігу $(#F55C8E)[CTRL]",
+            "item": "artifacts:aqua_dashers"
+        }
+    ]
+}

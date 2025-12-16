@@ -1,0 +1,35 @@
+{
+	"particleDensity": 150,
+	"particleStormDensity": 700,
+	"maxParticleAmount": 3000,
+	"particleRadius": 10,
+	"rainDropGravity": 1.0,
+	"snowFlakeGravity": 0.10000000149011612,
+	"desertDustGravity": 0.20000000298023224,
+	"snowRotationAmount": 0.10000000149011612,
+	"snowWindDampening": 1.5,
+	"doRainParticles": false,
+	"doSnowParticles": false,
+	"doSandParticles": true,
+	"doShrubParticles": true,
+	"renderVanillaWeather": true,
+	"doExperimentalFog": false,
+	"alwaysRaining": false,
+	"color": {
+		"rainRed": 0.5,
+		"rainGreen": 0.5,
+		"rainBlue": 1.0,
+		"snowRed": 1.0,
+		"snowGreen": 1.0,
+		"snowBlue": 1.0
+	},
+	"size": {
+		"rainDropSize": 0.5,
+		"rainSheetSize": 2.0,
+		"snowFlakeSize": 0.009999999776482582,
+		"snowSheetSize": 2.0,
+		"dustMoteSize": 0.10000000149011612,
+		"dustSheetSize": 1.5,
+		"fogSize": 0.5
+	}
+}

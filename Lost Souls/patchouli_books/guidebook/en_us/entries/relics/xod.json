@@ -1,0 +1,17 @@
+{
+    "name": "Лавоходи",
+    "icon": "relics:magma_walker",
+    "category": "patchouli:relics_category",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Такі гарячі й пружні... Цікаво: якщо вони знаходяться в Незері й зустрічаються тільки там, чи здатні вони ходити по лаві? Чи це просто вигадка, яку мені підкинуло життя?"
+        },
+        {
+            "type": "spotlight",
+            "title": "Лавоходи",
+            "text": "Дозволяють власнику ходити по лаві.",
+            "item": "relics:magma_walker"
+        }
+    ]
+}

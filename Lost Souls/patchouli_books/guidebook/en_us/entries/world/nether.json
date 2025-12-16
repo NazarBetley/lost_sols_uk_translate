@@ -1,0 +1,54 @@
+{
+    "name": "Портал у Незер",
+    "icon": "minecraft:obsidian",
+    "category": "patchouli:world_category",
+    "pages": [
+        {
+            "type": "multiblock",
+            "name": "Портал у Незер",
+            "text": "Щоб створити портал, нам знадобиться 10 обсидіану.",
+            "multiblock": {
+                "pattern": [
+                    [
+                        " OO "
+                    ],
+                    [
+                        "OPPO"
+                    ],
+                    [
+                        "OPPO"
+                    ],
+                    [
+                        "OPPO"
+                    ],
+                    [
+                        " O0 "
+                    ]
+                ],
+                "mapping": {
+                    " ": "ANY",
+                    "0": "minecraft:obsidian",
+                    "O": "minecraft:obsidian",
+                    "P": "AIR"
+                },
+                "symmetrical": true,
+                "offset": [
+                    0,
+                    0,
+                    0
+                ],
+                "view_offset": [
+                    0,
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "spotlight",
+            "title": "Як його активувати?",
+            "text": "Просто скористайтеся кресалом або будь-яким іншим вогняним предметом усередині рамки!",
+            "item": "minecraft:flint_and_steel"
+        }
+    ]
+}

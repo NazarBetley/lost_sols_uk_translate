@@ -1,0 +1,20 @@
+{
+    "name": "Гриботавр",
+    "icon": "twilightforest:minoshroom_trophy",
+    "sortnum": 2,
+    "category": "patchouli:boss2_category",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Гриботавр — це третій і дуже легкий бос цього виміру. Його слабкість — це далека дистанція. Після його смерті $(#FF0034)обов'язково$() з'їжте Суп з Мінотавра."
+        },
+        {
+            "type": "entity",
+            "name": "Гриботавр",
+            "text": "Цей бос зустрічається в $(l:patchouli:world/twilightforest)$(#5BA52E)Сутінковому лісі$().",
+            "entity": "twilightforest:minoshroom",
+            "scale": "1",
+            "offset": "0.1"
+        }
+    ]
+}

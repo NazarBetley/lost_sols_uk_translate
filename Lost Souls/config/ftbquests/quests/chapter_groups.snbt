@@ -1,0 +1,8 @@
+{
+	chapter_groups: [
+		{ id: "24431910BCDF246B", title: "&6I&r: Кулінарія" }
+		{ id: "7A6FEFAE00EAC5F4", title: "&6II&r: Світи" }
+		{ id: "77B836E2F372761C", title: "&6III&r: Магія" }
+		{ id: "5EB751CA5EA0FA30", title: "&6IV&r: Пригоди" }
+	]
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Відбивний амулет",
+    "icon": "relics:reflection_necklace",
+    "category": "patchouli:relics_category",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Вау! Амулет схожий на медузу! Яка цікава дрібничка, яка може допомогти вам відбити всю отриману шкоду назад у ворогів!"
+        },
+        {
+            "type": "spotlight",
+            "title": "Відбивний амулет",
+            "text": "При отриманні шкоди ви можете виплюснути з себе кілька маленьких колючок, які завдають шкоди ворогам.",
+            "item": "relics:reflection_necklace"
+        }
+    ]
+}

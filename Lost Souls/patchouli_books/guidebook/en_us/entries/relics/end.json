@@ -1,0 +1,17 @@
+{
+    "name": "Рука Краю",
+    "icon": "relics:enders_hand",
+    "category": "patchouli:relics_category",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Ця рука схожа на всі інші. Цікаво, а скільки сили в цій рукавичці? Багато чи мало? Вона важка чи легка?"
+        },
+        {
+            "type": "spotlight",
+            "title": "Рука Краю",
+            "text": "При використанні навички ви можете помінятися місцями з мобом/гравцем.",
+            "item": "relics:enders_hand"
+        }
+    ]
+}

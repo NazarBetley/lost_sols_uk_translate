@@ -1,0 +1,20 @@
+{
+    "name": "Нага",
+    "icon": "twilightforest:naga_trophy",
+    "sortnum": 0,
+    "category": "patchouli:boss2_category",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Це перший бос із Сутінкового лісу. Він відкриває можливість вбивати наступних босів поетапно. З неї випадає дуже рідкісний предмет, потрібний для $(l:patchouli:world/end)$(#9771F3)порталу в Край$()."
+        },
+        {
+            "type": "entity",
+            "name": "Нага",
+            "text": "Цей бос зустрічається в $(l:patchouli:world/twilightforest)$(#5BA52E)Сутінковому лісі$().",
+            "entity": "twilightforest:naga",
+            "scale": "1",
+            "offset": "0.5"
+        }
+    ]
+}

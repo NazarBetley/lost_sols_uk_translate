@@ -1,0 +1,19 @@
+{
+    "name": "Ур-Ґаст",
+    "icon": "twilightforest:ur_ghast_trophy",
+    "sortnum": 5,
+    "category": "patchouli:boss2_category",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Ур-Ґаст — 4-й і тривалий бос із категорії $(l:patchouli:world/twilightforest)$(#5BA52E)Сутінкового лісу$(). Він знаходиться в Темному лісі, у своїй величезній вежі з купою головоломок! Не розслабляйтеся, там буде дуже багато механізмів і загадок!"
+        },
+        {
+            "type": "entity",
+            "name": "Ур-Ґаст",
+            "text": "Цей бос зустрічається в $(l:patchouli:world/twilightforest)$(#5BA52E)Сутінковому лісі$().",
+            "entity": "twilightforest:ur_ghast",
+            "scale": "0.6"
+        }
+    ]
+}

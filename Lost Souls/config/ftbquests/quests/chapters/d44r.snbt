@@ -1,0 +1,1251 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "d44r"
+	group: "5EB751CA5EA0FA30"
+	icon: {
+		Count: 1
+		id: "rogues:berserker_armor_head"
+		tag: {
+			Damage: 0
+		}
+	}
+	id: "4FA7084D9AD393CE"
+	images: [
+		{
+			height: 0.0d
+			image: "born_in_chaos_v1:textures/mob_effect/ramp5.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.0d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "fantasy_armor:item/sunset_wings_helmet"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.5d
+			y: -3.5d
+		}
+		{
+			height: 1.0d
+			image: "fantasy_armor:item/sunset_wings_chestplate"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.0d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "fantasy_armor:item/sunset_wings_leggings"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.0d
+			y: -1.0d
+		}
+		{
+			height: 1.0d
+			image: "fantasy_armor:item/sunset_wings_boots"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.5d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "fantasy_armor:item/dark_lord_boots"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.0d
+			y: -5.5d
+		}
+		{
+			height: 1.0d
+			image: "fantasy_armor:item/dark_lord_leggings"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.0d
+			y: -6.0d
+		}
+		{
+			height: 1.0d
+			image: "fantasy_armor:item/dark_lord_chestplate"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.0d
+			y: -6.0d
+		}
+		{
+			height: 1.0d
+			image: "fantasy_armor:item/dark_lord_helmet"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.0d
+			y: -5.5d
+		}
+		{
+			height: 1.0d
+			image: "fantasy_armor:item/hero_helmet"
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.5d
+			y: -3.5d
+		}
+		{
+			height: 1.0d
+			image: "fantasy_armor:item/hero_chestplate"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.0d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "fantasy_armor:item/hero_leggings"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.0d
+			y: -1.0d
+		}
+		{
+			height: 1.0d
+			image: "fantasy_armor:item/hero_boots"
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.5d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "fantasy_armor:item/chess_board_knight_helmet"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.0d
+			y: 2.5d
+		}
+		{
+			height: 1.0d
+			image: "fantasy_armor:item/chess_board_knight_chestplate"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.0d
+			y: 3.0d
+		}
+		{
+			height: 1.0d
+			image: "fantasy_armor:item/chess_board_knight_leggings"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.0d
+			y: 3.0d
+		}
+		{
+			height: 1.0d
+			image: "fantasy_armor:item/chess_board_knight_boots"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.0d
+			y: 2.5d
+		}
+		{
+			height: 1.0d
+			image: "fantasy_armor:item/thief_helmet"
+			order: 1
+			rotation: 0.0d
+			width: 1.0d
+			x: 10.5d
+			y: -5.5d
+		}
+		{
+			height: 1.0d
+			image: "fantasy_armor:item/thief_chestplate"
+			rotation: 0.0d
+			width: 1.0d
+			x: 10.0d
+			y: -4.5d
+		}
+		{
+			height: 1.0d
+			image: "fantasy_armor:item/thief_leggings"
+			rotation: 0.0d
+			width: 1.0d
+			x: 10.0d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "fantasy_armor:item/wandering_wizard_boots"
+			rotation: 0.0d
+			width: 1.0d
+			x: 10.5d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "fantasy_armor:item/golden_horns_helmet"
+			rotation: 0.0d
+			width: 1.0d
+			x: 17.0d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "fantasy_armor:item/golden_horns_chestplate"
+			rotation: 0.0d
+			width: 1.0d
+			x: 16.0d
+			y: 1.0d
+		}
+		{
+			height: 1.0d
+			image: "fantasy_armor:item/golden_horns_leggings"
+			rotation: 0.0d
+			width: 1.0d
+			x: 14.0d
+			y: 1.0d
+		}
+		{
+			height: 1.0d
+			image: "fantasy_armor:item/golden_horns_boots"
+			rotation: 0.0d
+			width: 1.0d
+			x: 13.0d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "fantasy_armor:item/eclipse_soldier_helmet"
+			rotation: 0.0d
+			width: 1.0d
+			x: 19.5d
+			y: -5.5d
+		}
+		{
+			height: 1.0d
+			image: "fantasy_armor:item/eclipse_soldier_chestplate"
+			rotation: 0.0d
+			width: 1.0d
+			x: 20.0d
+			y: -4.5d
+		}
+		{
+			height: 1.0d
+			image: "fantasy_armor:item/eclipse_soldier_leggings"
+			rotation: 0.0d
+			width: 1.0d
+			x: 20.0d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "fantasy_armor:item/eclipse_soldier_boots"
+			rotation: 0.0d
+			width: 1.0d
+			x: 19.5d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "fantasy_armor:item/dragonslayer_helmet"
+			rotation: 0.0d
+			width: 1.0d
+			x: 13.0d
+			y: -7.5d
+		}
+		{
+			height: 1.0d
+			image: "fantasy_armor:item/dragonslayer_chestplate"
+			rotation: 0.0d
+			width: 1.0d
+			x: 14.0d
+			y: -8.0d
+		}
+		{
+			height: 1.0d
+			image: "fantasy_armor:item/dragonslayer_leggings"
+			rotation: 0.0d
+			width: 1.0d
+			x: 16.0d
+			y: -8.0d
+		}
+		{
+			height: 1.0d
+			image: "fantasy_armor:item/dragonslayer_boots"
+			rotation: 0.0d
+			width: 1.0d
+			x: 17.0d
+			y: -7.5d
+		}
+		{
+			height: 1.3d
+			image: "cataclysm:item/black_steel_sword"
+			rotation: -60.0d
+			width: 1.3d
+			x: -5.7d
+			y: -1.5d
+		}
+	]
+	order_index: 4
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["5A8BCC3C79020C3C"]
+			description: ["Місячний кристал є цінним інгредієнтом для створення броні. По суті, він є уламком душі, тому може вбирати різні матеріали та перетворювати кінцевий результат відповідно до них."]
+			icon: "fantasy_armor:moon_crystal"
+			id: "191D54A7CE72C36B"
+			rewards: [{
+				id: "2B6AFC39E8361653"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "hexagon"
+			tasks: [{
+				id: "70372A96C2249770"
+				item: "fantasy_armor:moon_crystal"
+				type: "item"
+			}]
+			title: "Місячний кристал"
+			x: 0.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["5A8BCC3C79020C3C"]
+			description: ["Місячний кристал є цінним інгредієнтом для створення броні. По суті, він є уламком душі, тому може вбирати різні матеріали та перетворювати кінцевий результат відповідно до них."]
+			icon: "fantasy_armor:moon_crystal"
+			id: "013E936F2BE8E1BE"
+			rewards: [{
+				id: "02DD01195286BF72"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "hexagon"
+			tasks: [{
+				id: "52AC53A3BFF0C25C"
+				item: "fantasy_armor:moon_crystal"
+				type: "item"
+			}]
+			title: "Місячний кристал"
+			x: 2.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["013E936F2BE8E1BE"]
+			description: ["Обладунок Героя, що бився з Темним Лордом у жорстокій битві. Після цього сили темряви відступили назад у Безодню і більше не робили спроб нападу. Цей обладунок увібрав у себе сутність того героя і наділяє власника силою та регенерацією."]
+			id: "63535BCF692E1F53"
+			rewards: [{
+				id: "6D89FCAA1197DA5B"
+				type: "xp"
+				xp: 500
+			}]
+			tasks: [{
+				id: "0E6910750ABEAAF0"
+				item: {
+					Count: 1
+					id: "fantasy_armor:hero_helmet"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 4.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["013E936F2BE8E1BE"]
+			description: ["Обладунок Героя, що бився з Темним Лордом у жорстокій битві. Після цього сили темряви відступили назад у Безодню і більше не робили спроб нападу. Цей обладунок увібрав у себе сутність того героя і наділяє власника силою та регенерацією."]
+			id: "06F6E4262BDCB21D"
+			rewards: [{
+				id: "3B8E668CEC40BE40"
+				type: "xp"
+				xp: 500
+			}]
+			tasks: [{
+				id: "3DDABCE33758F537"
+				item: {
+					Count: 1
+					id: "fantasy_armor:hero_boots"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 4.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["013E936F2BE8E1BE"]
+			description: ["Обладунок Героя, що бився з Темним Лордом у жорстокій битві. Після цього сили темряви відступили назад у Безодню і більше не робили спроб нападу. Цей обладунок увібрав у себе сутність того героя і наділяє власника силою та регенерацією."]
+			id: "7DF12C07C3A70257"
+			rewards: [{
+				id: "163EB4AF0FC32BE2"
+				type: "xp"
+				xp: 500
+			}]
+			tasks: [{
+				id: "1160F7C2FBC339C5"
+				item: {
+					Count: 1
+					id: "fantasy_armor:hero_leggings"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 4.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["013E936F2BE8E1BE"]
+			description: ["Обладунок Героя, що бився з Темним Лордом у жорстокій битві. Після цього сили темряви відступили назад у Безодню і більше не робили спроб нападу. Цей обладунок увібрав у себе сутність того героя і наділяє власника силою та регенерацією."]
+			id: "04B2BCD5B4E56C49"
+			rewards: [{
+				id: "68CEDA18EF7644C8"
+				type: "xp"
+				xp: 500
+			}]
+			tasks: [{
+				id: "47334FE51DAD9835"
+				item: {
+					Count: 1
+					id: "fantasy_armor:hero_chestplate"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 4.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["5A8BCC3C79020C3C"]
+			description: ["Місячний кристал є цінним інгредієнтом для створення броні. По суті, він є уламком душі, тому може вбирати різні матеріали та перетворювати кінцевий результат відповідно до них."]
+			icon: "fantasy_armor:moon_crystal"
+			id: "478A5773B71C3151"
+			rewards: [{
+				id: "5F1ADD44430A2767"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "hexagon"
+			tasks: [{
+				id: "3DBC0ECBF8E2A866"
+				item: "fantasy_armor:moon_crystal"
+				type: "item"
+			}]
+			title: "Місячний кристал"
+			x: -2.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["478A5773B71C3151"]
+			description: ["Обладунок полководців Легіону Затемнення. Ходять чутки, що цей обладунок кувався в самій Безодні і досі черпає з неї силу, збільшуючи запас здоров'я власника. Забезпечує відмінний захист у бою."]
+			id: "59E718E171670BF2"
+			rewards: [{
+				id: "3D5A5C071987C34F"
+				type: "xp"
+				xp: 500
+			}]
+			tasks: [{
+				id: "7F75D2811988512A"
+				item: {
+					Count: 1
+					id: "fantasy_armor:sunset_wings_chestplate"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -4.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["478A5773B71C3151"]
+			description: ["Обладунок полководців Легіону Затемнення. Ходять чутки, що цей обладунок кувався в самій Безодні і досі черпає з неї силу, збільшуючи запас здоров'я власника. Забезпечує відмінний захист у бою."]
+			id: "04679F17164E7CD3"
+			rewards: [{
+				id: "22647FFEC41537EC"
+				type: "xp"
+				xp: 500
+			}]
+			tasks: [{
+				id: "2BFF55F6DE5DAD89"
+				item: {
+					Count: 1
+					id: "fantasy_armor:sunset_wings_helmet"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -4.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["478A5773B71C3151"]
+			description: ["Обладунок полководців Легіону Затемнення. Ходять чутки, що цей обладунок кувався в самій Безодні і досі черпає з неї силу, збільшуючи запас здоров'я власника. Забезпечує відмінний захист у бою."]
+			id: "54CA210F1FB2DA3B"
+			rewards: [{
+				id: "5428AACE7D08C9D0"
+				type: "xp"
+				xp: 500
+			}]
+			tasks: [{
+				id: "15C772B3D21679B0"
+				item: {
+					Count: 1
+					id: "fantasy_armor:sunset_wings_leggings"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -4.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["478A5773B71C3151"]
+			description: ["Обладунок полководців Легіону Затемнення. Ходять чутки, що цей обладунок кувався в самій Безодні і досі черпає з неї силу, збільшуючи запас здоров'я власника. Забезпечує відмінний захист у бою."]
+			id: "02A9377B124D01AC"
+			rewards: [{
+				id: "79533DBEFA0DA711"
+				type: "xp"
+				xp: 500
+			}]
+			tasks: [{
+				id: "0FE556B501B5656D"
+				item: {
+					Count: 1
+					id: "fantasy_armor:sunset_wings_boots"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -4.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["5A8BCC3C79020C3C"]
+			description: ["Місячний кристал є цінним інгредієнтом для створення броні. По суті, він є уламком душі, тому може вбирати різні матеріали та перетворювати кінцевий результат відповідно до них."]
+			icon: "fantasy_armor:moon_crystal"
+			id: "2316F905D5CEF896"
+			rewards: [{
+				id: "78EA6803BA12B379"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "hexagon"
+			tasks: [{
+				id: "245BF7BAE44EEEFB"
+				item: "fantasy_armor:moon_crystal"
+				type: "item"
+			}]
+			title: "Місячний кристал"
+			x: 0.0d
+			y: -3.5d
+		}
+		{
+			dependencies: ["2316F905D5CEF896"]
+			description: ["Темний Лорд - породження Безодні. Саме він вів у бій Легіон Затемнення, намагаючись принести світ у жертву Безодні. Його обладунок — пряме втілення жаху та болю всіх, хто поліг від його рук. Збільшує шкоду носія, змушуючи проливати все більше крові в ім'я темряви."]
+			id: "0533ACC607B33EE4"
+			rewards: [{
+				id: "2124A1FE9A1FB25C"
+				type: "xp"
+				xp: 500
+			}]
+			tasks: [{
+				id: "72756ADB8DD2ADC5"
+				item: {
+					Count: 1
+					id: "fantasy_armor:dark_lord_boots"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -1.5d
+			y: -5.0d
+		}
+		{
+			dependencies: ["2316F905D5CEF896"]
+			description: ["Темний Лорд - породження Безодні. Саме він вів у бій Легіон Затемнення, намагаючись принести світ у жертву Безодні. Його обладунок — пряме втілення жаху та болю всіх, хто поліг від його рук. Збільшує шкоду носія, змушуючи проливати все більше крові в ім'я темряви."]
+			id: "60415FF25D84D1D9"
+			rewards: [{
+				id: "23BBB974D9F60F3C"
+				type: "xp"
+				xp: 500
+			}]
+			tasks: [{
+				id: "0FF30C8A95468677"
+				item: {
+					Count: 1
+					id: "fantasy_armor:dark_lord_leggings"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -0.5d
+			y: -5.5d
+		}
+		{
+			dependencies: ["2316F905D5CEF896"]
+			description: ["Темний Лорд - породження Безодні. Саме він вів у бій Легіон Затемнення, намагаючись принести світ у жертву Безодні. Його обладунок — пряме втілення жаху та болю всіх, хто поліг від його рук. Збільшує шкоду носія, змушуючи проливати все більше крові в ім'я темряви."]
+			id: "5A92BB6310082A88"
+			rewards: [{
+				id: "2126941AD845FD94"
+				type: "xp"
+				xp: 500
+			}]
+			tasks: [{
+				id: "5C539097C109D347"
+				item: {
+					Count: 1
+					id: "fantasy_armor:dark_lord_chestplate"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 0.5d
+			y: -5.5d
+		}
+		{
+			dependencies: ["2316F905D5CEF896"]
+			description: ["Темний Лорд - породження Безодні. Саме він вів у бій Легіон Затемнення, намагаючись принести світ у жертву Безодні. Його обладунок — пряме втілення жаху та болю всіх, хто поліг від його рук. Збільшує шкоду носія, змушуючи проливати все більше крові в ім'я темряви."]
+			id: "4C2E8CAE784BD9D1"
+			rewards: [{
+				id: "3475BB1CDEFE4E44"
+				type: "xp"
+				xp: 500
+			}]
+			tasks: [{
+				id: "3130CD7B66BE7111"
+				item: {
+					Count: 1
+					id: "fantasy_armor:dark_lord_helmet"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 1.5d
+			y: -5.0d
+		}
+		{
+			dependencies: ["191D54A7CE72C36B"]
+			description: ["Броня полководця, що бився проти сил темряви. Дуже яскравий обладунок, що відображає тактичний геній носія. Збільшує максимальне здоров'я власника та посилює його бойові навички."]
+			id: "315159E35808B405"
+			rewards: [{
+				id: "222DCCA92CA5E3B8"
+				type: "xp"
+				xp: 500
+			}]
+			tasks: [{
+				id: "3224CD5084074525"
+				item: {
+					Count: 1
+					id: "fantasy_armor:chess_board_knight_helmet"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -1.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["191D54A7CE72C36B"]
+			description: ["Броня полководця, що бився проти сил темряви. Дуже яскравий обладунок, що відображає тактичний геній носія. Збільшує максимальне здоров'я власника та посилює його бойові навички."]
+			id: "54540C05EA956E7F"
+			rewards: [{
+				id: "4A391DBB7D47F959"
+				type: "xp"
+				xp: 500
+			}]
+			tasks: [{
+				id: "27201174A491D7D8"
+				item: {
+					Count: 1
+					id: "fantasy_armor:chess_board_knight_chestplate"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -0.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["191D54A7CE72C36B"]
+			description: ["Броня полководця, що бився проти сил темряви. Дуже яскравий обладунок, що відображає тактичний геній носія. Збільшує максимальне здоров'я власника та посилює його бойові навички."]
+			id: "65A04D599786005E"
+			rewards: [{
+				id: "7D9A7693C3025F9D"
+				type: "xp"
+				xp: 500
+			}]
+			tasks: [{
+				id: "3C951A30CDE9825C"
+				item: {
+					Count: 1
+					id: "fantasy_armor:chess_board_knight_leggings"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 0.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["191D54A7CE72C36B"]
+			description: ["Броня полководця, що бився проти сил темряви. Дуже яскравий обладунок, що відображає тактичний геній носія. Збільшує максимальне здоров'я власника та посилює його бойові навички."]
+			id: "5055AEE9D91172A0"
+			rewards: [{
+				id: "1829C13027B5C89C"
+				type: "xp"
+				xp: 500
+			}]
+			tasks: [{
+				id: "77282230F4B621FD"
+				item: {
+					Count: 1
+					id: "fantasy_armor:chess_board_knight_boots"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 1.5d
+			y: 2.0d
+		}
+		{
+			description: ["Створюйте броню легендарних героїв минулого за допомогою незвичайних кристалів, що все ще зберігають пам'ять про ті давні часи."]
+			id: "5A8BCC3C79020C3C"
+			rewards: [{
+				id: "1078B1AC71B12225"
+				type: "xp"
+				xp: 500
+			}]
+			tasks: [{
+				id: "1D4BE9D08B12858E"
+				type: "checkmark"
+			}]
+			title: "Fantasy Armor"
+			x: 0.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["77EAEEF1DF1D8E22"]
+			description: ["Броня, що належала колись дуже досвідченому злодієві. Цей ідеально пошитий тканинний обладунок не сковує рухів і дозволяє залишатися непомітним навіть на найнебезпечніших завданнях. Подейкують, що він навіть приносить удачу власнику."]
+			id: "28B46976C7954142"
+			rewards: [{
+				id: "41015D8CBE1B7D40"
+				type: "xp"
+				xp: 500
+			}]
+			shape: "hexagon"
+			tasks: [{
+				id: "015AD33B8BD7257C"
+				item: {
+					Count: 1
+					id: "fantasy_armor:thief_boots"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			title: "Черевики злодія"
+			x: 11.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["77EAEEF1DF1D8E22"]
+			description: ["Броня, що належала колись дуже досвідченому злодієві. Цей ідеально пошитий тканинний обладунок не сковує рухів і дозволяє залишатися непомітним навіть на найнебезпечніших завданнях. Подейкують, що він навіть приносить удачу власнику."]
+			id: "223778AA0A254150"
+			rewards: [{
+				id: "5DC6DBBABBBE6529"
+				type: "xp"
+				xp: 500
+			}]
+			shape: "hexagon"
+			tasks: [{
+				id: "01B9C429520F5991"
+				item: {
+					Count: 1
+					id: "fantasy_armor:thief_leggings"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			title: "Поножі злодія"
+			x: 10.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["77EAEEF1DF1D8E22"]
+			description: ["Броня, що належала колись дуже досвідченому злодієві. Цей ідеально пошитий тканинний обладунок не сковує рухів і дозволяє залишатися непомітним навіть на найнебезпечніших завданнях. Подейкують, що він навіть приносить удачу власнику."]
+			id: "6191E10B6F79AC20"
+			rewards: [{
+				id: "6CD4E6BC4F73739C"
+				type: "xp"
+				xp: 500
+			}]
+			shape: "hexagon"
+			tasks: [{
+				id: "036509FA7E265F20"
+				item: {
+					Count: 1
+					id: "fantasy_armor:thief_chestplate"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			title: "Нагрудник злодія"
+			x: 10.5d
+			y: -4.0d
+		}
+		{
+			dependencies: ["77EAEEF1DF1D8E22"]
+			description: ["Броня, що належала колись дуже досвідченому злодієві. Цей ідеально пошитий тканинний обладунок не сковує рухів і дозволяє залишатися непомітним навіть на найнебезпечніших завданнях. Подейкують, що він навіть приносить удачу власнику."]
+			id: "673067D1EF14C18C"
+			rewards: [{
+				id: "21424BA8F22C6D43"
+				type: "xp"
+				xp: 500
+			}]
+			shape: "hexagon"
+			tasks: [{
+				id: "1CD42E8E82C23929"
+				item: {
+					Count: 1
+					id: "fantasy_armor:thief_helmet"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			title: "Капюшон злодія"
+			x: 11.0d
+			y: -5.0d
+		}
+		{
+			dependencies: ["4F742FFEFAFC2273"]
+			description: ["Місячний кристал є цінним інгредієнтом для створення броні. По суті, він є уламком душі, тому може вбирати різні матеріали та перетворювати кінцевий результат відповідно до них."]
+			id: "77EAEEF1DF1D8E22"
+			rewards: [{
+				id: "4D14C704FE065E6A"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "hexagon"
+			tasks: [{
+				id: "55561775489E3FBC"
+				item: "fantasy_armor:moon_crystal"
+				type: "item"
+			}]
+			title: "Місячний кристал"
+			x: 12.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["6291071778065BC1"]
+			description: ["Обладунок дуже багатих жителів північних регіонів. Виконаний на манер обладунків вікінгів. Забезпечує хороший захист, але не сповільнює власника."]
+			id: "5359D0A924DCDF71"
+			rewards: [{
+				id: "6BA6046AA3DABAAF"
+				type: "xp"
+				xp: 500
+			}]
+			shape: "hexagon"
+			tasks: [{
+				id: "28205A831FBD9923"
+				item: {
+					Count: 1
+					id: "fantasy_armor:golden_horns_boots"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			title: "Черевики Золотого Рога"
+			x: 13.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["6291071778065BC1"]
+			description: ["Обладунок дуже багатих жителів північних регіонів. Виконаний на манер обладунків вікінгів. Забезпечує хороший захист, але не сповільнює власника."]
+			id: "4F71C6C67FB2F2A0"
+			rewards: [{
+				id: "091D230AB7D04A07"
+				type: "xp"
+				xp: 500
+			}]
+			shape: "hexagon"
+			tasks: [{
+				id: "19F3C9158A44DFBE"
+				item: {
+					Count: 1
+					id: "fantasy_armor:golden_horns_leggings"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			title: "Поножі Золотого Рога"
+			x: 14.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["6291071778065BC1"]
+			description: ["Обладунок дуже багатих жителів північних регіонів. Виконаний на манер обладунків вікінгів. Забезпечує хороший захист, але не сповільнює власника."]
+			id: "11993B6B46751D32"
+			rewards: [{
+				id: "0C1D49C9E4C59F69"
+				type: "xp"
+				xp: 500
+			}]
+			shape: "hexagon"
+			tasks: [{
+				id: "3C21551FEBF6D7CF"
+				item: {
+					Count: 1
+					id: "fantasy_armor:golden_horns_chestplate"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			title: "Нагрудник Золотого Рога"
+			x: 15.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["6291071778065BC1"]
+			description: ["Обладунок дуже багатих жителів північних регіонів. Виконаний на манер обладунків вікінгів. Забезпечує хороший захист, але не сповільнює власника."]
+			id: "2F1DBF8A01DDC230"
+			rewards: [{
+				id: "7E7F1F8042FBA23F"
+				type: "xp"
+				xp: 500
+			}]
+			shape: "hexagon"
+			tasks: [{
+				id: "57B94D6CCE1B5675"
+				item: {
+					Count: 1
+					id: "fantasy_armor:golden_horns_helmet"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			title: "Шоломи Золотого Рога"
+			x: 16.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["4F742FFEFAFC2273"]
+			description: ["Місячний кристал є цінним інгредієнтом для створення броні. По суті, він є уламком душі, тому може вбирати різні матеріали та перетворювати кінцевий результат відповідно до них."]
+			id: "6291071778065BC1"
+			rewards: [{
+				id: "4C9FC01B8417E74D"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "hexagon"
+			tasks: [{
+				id: "4811049A858566DC"
+				item: "fantasy_armor:moon_crystal"
+				type: "item"
+			}]
+			title: "Місячний кристал"
+			x: 15.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["4F742FFEFAFC2273"]
+			description: ["Місячний кристал є цінним інгредієнтом для створення броні. По суті, він є уламком душі, тому може вбирати різні матеріали та перетворювати кінцевий результат відповідно до них."]
+			id: "2B2B037180846FBA"
+			rewards: [{
+				id: "0FA28F1D8E4F68B1"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "hexagon"
+			tasks: [{
+				id: "594C969E3E4C2E0F"
+				item: "fantasy_armor:moon_crystal"
+				type: "item"
+			}]
+			title: "Місячний кристал"
+			x: 17.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["3ED18704C8F9E5E9"]
+			description: ["Колись драконів у світі було набагато більше, але лицарі-драконоборці дуже сильно скоротили їхню популяцію. Тепер знайти справжнього стародавнього дракона — велика рідкість. Ця важка стародавня броня, що належала колись одному з найсильніших драконоборців, увібрала в себе силу повалених драконів. Забезпечує величезний захист проти драконів."]
+			id: "6D86B78C1DA0BB65"
+			rewards: [{
+				id: "0753B808C3AEF55E"
+				type: "xp"
+				xp: 500
+			}]
+			shape: "hexagon"
+			tasks: [{
+				id: "525B6F38C3B581DD"
+				item: {
+					Count: 1
+					id: "fantasy_armor:dragonslayer_helmet"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			title: "Шолом драконоборця"
+			x: 13.5d
+			y: -7.0d
+		}
+		{
+			dependencies: ["3ED18704C8F9E5E9"]
+			description: ["Колись драконів у світі було набагато більше, але лицарі-драконоборці дуже сильно скоротили їхню популяцію. Тепер знайти справжнього стародавнього дракона — велика рідкість. Ця важка стародавня броня, що належала колись одному з найсильніших драконоборців, увібрала в себе силу повалених драконів. Забезпечує величезний захист проти драконів."]
+			id: "7B09E0B3B3FB14FF"
+			rewards: [{
+				id: "5872D5509809042B"
+				type: "xp"
+				xp: 500
+			}]
+			shape: "hexagon"
+			tasks: [{
+				id: "697FD965203970FA"
+				item: {
+					Count: 1
+					id: "fantasy_armor:dragonslayer_chestplate"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			title: "Нагрудник драконоборця"
+			x: 14.5d
+			y: -7.5d
+		}
+		{
+			dependencies: ["3ED18704C8F9E5E9"]
+			description: ["Колись драконів у світі було набагато більше, але лицарі-драконоборці дуже сильно скоротили їхню популяцію. Тепер знайти справжнього стародавнього дракона — велика рідкість. Ця важка стародавня броня, що належала колись одному з найсильніших драконоборців, увібрала в себе силу повалених драконів. Забезпечує величезний захист проти драконів."]
+			id: "0C62F224BC07DCF0"
+			rewards: [{
+				id: "0762A12BB81B11BB"
+				type: "xp"
+				xp: 500
+			}]
+			shape: "hexagon"
+			tasks: [{
+				id: "0A940F9F2F497329"
+				item: {
+					Count: 1
+					id: "fantasy_armor:dragonslayer_leggings"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			title: "Поножі драконоборця"
+			x: 15.5d
+			y: -7.5d
+		}
+		{
+			dependencies: ["3ED18704C8F9E5E9"]
+			description: ["Колись драконів у світі було набагато більше, але лицарі-драконоборці дуже сильно скоротили їхню популяцію. Тепер знайти справжнього стародавнього дракона — велика рідкість. Ця важка стародавня броня, що належала колись одному з найсильніших драконоборців, увібрала в себе силу повалених драконів. Забезпечує величезний захист проти драконів."]
+			id: "77DBD93F55880929"
+			rewards: [{
+				id: "44F37B6505955D9C"
+				type: "xp"
+				xp: 500
+			}]
+			shape: "hexagon"
+			tasks: [{
+				id: "57202DCEBDE72C17"
+				item: {
+					Count: 1
+					id: "fantasy_armor:dragonslayer_boots"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			title: "Черевики драконоборця"
+			x: 16.5d
+			y: -7.0d
+		}
+		{
+			dependencies: ["4F742FFEFAFC2273"]
+			description: ["Місячний кристал є цінним інгредієнтом для створення броні. По суті, він є уламком душі, тому може вбирати різні матеріали та перетворювати кінцевий результат відповідно до них."]
+			id: "3ED18704C8F9E5E9"
+			rewards: [{
+				id: "64C93B657DDFDF4C"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "hexagon"
+			tasks: [{
+				id: "53E2C42D7BF1F470"
+				item: "fantasy_armor:moon_crystal"
+				type: "item"
+			}]
+			title: "Місячний кристал"
+			x: 15.0d
+			y: -5.5d
+		}
+		{
+			dependencies: ["2B2B037180846FBA"]
+			description: ["Броня лицарів Легіону Затемнення. Колись у світі сталася велика війна, в якій цей легіон бився за прихід вічної ночі. Є досить легким, тим самим не сковуючи рухів власника."]
+			id: "0E4B5D2FC378DC92"
+			rewards: [{
+				id: "353038EEA3ADE1A9"
+				type: "xp"
+				xp: 500
+			}]
+			shape: "hexagon"
+			tasks: [{
+				id: "1C51DC68EA9999C9"
+				item: {
+					Count: 1
+					id: "fantasy_armor:eclipse_soldier_helmet"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			title: "Шолом солдата Затемнення"
+			x: 19.0d
+			y: -5.0d
+		}
+		{
+			dependencies: ["2B2B037180846FBA"]
+			description: ["Броня лицарів Легіону Затемнення. Колись у світі сталася велика війна, в якій цей легіон бився за прихід вічної ночі. Є досить легким, тим самим не сковуючи рухів власника."]
+			id: "74CE95FDE11033DB"
+			rewards: [{
+				id: "38BF8DAE14FC05E1"
+				type: "xp"
+				xp: 500
+			}]
+			shape: "hexagon"
+			tasks: [{
+				id: "5E685D1A70ECE10C"
+				item: {
+					Count: 1
+					id: "fantasy_armor:eclipse_soldier_chestplate"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			title: "Нагрудник солдата Затемнення"
+			x: 19.5d
+			y: -4.0d
+		}
+		{
+			dependencies: ["2B2B037180846FBA"]
+			description: ["Броня лицарів Легіону Затемнення. Колись у світі сталася велика війна, в якій цей легіон бився за прихід вічної ночі. Є досить легким, тим самим не сковуючи рухів власника."]
+			id: "11779738F2B152AB"
+			rewards: [{
+				id: "2E1A9D548CB28725"
+				type: "xp"
+				xp: 500
+			}]
+			shape: "hexagon"
+			tasks: [{
+				id: "59A8F448FCA81CED"
+				item: {
+					Count: 1
+					id: "fantasy_armor:eclipse_soldier_leggings"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			title: "Поножі солдата Затемнення"
+			x: 19.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["2B2B037180846FBA"]
+			description: ["Броня лицарів Легіону Затемнення. Колись у світі сталася велика війна, в якій цей легіон бився за прихід вічної ночі. Є досить легким, тим самим не сковуючи рухів власника."]
+			id: "57545605AB3B88EF"
+			rewards: [{
+				id: "03DC1CA9B0C162C8"
+				type: "xp"
+				xp: 500
+			}]
+			shape: "hexagon"
+			tasks: [{
+				id: "6B6D9B6FE0DB9BA2"
+				item: {
+					Count: 1
+					id: "fantasy_armor:eclipse_soldier_boots"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			title: "Черевики солдата Затемнення"
+			x: 19.0d
+			y: -2.0d
+		}
+		{
+			description: ["Створюйте броню легендарних героїв минулого за допомогою незвичайних кристалів, що все ще зберігають пам'ять про ті давні часи."]
+			id: "4F742FFEFAFC2273"
+			rewards: [{
+				id: "0DE82A73FF42C592"
+				type: "xp"
+				xp: 50
+			}]
+			shape: "hexagon"
+			tasks: [{
+				id: "247EBF73AA95738C"
+				type: "checkmark"
+			}]
+			title: "Fantasy Armor"
+			x: 15.0d
+			y: -3.5d
+		}
+	]
+	title: "&d4.5&r: &lГерої минулих часів"
+}

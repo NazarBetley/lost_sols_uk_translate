@@ -1,0 +1,268 @@
+
+[origins]
+
+	[origins."origins:enderian"]
+		enabled = true
+		"origins:throw_ender_pearl" = true
+		"origins:water_vulnerability" = true
+		"origins:pumpkin_hate" = true
+		"origins:extra_reach" = true
+		"origins:ender_particles" = true
+		"origins:damage_from_potions" = true
+
+	[origins."origins:human"]
+		enabled = true
+
+	[origins."origins:feline"]
+		enabled = true
+		"origins:fall_immunity" = true
+		"origins:sprint_jump" = true
+		"origins:velvet_paws" = true
+		"origins:nine_lives" = true
+		"origins:weak_arms" = true
+		"origins:scare_creepers" = true
+		"origins:cat_vision" = true
+
+	[origins."medievalorigins:dwarf"]
+		enabled = true
+		"medievalorigins:dwarf/dwarven_tech" = true
+		"medievalorigins:dwarf/miniature" = true
+		"medievalorigins:dwarf/pickaxeless_stone" = true
+		"medievalorigins:arachnae/fragile_exoskeleton" = true
+		"medievalorigins:ogre/ravenous" = true
+		"medievalorigins:wood_elf/graceful" = true
+		"medievalorigins:plague_victim/skin_and_bones" = true
+		"medievalorigins:spells/mana-" = true
+		"medievalorigins:dwarf/fragile_exoskeleton" = true
+		"medievalorigins:dwarf/ravenous" = true
+		"medievalorigins:dwarf/revenge" = true
+		"medievalorigins:dwarf/graceful" = true
+		"medievalorigins:dwarf/skin_and_bones" = true
+		"medievalorigins:dwarf/mana-" = true
+
+	[origins."origins:elytrian"]
+		enabled = true
+		"origins:elytra" = true
+		"origins:launch_into_air" = true
+		"origins:aerial_combatant" = true
+		"origins:light_armor" = true
+		"origins:claustrophobia" = true
+		"origins:more_kinetic_damage" = true
+
+	[origins."medievalorigins:moon_elf"]
+		enabled = true
+		"medievalorigins:incubus/carnivore" = true
+		"medievalorigins:moon_elf/nimble" = true
+		"medievalorigins:wood_elf/graceful" = true
+		"medievalorigins:sound/bark" = true
+		"medievalorigins:arachnae/fragile_exoskeleton" = true
+		"origins:carnivore" = true
+		"medievalorigins:ogre/ravenous" = true
+		"medievalorigins:spells/mana-" = true
+		"medievalorigins:moon_elf/graceful" = true
+		"medievalorigins:moon_elf/revenge" = true
+		"medievalorigins:moon_elf/fragile_exoskeleton" = true
+		"medievalorigins:moon_elf/ravenous" = true
+		"medievalorigins:moon_elf/mana-" = true
+
+	[origins."medievalorigins:pixie"]
+		enabled = true
+		"medievalorigins:pixie/flight" = true
+		"medievalorigins:pixie/pixie_properties" = true
+		"medievalorigins:pixie/feather_footed" = true
+		"medievalorigins:pixie/wings" = true
+		"medievalorigins:pixie/mount" = true
+		"medievalorigins:pixie/good_fortunes" = true
+		"medievalorigins:pixie/mischief_maketh_man" = true
+		"medievalorigins:pixie/curse_of_flight" = true
+		"medievalorigins:pixie/troublemaker" = true
+
+	[origins."medievalorigins:high_elf"]
+		enabled = true
+		"medievalorigins:high_elf/fragile" = true
+		"medievalorigins:high_elf/towering" = true
+		"medievalorigins:arachnae/brittle" = true
+		"medievalorigins:high_elf/subclass_picker" = true
+		"medievalorigins:spells/holy_power" = true
+		"medievalorigins:spells/ice_power" = true
+		"medievalorigins:spells/nature_power" = true
+		"medievalorigins:spells/lightning_power" = true
+		"medievalorigins:spells/fire_power" = true
+		"medievalorigins:spells/mana_up" = true
+		"medievalorigins:alfiq/poor_grip" = true
+		"medievalorigins:high_elf/brittle" = true
+		"medievalorigins:high_elf/nippy" = true
+		"medievalorigins:high_elf/poor_grip" = true
+		"medievalorigins:high_elf/mana_up" = true
+
+	[origins."medievalorigins:incubus"]
+		enabled = true
+		"medievalorigins:wood_elf/forest_vision" = true
+		"medievalorigins:incubus/carnivore" = true
+		"medievalorigins:high_elf/fragile" = true
+		"medievalorigins:incubus/impure" = true
+		"medievalorigins:spells/blood_power" = true
+		"medievalorigins:spells/fire_power" = true
+		"medievalorigins:spells/lightning_power" = true
+		"medievalorigins:spells/eldritch_power" = true
+		"medievalorigins:spells/mana_up" = true
+		"medievalorigins:alfiq/poor_grip" = true
+		"origins:carnivore" = true
+		"medievalorigins:incubus/stealth" = true
+		"medievalorigins:incubus/fragile" = true
+		"medievalorigins:incubus/poor_grip" = true
+		"medievalorigins:incubus/mana_up" = true
+
+	[origins."medievalorigins:plague_victim"]
+		enabled = true
+		"medievalorigins:troll/ham_fisted" = true
+		"medievalorigins:incubus/impure" = true
+		"medievalorigins:troll/mountainous" = true
+		"medievalorigins:ogre/ravenous" = true
+		"medievalorigins:arachnae/brittle" = true
+		"medievalorigins:wood_elf/archer" = true
+		"medievalorigins:arachnae/venomous_bite" = true
+		"medievalorigins:moon_elf/stealth" = true
+		"medievalorigins:goblin/nippy" = true
+		"medievalorigins:alfiq/poor_grip" = true
+		"medievalorigins:plague_victim/ham_fisted" = true
+		"medievalorigins:plague_victim/impure" = true
+		"medievalorigins:plague_victim/mountainous" = true
+		"medievalorigins:plague_victim/ravenous" = true
+		"medievalorigins:plague_victim/brittle" = true
+		"medievalorigins:plague_victim/archer" = true
+		"medievalorigins:plague_victim/venomous_bite" = true
+		"medievalorigins:plague_victim/stealth" = true
+		"medievalorigins:plague_victim/nippy" = true
+		"medievalorigins:plague_victim/poor_grip" = true
+
+	[origins."origins:shulk"]
+		enabled = true
+		"origins:shulker_inventory" = true
+		"origins:natural_armor" = true
+		"origins:strong_arms" = true
+		"origins:strong_arms_break_speed" = true
+		"origins:no_shield" = true
+		"origins:more_exhaustion" = true
+
+	[origins."medievalorigins:gorgon"]
+		enabled = true
+		"medievalorigins:arachnae/brittle" = true
+		"medievalorigins:sound/hsss" = true
+		"medievalorigins:high_elf/fragile" = true
+		"medievalorigins:incubus/carnivore" = true
+		"medievalorigins:gorgon/poison_blood" = true
+		"medievalorigins:goblin/nippy" = true
+		"medievalorigins:spells/ender_power" = true
+		"medievalorigins:spells/ice_power" = true
+		"medievalorigins:spells/nature_power" = true
+		"medievalorigins:spells/lightning_power" = true
+		"medievalorigins:spells/eldritch_power" = true
+		"medievalorigins:spells/mana_up" = true
+		"medievalorigins:alfiq/poor_grip" = true
+		"origins:carnivore" = true
+		"medievalorigins:gorgon/brittle" = true
+		"medievalorigins:gorgon/poor_grip" = true
+		"medievalorigins:gorgon/fragile" = true
+		"medievalorigins:gorgon/nippy" = true
+		"medievalorigins:gorgon/mana_up" = true
+
+	[origins."origins:merling"]
+		enabled = true
+		"origins:water_breathing" = true
+		"origins:water_vision" = true
+		"origins:aqua_affinity" = true
+		"origins:swim_speed" = true
+		"origins:like_water" = true
+		"origins:aquatic" = true
+		"origins:conduit_power_on_land" = true
+		"origins:air_from_potions" = true
+
+	[origins."origins:phantom"]
+		enabled = true
+		"origins:phantomize" = true
+		"origins:translucent" = true
+		"origins:phasing" = true
+		"origins:invisibility" = true
+		"origins:burn_in_daylight" = true
+		"origins:hunger_over_time" = true
+		"origins:fragile" = true
+		"origins:phantomize_overlay" = true
+
+	[origins."medievalorigins:ogre"]
+		enabled = true
+		"medievalorigins:wood_elf/graceful" = true
+		"medievalorigins:ogre/gargantuan" = true
+		"medievalorigins:troll/ironhide" = true
+		"medievalorigins:plague_victim/skin_and_bones" = true
+		"medievalorigins:ogre/ravenous" = true
+		"medievalorigins:arachnae/fragile_exoskeleton" = true
+		"medievalorigins:ogre/stocky" = true
+		"medievalorigins:incubus/impure" = true
+		"medievalorigins:spells/mana-" = true
+		"medievalorigins:ogre/graceful" = true
+		"medievalorigins:ogre/ironhide" = true
+		"medievalorigins:ogre/revenge" = true
+		"medievalorigins:ogre/skin_and_bones" = true
+		"medievalorigins:ogre/fragile_exoskeleton" = true
+		"medievalorigins:ogre/impure" = true
+		"medievalorigins:ogre/mana-" = true
+
+	[origins."origins:arachnid"]
+		enabled = true
+		"origins:climbing" = true
+		"origins:master_of_webs" = true
+		"origins:carnivore" = true
+		"origins:fragile" = true
+		"origins:arthropod" = true
+
+	[origins."medievalorigins:alfiq"]
+		enabled = true
+		"medievalorigins:sound/meow" = true
+		"medievalorigins:alfiq/poor_grip" = true
+		"medievalorigins:troll/ham_fisted" = true
+		"medievalorigins:arachnae/brittle" = true
+		"medievalorigins:incubus/carnivore" = true
+		"medievalorigins:moon_elf/nimble" = true
+		"medievalorigins:wood_elf/archer" = true
+		"medievalorigins:wood_elf/forest_vision" = true
+		"medievalorigins:goblin/nippy" = true
+		"origins:carnivore" = true
+		"medievalorigins:alfiq/ham_fisted" = true
+		"medievalorigins:alfiq/brittle" = true
+		"medievalorigins:alfiq/nimble" = true
+		"medievalorigins:alfiq/archer" = true
+		"medievalorigins:alfiq/forest_vision" = true
+		"medievalorigins:alfiq/nippy" = true
+
+	[origins."origins:blazeborn"]
+		enabled = true
+		"origins:fire_immunity" = true
+		"origins:nether_spawn" = true
+		"origins:burning_wrath" = true
+		"origins:hotblooded" = true
+		"origins:water_vulnerability" = true
+		"origins:flame_particles" = true
+		"origins:damage_from_snowballs" = true
+		"origins:damage_from_potions" = true
+
+	[origins."medievalorigins:wood_elf"]
+		enabled = true
+		"medievalorigins:wood_elf/archer" = true
+		"medievalorigins:wood_elf/forest_vision" = true
+		"medievalorigins:wood_elf/steward" = true
+		"medievalorigins:arachnae/brittle" = true
+		"medievalorigins:goblin/nippy" = true
+		"origins:vegetarian" = true
+		"medievalorigins:wood_elf/brittle" = true
+		"medievalorigins:wood_elf/nippy" = true
+
+	[origins."origins:avian"]
+		enabled = true
+		"origins:slow_falling" = true
+		"origins:fresh_air" = true
+		"origins:like_air" = true
+		"origins:tailwind" = true
+		"origins:lay_eggs" = true
+		"origins:vegetarian" = true
+

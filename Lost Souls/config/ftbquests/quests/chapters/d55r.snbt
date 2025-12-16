@@ -1,0 +1,2650 @@
+{
+	autofocus_id: "572B673C0CBC834D"
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "d55r"
+	group: "5EB751CA5EA0FA30"
+	icon: "alexscaves:pure_darkness"
+	id: "55CA2E5583874E82"
+	images: [
+		{
+			height: 1.5d
+			image: "alexscaves:textures/misc/advancement/icon/forlorn_hollows.png"
+			rotation: 0.0d
+			width: 1.5d
+			x: -15.5d
+			y: 2.0d
+		}
+		{
+			height: 1.0d
+			image: "alexscaves:item/pure_darkness"
+			rotation: 0.0d
+			width: 1.0d
+			x: -14.0d
+			y: 4.5d
+		}
+		{
+			height: 1.0d
+			image: "alexscaves:item/hood_of_darkness"
+			rotation: 0.0d
+			width: 1.0d
+			x: -14.0d
+			y: 1.4d
+		}
+		{
+			height: 1.0d
+			image: "alexscaves:textures/misc/advancement/icon/defeat_watcher.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -13.0d
+			y: 3.0d
+		}
+		{
+			height: 1.0d
+			image: "alexscaves:item/dreadbow_pulling_2"
+			rotation: 0.0d
+			width: 1.0d
+			x: -14.0d
+			y: 3.5d
+		}
+		{
+			height: 1.0d
+			image: "alexscaves:item/totem_of_possession_active"
+			rotation: 0.0d
+			width: 1.0d
+			x: -16.0d
+			y: 3.0d
+		}
+		{
+			height: 1.0d
+			image: "alexscaves:textures/mob_effect/darkness_incarnate.png"
+			order: 2
+			rotation: 0.0d
+			width: 1.0d
+			x: -15.5d
+			y: 4.5d
+		}
+		{
+			height: 1.0d
+			image: "alexscaves:item/cloak_of_darkness"
+			rotation: 0.0d
+			width: 1.0d
+			x: -11.5d
+			y: 7.5d
+		}
+		{
+			height: 1.0d
+			image: "alexscaves:item/fertilizer"
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.0d
+			y: 4.7d
+		}
+		{
+			height: 1.0d
+			image: "alexscaves:textures/misc/advancement/icon/deep_one_1.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.5d
+			y: 3.5d
+		}
+		{
+			height: 1.0d
+			image: "alexscaves:textures/misc/advancement/icon/deep_one_0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.0d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "alexscaves:item/submarine"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.5d
+			y: 3.5d
+		}
+		{
+			height: 1.0d
+			image: "aquamirae:block/oxygelium_bud"
+			order: 5
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.5d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "aquamirae:block/oxygelium_bud_rare"
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.0d
+			y: 3.5d
+		}
+		{
+			height: 1.0d
+			image: "alexsmobs:block/ghostly_pickaxe/destroy_stage_4"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.0d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "alexsmobs:item/bucket_content/comb_jelly"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.5d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "alexscaves:item/immortal_embryo"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.5d
+			y: 1.0d
+		}
+		{
+			height: 1.0d
+			image: "alexscaves:item/diving_chestplate"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.0d
+			y: 4.5d
+		}
+		{
+			height: 1.0d
+			image: "alexscaves:item/diving_leggings"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.0d
+			y: 5.0d
+		}
+		{
+			height: 1.0d
+			image: "atmospheric:block/water_hyacinth_bottom"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.0d
+			y: 4.8d
+		}
+		{
+			height: 1.0d
+			image: "alexsmobs:item/pupfish_locator"
+			order: 3
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.5d
+			y: 3.5d
+		}
+		{
+			height: 1.0d
+			image: "upgrade_aquatic:block/double_mulberry_vine_stage1"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.0d
+			y: 6.5d
+		}
+		{
+			height: 1.0d
+			image: "relics:item/jellyfish_necklace"
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.0d
+			y: -1.0d
+		}
+		{
+			height: 1.0d
+			image: "upgrade_aquatic:block/prismarine_coral_shower"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.0d
+			y: -1.0d
+		}
+		{
+			height: 1.0d
+			image: "iceandfire:item/ectoplasm"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.0d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "alexsmobs:block/ghostly_pickaxe/destroy_stage_4"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.5d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "alexscaves:item/bioluminesscence"
+			order: 2
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.0d
+			y: 0.5d
+		}
+		{
+			height: 1.25d
+			image: "alexscaves:item/tremorzilla_egg"
+			rotation: 0.0d
+			width: 1.25d
+			x: -2.2d
+			y: 7.5d
+		}
+		{
+			height: 1.0d
+			image: "alexscaves:textures/misc/advancement/icon/hatch_tremorzilla.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.5d
+			y: 5.0d
+		}
+		{
+			height: 1.0d
+			image: "alexscaves:block/uranium_ore_glow"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.5d
+			y: 6.0d
+		}
+		{
+			height: 1.0d
+			image: "alexscaves:textures/misc/advancement/icon/tremorzilla_beam.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.0d
+			y: 3.5d
+		}
+		{
+			height: 1.0d
+			image: "alexscaves:block/acidic_radrock_glow"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.0d
+			y: 6.0d
+		}
+		{
+			height: 1.0d
+			image: "alexscaves:block/acidic_radrock_glow"
+			order: -1
+			rotation: 180.0d
+			width: 1.0d
+			x: -1.0d
+			y: 5.0d
+		}
+		{
+			height: 1.0d
+			image: "alexscaves:textures/mob_effect/irradiated.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: 7.5d
+		}
+		{
+			height: 1.0d
+			image: "alexscaves:item/hazmat_boots"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.5d
+			y: 6.0d
+		}
+		{
+			height: 1.0d
+			image: "alexscaves:item/hazmat_leggings"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.5d
+			y: 5.0d
+		}
+		{
+			height: 1.0d
+			image: "alexscaves:item/hazmat_chestplate"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.5d
+			y: 5.0d
+		}
+		{
+			height: 1.0d
+			image: "alexscaves:item/hazmat_mask"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.5d
+			y: 6.0d
+		}
+		{
+			height: 1.0d
+			image: "alexscaves:textures/particle/void_eye_0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -12.0d
+			y: 3.5d
+		}
+		{
+			height: 1.0d
+			image: "alexscaves:block/archaic_vine_plant"
+			rotation: 90.0d
+			width: 1.0d
+			x: -10.0d
+			y: 9.5d
+		}
+		{
+			height: 1.0d
+			image: "alexscaves:block/archaic_vine_plant"
+			rotation: -90.0d
+			width: 1.0d
+			x: -11.5d
+			y: 9.5d
+		}
+		{
+			height: 1.0d
+			image: "alexscaves:block/archaic_vine_plant"
+			rotation: -90.0d
+			width: 1.0d
+			x: -10.5d
+			y: 9.5d
+		}
+		{
+			height: 1.0d
+			image: "alexscaves:block/archaic_vine_plant"
+			rotation: 90.0d
+			width: 1.0d
+			x: -13.5d
+			y: 9.5d
+		}
+		{
+			height: 1.0d
+			image: "alexscaves:block/archaic_vine_plant"
+			rotation: 90.0d
+			width: 1.0d
+			x: -12.0d
+			y: 9.5d
+		}
+		{
+			height: 1.0d
+			image: "alexscaves:block/archaic_vine_plant"
+			rotation: -90.0d
+			width: 1.0d
+			x: -13.0d
+			y: 9.5d
+		}
+		{
+			height: 1.0d
+			image: "alexscaves:item/dinosaur_nugget_3"
+			rotation: 0.0d
+			width: 0.7d
+			x: -13.0d
+			y: 12.0d
+		}
+		{
+			height: 1.0d
+			image: "alexscaves:item/ominous_catalyst"
+			rotation: 0.0d
+			width: 1.0d
+			x: -16.5d
+			y: 10.0d
+		}
+		{
+			height: 1.0d
+			image: "alexscaves:item/primordial_helmet"
+			rotation: 0.0d
+			width: 1.0d
+			x: -15.5d
+			y: 8.5d
+		}
+		{
+			height: 1.0d
+			image: "alexscaves:item/primordial_pants"
+			rotation: 0.0d
+			width: 0.7d
+			x: -15.5d
+			y: 11.0d
+		}
+		{
+			height: 1.0d
+			image: "alexscaves:item/amber_curiosity"
+			rotation: 0.0d
+			width: 1.0d
+			x: -12.5d
+			y: 8.5d
+		}
+		{
+			height: 1.25d
+			image: "alexscaves:textures/misc/advancement/icon/summon_luxtructosaurus.png"
+			order: 2
+			rotation: 0.0d
+			width: 1.25d
+			x: -19.0d
+			y: 9.0d
+		}
+		{
+			height: 1.0d
+			image: "alexscaves:item/tough_hide"
+			rotation: 0.0d
+			width: 1.0d
+			x: -11.5d
+			y: 8.5d
+		}
+		{
+			height: 1.0d
+			image: "alexscaves:item/extinction_spear"
+			rotation: 0.0d
+			width: 1.0d
+			x: -19.5d
+			y: 10.0d
+		}
+		{
+			height: 1.0d
+			image: "alexscaves:item/tectonic_shard"
+			rotation: 0.0d
+			width: 1.0d
+			x: -17.5d
+			y: 9.0d
+		}
+		{
+			height: 1.0d
+			image: "alexscaves:item/serene_salad"
+			rotation: 0.0d
+			width: 1.0d
+			x: -12.5d
+			y: 10.5d
+		}
+		{
+			height: 1.3d
+			image: "alexscaves:item/telecore"
+			rotation: 0.0d
+			width: 1.3d
+			x: -9.0d
+			y: 13.5d
+		}
+		{
+			height: 1.0d
+			image: "alexscaves:item/raw_azure_neodymium"
+			rotation: 0.0d
+			width: 1.0d
+			x: -10.5d
+			y: 12.5d
+		}
+		{
+			height: 1.0d
+			image: "alexscaves:item/raw_scarlet_neodymium"
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.5d
+			y: 14.5d
+		}
+		{
+			height: 1.0d
+			image: "alexscaves:item/quarry_smasher"
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.0d
+			y: 12.5d
+		}
+		{
+			height: 1.0d
+			image: "alexscaves:item/tesla_bulb"
+			rotation: 0.0d
+			width: 1.0d
+			x: -10.0d
+			y: 17.0d
+		}
+		{
+			height: 1.0d
+			image: "alexscaves:item/notor_gizmo"
+			rotation: 0.0d
+			width: 1.0d
+			x: -11.5d
+			y: 14.0d
+		}
+		{
+			height: 1.4d
+			image: "alexscaves:textures/misc/advancement/icon/magnetic_caves.png"
+			rotation: 84.0d
+			width: 1.4d
+			x: -12.5d
+			y: 15.0d
+		}
+		{
+			height: 1.0d
+			image: "alexscaves:item/holocoder_bound"
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.5d
+			y: 16.5d
+		}
+		{
+			height: 1.0d
+			image: "caverns_and_chasms:item/bejeweled_apple"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.5d
+			y: 17.5d
+		}
+		{
+			height: 1.0d
+			image: "caverns_and_chasms:item/living_flesh"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.5d
+			y: 16.5d
+		}
+		{
+			height: 1.0d
+			image: "caverns_and_chasms:item/barometer_08"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.0d
+			y: 16.0d
+		}
+		{
+			height: 1.0d
+			image: "caverns_and_chasms:item/cupric_brazier"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.5d
+			y: 14.5d
+		}
+		{
+			height: 1.0d
+			image: "caverns_and_chasms:item/oxidized_copper_golem"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.5d
+			y: 18.5d
+		}
+		{
+			height: 1.0d
+			image: "caverns_and_chasms:item/oxidized_floodlight"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.0d
+			y: 17.5d
+		}
+		{
+			height: 1.0d
+			image: "caverns_and_chasms:item/necromium_ingot"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.5d
+			y: 16.5d
+		}
+		{
+			height: 1.0d
+			image: "caverns_and_chasms:item/necromium_chestplate"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.0d
+			y: 19.5d
+		}
+		{
+			height: 1.0d
+			image: "caverns_and_chasms:item/necromium_axe"
+			rotation: -80.0d
+			width: 1.0d
+			x: -7.0d
+			y: 17.0d
+		}
+		{
+			height: 1.0d
+			image: "caverns_and_chasms:block/cave_fern"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.0d
+			y: 18.5d
+		}
+		{
+			height: 1.0d
+			image: "caverns_and_chasms:item/silver_axe"
+			rotation: -80.0d
+			width: 1.0d
+			x: -1.0d
+			y: 13.0d
+		}
+		{
+			height: 0.0d
+			image: "caverns_and_chasms:block/cupric_campfire_fire"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.0d
+			y: 14.0d
+		}
+		{
+			height: 1.0d
+			image: "caverns_and_chasms:block/cupric_campfire_fire"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.0d
+			y: 8.5d
+		}
+	]
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["572B673C0CBC834D"]
+			description: ["У глибинах печер ви можете знайти хатину, де знаходиться стіл спелеолога та особливий путівник по моду."]
+			icon: "alexscaves:cave_book"
+			id: "03349E265BC1D30D"
+			rewards: [{
+				id: "4CEE5C397AF97F08"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "diamond"
+			size: 1.2d
+			tasks: [
+				{
+					id: "09076D289E208768"
+					item: "alexscaves:spelunkery_table"
+					type: "item"
+				}
+				{
+					id: "599236CA8F8AFA13"
+					item: "alexscaves:cave_book"
+					type: "item"
+				}
+			]
+			title: "Подорож у підземелля"
+			x: -6.6d
+			y: 9.0d
+		}
+		{
+			dependencies: ["03349E265BC1D30D"]
+			description: ["При &aвдалому&r вивченні цієї таблички ви дізнаєтеся інформацію про токсичні печери, заражені радіацією."]
+			id: "6EB8D1C82A0C63F0"
+			rewards: [{
+				id: "12D403339072EA3D"
+				type: "xp"
+				xp: 100
+			}]
+			subtitle: "Токсичні печери"
+			tasks: [{
+				id: "32F87BF1BB798C15"
+				item: {
+					Count: 1
+					id: "alexscaves:cave_codex"
+					tag: {
+						CaveBiome: "alexscaves:toxic_caves"
+					}
+				}
+				type: "item"
+			}]
+			x: -4.0d
+			y: 8.0d
+		}
+		{
+			dependencies: ["03349E265BC1D30D"]
+			description: ["При &4вдалому&r вивченні цієї таблички ви дізнаєтеся інформацію про темні печери, в яких живуть жахливі монстри."]
+			id: "525B255172C03A7E"
+			rewards: [{
+				id: "0F5A502D3BD2E9C3"
+				type: "xp"
+				xp: 100
+			}]
+			subtitle: "Забуття порожнечі"
+			tasks: [{
+				id: "34C62A399D9312A7"
+				item: {
+					Count: 1
+					id: "alexscaves:cave_codex"
+					tag: {
+						CaveBiome: "alexscaves:forlorn_hollows"
+					}
+				}
+				type: "item"
+			}]
+			x: -8.5d
+			y: 7.0d
+		}
+		{
+			dependencies: ["03349E265BC1D30D"]
+			description: ["При &9вдалому&r вивченні таблички ви дізнаєтеся інформацію про печери, вкриті магнітними кристалами, що зберігають багато стародавніх технологій."]
+			id: "492CEF5FB6C065B7"
+			rewards: [{
+				id: "504E8774D0B402B9"
+				type: "xp"
+				xp: 100
+			}]
+			subtitle: "Магнітні печери"
+			tasks: [{
+				id: "6294BB83A9024A2D"
+				item: {
+					Count: 1
+					id: "alexscaves:cave_codex"
+					tag: {
+						CaveBiome: "alexscaves:magnetic_caves"
+					}
+				}
+				type: "item"
+			}]
+			x: -7.5d
+			y: 11.5d
+		}
+		{
+			dependencies: ["03349E265BC1D30D"]
+			description: ["При &eвдалому&r вивченні цієї таблички ви дізнаєтеся інформацію про первісні печери, ізольовані від зовнішнього світу з давніх часів."]
+			id: "13FE27F2483D112C"
+			rewards: [{
+				id: "42CE8D20BF1D754B"
+				type: "xp"
+				xp: 100
+			}]
+			subtitle: "Первісні печери"
+			tasks: [{
+				id: "2CC963121A6527AC"
+				item: {
+					Count: 1
+					id: "alexscaves:cave_codex"
+					tag: {
+						CaveBiome: "alexscaves:primordial_caves"
+					}
+				}
+				type: "item"
+			}]
+			x: -9.5d
+			y: 9.5d
+		}
+		{
+			dependencies: ["03349E265BC1D30D"]
+			description: ["При &bвдалому&r вивченні цієї таблички ви дізнаєтеся інформацію про підводну безодню, приховану під товщею води."]
+			id: "59747E4FED7FF46F"
+			rewards: [{
+				id: "67C00C99C945275C"
+				type: "xp"
+				xp: 100
+			}]
+			subtitle: "Підводна безодня"
+			tasks: [{
+				id: "27CA92729897FDB5"
+				item: {
+					Count: 1
+					id: "alexscaves:cave_codex"
+					tag: {
+						CaveBiome: "alexscaves:abyssal_chasm"
+					}
+				}
+				type: "item"
+			}]
+			x: -6.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["492CEF5FB6C065B7"]
+			description: ["У магнітних печерах ви зустрінете два типи кристалів: &cчервоний неодим&r та &9лазуровий неодим&r. З яких можна створити різні предмети."]
+			id: "3A39842BDBE00DB3"
+			rewards: [{
+				id: "5785683551189AF8"
+				type: "xp"
+				xp: 300
+			}]
+			tasks: [{
+				id: "409648FD7F1FE2C7"
+				item: "alexscaves:scarlet_neodymium_ingot"
+				type: "item"
+			}]
+			x: -7.5d
+			y: 13.5d
+		}
+		{
+			dependencies: ["492CEF5FB6C065B7"]
+			description: ["У магнітних печерах ви зустрінете два типи кристалів: &cчервоний неодим&r та &9лазуровий неодим&r. З яких можна створити різні предмети."]
+			id: "1AF0866A8C2CFCA8"
+			rewards: [{
+				id: "22EC93D399E89A1D"
+				type: "xp"
+				xp: 300
+			}]
+			tasks: [{
+				id: "4DC66CF2ACB728FE"
+				item: "alexscaves:azure_neodymium_ingot"
+				type: "item"
+			}]
+			x: -9.5d
+			y: 12.0d
+		}
+		{
+			dependencies: ["3A39842BDBE00DB3"]
+			description: ["З &cчервоних&r та &9лазурових&r магнітів можна створювати різні корисні та цікаві речі."]
+			hide_dependency_lines: true
+			id: "4E5F4DA293619B47"
+			rewards: [{
+				id: "4E06360DE87DB143"
+				type: "xp"
+				xp: 300
+			}]
+			tasks: [{
+				id: "7C3E6CCC0DEC05DC"
+				item: "alexscaves:seeking_arrow"
+				type: "item"
+			}]
+			x: -10.5d
+			y: 15.5d
+		}
+		{
+			dependencies: ["3A39842BDBE00DB3"]
+			description: ["З &cчервоних&r та &9лазурових&r магнітів можна створювати різні корисні та цікаві речі."]
+			id: "25A9FD3C44185B12"
+			rewards: [
+				{
+					id: "0071A957DDDA5CED"
+					type: "xp"
+					xp: 100
+				}
+				{
+					id: "20F082CB68C51839"
+					item: "alexscaves:telecore"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "10B195B250906E57"
+				item: "alexscaves:scarlet_magnet"
+				type: "item"
+			}]
+			x: -8.5d
+			y: 15.0d
+		}
+		{
+			dependencies: ["1AF0866A8C2CFCA8"]
+			description: ["З &cчервоних&r та &9лазурових&r магнітів можна створювати різні корисні та цікаві речі."]
+			id: "331A37777C92793B"
+			rewards: [
+				{
+					id: "288A43DFF32633F5"
+					type: "xp"
+					xp: 100
+				}
+				{
+					id: "301231F4D0F27747"
+					item: "alexscaves:notor_gizmo"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "030CA1C342E966CD"
+				item: "alexscaves:azure_magnet"
+				type: "item"
+			}]
+			x: -10.5d
+			y: 13.5d
+		}
+		{
+			dependencies: ["13FE27F2483D112C"]
+			description: ["У первісних печерах росте дерево араукарії. На ньому можна знайти смачні горіхи."]
+			icon: "alexscaves:pewen_branch"
+			id: "6BFDAA5B3D799150"
+			rewards: [{
+				id: "44F7E8A86FE17199"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [
+				{
+					id: "4507BA1469BE9EB1"
+					item: "alexscaves:pewen_log"
+					type: "item"
+				}
+				{
+					id: "1E341E3E959E2690"
+					item: "alexscaves:pine_nuts"
+					type: "item"
+				}
+			]
+			title: "Дерево Араукарія"
+			x: -12.0d
+			y: 10.5d
+		}
+		{
+			dependencies: ["13FE27F2483D112C"]
+			description: ["З місцевого каменю &eвапняку&r можна створити зброю дальнього та ближнього бою — спис."]
+			id: "217123F78C8C807C"
+			rewards: [{
+				id: "58EA748CABBDAEEC"
+				type: "xp"
+				xp: 300
+			}]
+			tasks: [{
+				id: "1912A83596AA6D4F"
+				item: "alexscaves:limestone_spear"
+				type: "item"
+			}]
+			x: -14.0d
+			y: 9.5d
+		}
+		{
+			dependencies: ["13FE27F2483D112C"]
+			description: ["У місцевих покинутих таборах ви можете знайти шкіру, з якої можна створити комплект первісної броні."]
+			icon: "alexscaves:heavy_bone"
+			id: "03A7A2C805212F63"
+			rewards: [{
+				id: "226434311F4F09B3"
+				type: "xp"
+				xp: 400
+			}]
+			tasks: [
+				{
+					id: "3E88AAA31727E82C"
+					item: "alexscaves:tough_hide"
+					type: "item"
+				}
+				{
+					id: "6B0CB51A8D2F602A"
+					item: "alexscaves:heavy_bone"
+					type: "item"
+				}
+				{
+					id: "4D736625E922B385"
+					item: "alexscaves:amber_curiosity"
+					type: "item"
+				}
+			]
+			x: -12.0d
+			y: 8.5d
+		}
+		{
+			dependencies: ["03A7A2C805212F63"]
+			description: ["Створіть &eпервісну&r броню."]
+			hide_dependency_lines: true
+			id: "651EA35917084F06"
+			rewards: [
+				{
+					id: "215B855386C0E55A"
+					type: "xp"
+					xp: 500
+				}
+				{
+					id: "030FC96F02B1D458"
+					item: "alexscaves:cooked_dinosaur_chop"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "5F94476168CC091A"
+				item: {
+					Count: 1
+					id: "alexscaves:primordial_helmet"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -15.0d
+			y: 8.0d
+		}
+		{
+			dependencies: ["03A7A2C805212F63"]
+			description: ["Створіть &eпервісну&r броню."]
+			hide_dependency_lines: true
+			id: "7EF060B2F3F60197"
+			rewards: [
+				{
+					id: "05A4DBF5FC906F8E"
+					type: "xp"
+					xp: 500
+				}
+				{
+					id: "6F4BE848D5CCA906"
+					item: "alexscaves:cooked_dinosaur_chop"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "076A54981C95E6B7"
+				item: {
+					Count: 1
+					id: "alexscaves:primordial_tunic"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -16.0d
+			y: 9.5d
+		}
+		{
+			dependencies: ["03A7A2C805212F63"]
+			description: ["Створіть &eпервісну&r броню."]
+			hide_dependency_lines: true
+			id: "659E1EE75343D327"
+			rewards: [
+				{
+					id: "23D180C3E17462E2"
+					type: "xp"
+					xp: 500
+				}
+				{
+					id: "1869FDE6675738EF"
+					item: "alexscaves:cooked_dinosaur_chop"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "0F18BF60070453E4"
+				item: {
+					Count: 1
+					id: "alexscaves:primordial_pants"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -15.0d
+			y: 11.0d
+		}
+		{
+			dependencies: [
+				"03A7A2C805212F63"
+				"6BFDAA5B3D799150"
+			]
+			description: ["Вбиваючи місцевих жителів, ви отримуватимете різні ресурси, з яких можна створити &eсмачну&r їжу..."]
+			hide_dependency_lines: true
+			icon: "alexscaves:seething_stew"
+			id: "7F2042C72171EFEA"
+			rewards: [{
+				id: "61ABC5614E296072"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [
+				{
+					id: "6E239B3777F0F81A"
+					item: "alexscaves:serene_salad"
+					type: "item"
+				}
+				{
+					id: "020EA01C6A92DACB"
+					item: "alexscaves:primordial_soup"
+					type: "item"
+				}
+				{
+					id: "4D6C8613DC455046"
+					item: "alexscaves:dinosaur_nugget"
+					type: "item"
+				}
+				{
+					id: "715F95600434D98A"
+					item: "alexscaves:seething_stew"
+					type: "item"
+				}
+			]
+			title: "Печерна їжа"
+			x: -13.5d
+			y: 12.0d
+		}
+		{
+			dependencies: ["6EB8D1C82A0C63F0"]
+			description: [
+				"У токсичних печерах ви зможете зустріти &aуран&r, який випромінює сильну радіацію."
+				"\"Волтере, прибери свій уран подалі, Волтере\""
+			]
+			icon: "alexscaves:uranium"
+			id: "1AB3414273A18FD1"
+			rewards: [{
+				id: "02DFD41CFA6BB9D8"
+				type: "xp"
+				xp: 200
+			}]
+			tasks: [
+				{
+					id: "4708AC3B608442BF"
+					item: "alexscaves:uranium"
+					type: "item"
+				}
+				{
+					id: "4F4C38AFB0E73EB6"
+					item: "alexscaves:sulfur_dust"
+					type: "item"
+				}
+				{
+					id: "2D7B5F9C9C840313"
+					item: "alexscaves:radon_bottle"
+					type: "item"
+				}
+			]
+			title: "Радіоактивні матеріали"
+			x: -1.0d
+			y: 9.0d
+		}
+		{
+			dependencies: ["1AB3414273A18FD1"]
+			description: ["Створіть &aполімерну&r пластину."]
+			id: "3B08D63022E8D6A7"
+			rewards: [{
+				id: "65C028B94FDFF261"
+				type: "xp"
+				xp: 500
+			}]
+			tasks: [{
+				id: "46F3BC5CAA9B6CF0"
+				item: "alexscaves:polymer_plate"
+				type: "item"
+			}]
+			x: -1.0d
+			y: 7.0d
+		}
+		{
+			dependencies: ["3B08D63022E8D6A7"]
+			description: [
+				"Створіть костюм &eхімзахисту&r."
+				"\"Ми робимо збірку, Джессі\" — Стеф Вайт"
+			]
+			id: "3DA4F9C4BFF85392"
+			rewards: [
+				{
+					id: "31EA86D5F3CE04DD"
+					type: "xp"
+					xp: 500
+				}
+				{
+					id: "3FA95EF6BCDDD47F"
+					item: "alexscaves:radgill_bucket"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "4733F2EE513A0E0A"
+				item: {
+					Count: 1
+					id: "alexscaves:hazmat_mask"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 1.0d
+			y: 6.5d
+		}
+		{
+			dependencies: ["3B08D63022E8D6A7"]
+			description: [
+				"Створіть костюм &eхімзахисту&r."
+				"\"Ми робимо збірку, Джессі\" — Стеф Вайт"
+			]
+			id: "2B98A58B036E1D9E"
+			rewards: [
+				{
+					id: "2A48203DBE35342E"
+					type: "xp"
+					xp: 500
+				}
+				{
+					id: "02E63874D9D13CA5"
+					item: "alexscaves:green_soylent"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "1EBE5B8A06E5E8AD"
+				item: {
+					Count: 1
+					id: "alexscaves:hazmat_chestplate"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 0.0d
+			y: 5.5d
+		}
+		{
+			dependencies: ["3B08D63022E8D6A7"]
+			description: [
+				"Створіть костюм &eхімзахисту&r."
+				"\"Ми робимо збірку, Джессі\" — Стеф Вайт"
+			]
+			id: "3576A3E476D545DE"
+			rewards: [
+				{
+					id: "232A5CED96A8FB53"
+					type: "xp"
+					xp: 500
+				}
+				{
+					id: "51AF3D9ABF218C06"
+					item: "alexscaves:hazmat_skull_block"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "0F6FB902B49BBC9D"
+				item: {
+					Count: 1
+					id: "alexscaves:hazmat_leggings"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -2.0d
+			y: 5.5d
+		}
+		{
+			dependencies: ["3B08D63022E8D6A7"]
+			description: [
+				"Створіть костюм &eхімзахисту&r."
+				"\"Ми робимо збірку, Джессі\" — Стеф Вайт"
+			]
+			id: "07876A2F43E796CF"
+			rewards: [
+				{
+					id: "2FAA3EB787857025"
+					type: "xp"
+					xp: 500
+				}
+				{
+					id: "307C8FA1A5FD1EE2"
+					item: "alexscaves:siren_light"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "7CDAA7300F7D17C7"
+				item: {
+					Count: 1
+					id: "alexscaves:hazmat_boots"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -3.0d
+			y: 6.5d
+		}
+		{
+			dependencies: ["525B255172C03A7E"]
+			description: ["З монстрів &4забутих порожнеч&r можна отримувати різні предмети, які стануть у пригоді в наступних крафтах."]
+			icon: "alexscaves:moth_dust"
+			id: "641BB9E51338D0CC"
+			rewards: [{
+				id: "5ED2F6E1E5C4F2D3"
+				type: "xp"
+				xp: 200
+			}]
+			tasks: [
+				{
+					id: "786DA762A49F5F0D"
+					item: "alexscaves:moth_dust"
+					type: "item"
+				}
+				{
+					id: "0045FA8D606E1A64"
+					item: "alexscaves:fertilizer"
+					type: "item"
+				}
+			]
+			title: "Шматочки комах"
+			x: -9.5d
+			y: 5.0d
+		}
+		{
+			dependencies: ["525B255172C03A7E"]
+			description: ["З монстрів &4забутих порожнеч&r, можна отримувати різні предмети, які стануть у пригоді в наступних крафтах."]
+			hide_dependency_lines: true
+			id: "633851529C3BB554"
+			rewards: [{
+				id: "6E6BAB5C81815867"
+				type: "xp"
+				xp: 200
+			}]
+			tasks: [{
+				id: "373568CE00C1BFDC"
+				item: "alexscaves:occult_gem"
+				type: "item"
+			}]
+			x: -14.5d
+			y: 5.0d
+		}
+		{
+			dependencies: ["525B255172C03A7E"]
+			description: ["З монстрів &4забутих порожнеч&r можна отримувати різні предмети, які стануть у пригоді в наступних крафтах."]
+			id: "329A84D396DD4DC6"
+			rewards: [{
+				id: "5389F30E173C7C2E"
+				type: "xp"
+				xp: 200
+			}]
+			tasks: [{
+				id: "76221C899C104553"
+				item: "alexscaves:dark_tatters"
+				type: "item"
+			}]
+			x: -11.0d
+			y: 7.5d
+		}
+		{
+			dependencies: ["525B255172C03A7E"]
+			description: ["Переможіть міні-боса, що живе в забутих порожнечах, і отримайте &4первородну темряву&r."]
+			id: "7E67F5E432F705E5"
+			rewards: [
+				{
+					id: "41D0E0EA283DAB0E"
+					type: "xp"
+					xp: 1500
+				}
+				{
+					id: "0F25A5C61309D3F2"
+					item: {
+						Count: 1
+						id: "irons_spellbooks:scroll"
+						tag: {
+							ISB_Spells: {
+								data: [{
+									id: "irons_spellbooks:heartstop"
+									index: 0
+									level: 10
+									locked: 1b
+								}]
+								maxSpells: 1
+								mustEquip: 0b
+								spellWheel: 0b
+							}
+						}
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "0FC9EAC93EBB9EC5"
+				item: "alexscaves:pure_darkness"
+				type: "item"
+			}]
+			x: -11.5d
+			y: 5.5d
+		}
+		{
+			dependencies: ["7E67F5E432F705E5"]
+			description: ["Об'єднайте первородну темряву з яблуком і отримайте &4яблуко темряви&r."]
+			icon: "alexscaves:darkened_apple"
+			id: "72B084925FDCDF1B"
+			rewards: [
+				{
+					id: "40BE841BA0952675"
+					type: "xp"
+					xp: 500
+				}
+				{
+					id: "655B1D809581CB1F"
+					item: {
+						Count: 1
+						id: "irons_spellbooks:scroll"
+						tag: {
+							ISB_Spells: {
+								data: [{
+									id: "irons_spellbooks:blood_needles"
+									index: 0
+									level: 7
+									locked: 1b
+								}]
+								maxSpells: 1
+								mustEquip: 0b
+								spellWheel: 0b
+							}
+						}
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					id: "336AB0114EBF77A6"
+					item: "alexscaves:darkened_apple"
+					type: "item"
+				}
+				{
+					id: "620721313B2E2B7C"
+					item: "alexscaves:vesper_stew"
+					type: "item"
+				}
+			]
+			title: "Страшна їжа"
+			x: -12.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["7E67F5E432F705E5"]
+			description: ["Об'єднайте різні ресурси, щоб отримати &4тіньовий шовк&r і використати його у створенні спорядження."]
+			id: "158EA0D37DBD148B"
+			rewards: [{
+				id: "1B319251ED34E40F"
+				type: "xp"
+				xp: 200
+			}]
+			tasks: [{
+				id: "2F354993B289CD00"
+				item: "alexscaves:shadow_silk"
+				type: "item"
+			}]
+			x: -13.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["158EA0D37DBD148B"]
+			description: ["Створіть комплект &4броні&r, а також &4лук&r із тіньового шовку та інших ресурсів &4забутих порожнеч&r."]
+			id: "03D44ED78095418F"
+			rewards: [{
+				id: "74CC217DC669C5E0"
+				type: "xp"
+				xp: 500
+			}]
+			tasks: [{
+				id: "720505DE0E3FCBC7"
+				item: {
+					Count: 1
+					id: "alexscaves:hood_of_darkness"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -15.5d
+			y: 3.5d
+		}
+		{
+			dependencies: ["158EA0D37DBD148B"]
+			description: ["Створіть комплект &4броні&r, а також &4лук&r із тіньового шовку та інших ресурсів &4забутих порожнеч&r."]
+			id: "4B656D6D4F32D64E"
+			rewards: [{
+				id: "332583599763CD37"
+				type: "xp"
+				xp: 500
+			}]
+			tasks: [{
+				id: "4EF7CA8B65CD8A44"
+				item: {
+					Count: 1
+					id: "alexscaves:cloak_of_darkness"
+					tag: {
+						CanCharge: 1b
+						CloakCharge: 13
+						Damage: 0
+						LastEquipMessageTime: 84659L
+						LastLightTimestamp: 84670L
+					}
+				}
+				type: "item"
+			}]
+			x: -14.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["158EA0D37DBD148B"]
+			description: ["Створіть комплект &4броні&r, а також &4лук&r із тіньового шовку та інших ресурсів &4забутих порожнеч&r."]
+			icon: {
+				Count: 1
+				id: "alexscaves:dreadbow"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "49D7C5EE6E5F3DBB"
+			rewards: [
+				{
+					id: "0AFB28BFA165421D"
+					type: "xp"
+					xp: 500
+				}
+				{
+					count: 32
+					id: "1D36CD9F52AAC2C3"
+					item: "alexscaves:seeking_arrow"
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					id: "07D513B796DBE98A"
+					item: {
+						Count: 1
+						id: "alexscaves:dreadbow"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					count: 8L
+					id: "0E5E087F18BEFACE"
+					item: { Count: 8, id: "alexscaves:burrowing_arrow" }
+					type: "item"
+				}
+			]
+			title: "Моторошна зброя"
+			x: -15.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["59747E4FED7FF46F"]
+			description: ["Делікатес для багатих"]
+			icon: "alexscaves:mussel"
+			id: "402245A432850997"
+			rewards: [{
+				id: "6D62CDE6876C7B4B"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [
+				{
+					id: "271AF177DCBF6D6A"
+					item: "alexscaves:mussel"
+					type: "item"
+				}
+				{
+					id: "301064916CD6CBE0"
+					item: "alexscaves:cooked_mussel"
+					type: "item"
+				}
+			]
+			title: "Мідії"
+			x: -4.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["59747E4FED7FF46F"]
+			description: ["У бункерах підводної безодні ви зможете знайти &6водолазні костюми&r, щоб швидше і зручніше пересуватися під &bводою&r."]
+			icon: {
+				Count: 1
+				id: "alexscaves:diving_helmet"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "42B5FA94E571CC7E"
+			rewards: [
+				{
+					id: "2770A2F61282BB07"
+					type: "xp"
+					xp: 300
+				}
+				{
+					id: "3922BF2D15F3C0A2"
+					item: {
+						Count: 1
+						id: "alexscaves:ortholance"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					id: "29BEB46BA1859386"
+					item: {
+						Count: 1
+						id: "alexscaves:diving_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "73C983C14CDCBA25"
+					item: {
+						Count: 1
+						id: "alexscaves:diving_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "1AA2DBE9F4960064"
+					item: {
+						Count: 1
+						id: "alexscaves:diving_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "3B359EEFC91C9CF9"
+					item: {
+						Count: 1
+						id: "alexscaves:diving_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "20 тисяч блоків під водою!"
+			x: -6.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["59747E4FED7FF46F"]
+			description: ["Створіть &9глибоководні&r суші."]
+			id: "4F01823ED05E226D"
+			rewards: [{
+				id: "51BC8E4EB99FD8B9"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "03A3CAB89AC1B932"
+				item: "alexscaves:deep_sea_sushi_roll"
+				type: "item"
+			}]
+			title: "Глибоководні суші"
+			x: -8.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["59747E4FED7FF46F"]
+			description: ["Отримайте всіляку зброю з морської безодні."]
+			icon: {
+				Count: 1
+				id: "alexscaves:ortholance"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "5C27111CCD5A67DA"
+			rewards: [{
+				id: "7C3DE01DD68F0ACA"
+				type: "xp"
+				xp: 750
+			}]
+			tasks: [
+				{
+					id: "12F2416A20AAEECF"
+					item: {
+						Count: 1
+						id: "alexscaves:sea_staff"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "747B76DBE798EFC7"
+					item: {
+						Count: 1
+						id: "alexscaves:ortholance"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "479FE5C1CF51989A"
+					item: {
+						Count: 1
+						id: "alexscaves:magic_conch"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Глибинна зброя"
+			x: -6.0d
+			y: 2.0d
+		}
+		{
+			description: ["Відправляйтеся в глибини найвіддаленіших печер цього світу з модом &2Alex's Caves&f. На вас чекає незабутня пригода, купа скарбів і серйозні випробування."]
+			id: "572B673C0CBC834D"
+			rewards: [{
+				id: "296D3B7200D461A9"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "6BBDD2A53E6CF7E0"
+				type: "checkmark"
+			}]
+			title: "Alex's Caves"
+			x: -5.0d
+			y: 10.5d
+		}
+		{
+			description: [
+				"Caverns and Chasms додає багато цікавих і корисних речей, пов'язаних з печерами."
+				"Від нових відер до потужної броні."
+			]
+			id: "10230B3BB466CD28"
+			rewards: [{
+				id: "15ADB7338A41B325"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "16C06E80886F88E6"
+				type: "checkmark"
+			}]
+			title: "Caverns and Chasms"
+			x: -4.0d
+			y: 13.5d
+		}
+		{
+			dependencies: ["10230B3BB466CD28"]
+			description: ["З цих певною мірою дивних матеріалів можна створити багато цікавих речей."]
+			icon: "caverns_and_chasms:raw_silver"
+			id: "0148232307C5D524"
+			rewards: [{
+				id: "7DADE7B171258C86"
+				type: "xp"
+				xp: 200
+			}]
+			tasks: [
+				{
+					id: "02A0547AEA3B7A22"
+					item: "caverns_and_chasms:raw_silver"
+					type: "item"
+				}
+				{
+					id: "54FBD243B133B573"
+					item: "caverns_and_chasms:spinel"
+					type: "item"
+				}
+				{
+					id: "304E6219B7811095"
+					item: "caverns_and_chasms:living_flesh"
+					type: "item"
+				}
+			]
+			title: "Матеріали Caverns and Chasms"
+			x: -2.5d
+			y: 13.0d
+		}
+		{
+			dependencies: ["0148232307C5D524"]
+			description: ["Зі срібла можна зробити броню і зброю, включаючи метальні ножі."]
+			icon: {
+				Count: 1
+				id: "caverns_and_chasms:silver_helmet"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "27D639418E232980"
+			rewards: [{
+				id: "0D4C7AC89A3D3BDC"
+				type: "xp"
+				xp: 750
+			}]
+			tasks: [
+				{
+					id: "6F0BCC77EC022C3F"
+					item: {
+						Count: 1
+						id: "caverns_and_chasms:silver_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "4304C04E660BBD1B"
+					item: {
+						Count: 1
+						id: "caverns_and_chasms:silver_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "79384F6FD2FEF846"
+					item: {
+						Count: 1
+						id: "caverns_and_chasms:silver_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "05B02C8C195F640D"
+					item: {
+						Count: 1
+						id: "caverns_and_chasms:silver_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					count: 16L
+					id: "50150EC19B267C3C"
+					item: { Count: 16, id: "caverns_and_chasms:kunai" }
+					type: "item"
+				}
+				{
+					id: "5EAA3BABFCC2960A"
+					item: {
+						Count: 1
+						id: "caverns_and_chasms:silver_sword"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Срібне спорядження"
+			x: -2.0d
+			y: 15.0d
+		}
+		{
+			dependencies: ["0148232307C5D524"]
+			description: ["З міді можна зробити ящик, в який можна покласти до 9 різних інструментів, у тому числі срібних."]
+			icon: {
+				Count: 1
+				id: "caverns_and_chasms:silver_pickaxe"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "6B15F03E2B2FE389"
+			rewards: [{
+				id: "79BC5D773E3564A3"
+				type: "xp"
+				xp: 500
+			}]
+			tasks: [
+				{
+					id: "73C7AF485AA2A4A5"
+					item: {
+						Count: 1
+						id: "caverns_and_chasms:silver_shovel"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "4574896DB7BD1CEC"
+					item: {
+						Count: 1
+						id: "caverns_and_chasms:silver_axe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "1C63E370B4877A4A"
+					item: {
+						Count: 1
+						id: "caverns_and_chasms:silver_pickaxe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "254D2AA72F7A7152"
+					item: "caverns_and_chasms:toolbox"
+					type: "item"
+				}
+			]
+			title: "Срібні інструменти"
+			x: -0.5d
+			y: 13.5d
+		}
+		{
+			dependencies: ["0148232307C5D524"]
+			description: ["Предмети, які полегшать ваше перебування в печерах."]
+			icon: "caverns_and_chasms:barometer"
+			id: "0B537911C795E4B6"
+			rewards: [{
+				id: "48E910703C200D67"
+				type: "xp"
+				xp: 500
+			}]
+			tasks: [
+				{
+					id: "3101822CB38BA4EC"
+					item: {
+						Count: 1
+						id: "caverns_and_chasms:tuning_fork"
+						tag: { }
+					}
+					type: "item"
+				}
+				{
+					id: "6B5C5F409FE5B298"
+					item: "caverns_and_chasms:barometer"
+					type: "item"
+				}
+				{
+					id: "15C17B0D0D31C8FE"
+					item: "caverns_and_chasms:depth_gauge"
+					type: "item"
+				}
+				{
+					id: "763D5A45C62F57DC"
+					item: {
+						Count: 1
+						id: "caverns_and_chasms:golden_bucket"
+						tag: { }
+					}
+					type: "item"
+				}
+			]
+			title: "Печерні механізми"
+			x: -0.5d
+			y: 15.0d
+		}
+		{
+			dependencies: ["0148232307C5D524"]
+			description: ["З живої плоті можна зробити броню і цікаве яблуко."]
+			hide_dependency_lines: true
+			icon: {
+				Count: 1
+				id: "caverns_and_chasms:sanguine_helmet"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "2ED9D03CC91C36D5"
+			rewards: [
+				{
+					id: "26AF17C9054D4136"
+					type: "xp"
+					xp: 1000
+				}
+				{
+					count: 64
+					id: "25B4AA8B877EF613"
+					item: "minecraft:rotten_flesh"
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					id: "3E60316FD9D8F7BF"
+					item: {
+						Count: 1
+						id: "caverns_and_chasms:sanguine_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "78F219C7B2B55796"
+					item: {
+						Count: 1
+						id: "caverns_and_chasms:sanguine_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "6AECD9168C00ADE1"
+					item: {
+						Count: 1
+						id: "caverns_and_chasms:sanguine_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "1BCAECBE99DEE8C0"
+					item: {
+						Count: 1
+						id: "caverns_and_chasms:sanguine_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "60BC9066AC08E6BD"
+					item: "caverns_and_chasms:bejeweled_apple"
+					type: "item"
+				}
+			]
+			title: "Броня з плоті"
+			x: -2.0d
+			y: 17.0d
+		}
+		{
+			dependencies: ["0148232307C5D524"]
+			description: ["Почуття стилю ніхто не скасовував."]
+			hide_dependency_lines: true
+			icon: "caverns_and_chasms:lava_lamp"
+			id: "6875AAE9522D7660"
+			rewards: [
+				{
+					id: "5AE3468AB7E60CDE"
+					item: "herbalbrews:copper_tea_kettle"
+					type: "item"
+				}
+				{
+					id: "6FF31E6AFEFD967D"
+					type: "xp"
+					xp: 500
+				}
+			]
+			tasks: [
+				{
+					id: "73AC1A80FC18FEEE"
+					item: "caverns_and_chasms:copper_bars"
+					type: "item"
+				}
+				{
+					id: "23D8E760F47F3261"
+					item: "caverns_and_chasms:floodlight"
+					type: "item"
+				}
+				{
+					id: "3EB99D42B6B292A0"
+					item: "caverns_and_chasms:lava_lamp"
+					type: "item"
+				}
+				{
+					id: "63B00472BD5158E6"
+					item: "caverns_and_chasms:brazier"
+					type: "item"
+				}
+			]
+			title: "Печерні декорації"
+			x: 1.5d
+			y: 13.5d
+		}
+		{
+			description: ["Перед тобою головоріз — у тебе в сердечку стрес."]
+			id: "42A9CCB89967F126"
+			invisible: true
+			rewards: [
+				{
+					id: "4285D148EE440C8A"
+					item: {
+						Count: 1
+						id: "savage_and_ravage:cleaver_of_beheading"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "4E1A896C2AA35806"
+					type: "xp"
+					xp: 2500
+				}
+			]
+			shape: "hexagon"
+			size: 2.0d
+			tasks: [
+				{
+					id: "073A521252A7BAE0"
+					item: "caverns_and_chasms:mime_head"
+					type: "item"
+				}
+				{
+					id: "46ACB52276D56D04"
+					item: "caverns_and_chasms:deeper_head"
+					type: "item"
+				}
+				{
+					id: "6CE6E18B1E296407"
+					item: "caverns_and_chasms:peeper_head"
+					type: "item"
+				}
+			]
+			title: "Головоріз"
+			x: 2.0d
+			y: 17.0d
+		}
+		{
+			dependencies: ["55E245DFAC86BC77"]
+			description: ["З некрому можна зробити броню і потужну зброю."]
+			icon: {
+				Count: 1
+				id: "caverns_and_chasms:necromium_helmet"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "727FB7F7A159DFDF"
+			rewards: [{
+				id: "5F09E376BEF6629E"
+				type: "xp"
+				xp: 1000
+			}]
+			tasks: [
+				{
+					id: "1CAC66BD96A333BC"
+					item: {
+						Count: 1
+						id: "caverns_and_chasms:necromium_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "7ABCCB0DAB6F2969"
+					item: {
+						Count: 1
+						id: "caverns_and_chasms:necromium_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "24EB1A4E7D5EDBCC"
+					item: {
+						Count: 1
+						id: "caverns_and_chasms:necromium_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "1476861E89AED3C5"
+					item: {
+						Count: 1
+						id: "caverns_and_chasms:necromium_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "357E2E513D5E2BBC"
+					item: {
+						Count: 1
+						id: "caverns_and_chasms:necromium_sword"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: -4.0d
+			y: 19.0d
+		}
+		{
+			dependencies: ["55E245DFAC86BC77"]
+			description: ["З некрому можна зробити міцні та ефективні інструменти."]
+			icon: {
+				Count: 1
+				id: "caverns_and_chasms:necromium_pickaxe"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "2191CEB9D0802C27"
+			rewards: [{
+				id: "3A408409516D78A0"
+				type: "xp"
+				xp: 1500
+			}]
+			tasks: [
+				{
+					id: "3C20A9771CEAF4F6"
+					item: {
+						Count: 1
+						id: "caverns_and_chasms:necromium_shovel"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "0E982D2E1A2951B5"
+					item: {
+						Count: 1
+						id: "caverns_and_chasms:necromium_pickaxe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "14739B46835B83D0"
+					item: {
+						Count: 1
+						id: "caverns_and_chasms:necromium_axe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "05F49A7B638C0AEC"
+					item: {
+						Count: 1
+						id: "caverns_and_chasms:necromium_hoe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Некромієві інструменти"
+			x: -6.0d
+			y: 17.0d
+		}
+		{
+			dependencies: [
+				"3A39842BDBE00DB3"
+				"1AF0866A8C2CFCA8"
+			]
+			description: ["Надтехнологічна зброя загиблої цивілізації, створена за допомогою принципів магнетизму."]
+			hide_dependency_lines: true
+			icon: {
+				Count: 1
+				id: "alexscaves:resistor_shield"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "00FBA16647C07786"
+			rewards: [{
+				id: "2377653165262507"
+				type: "xp"
+				xp: 2000
+			}]
+			tasks: [
+				{
+					id: "626AAE7BD0897374"
+					item: {
+						Count: 1
+						id: "alexscaves:galena_gauntlet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "53C46023772B3AF8"
+					item: {
+						Count: 1
+						id: "alexscaves:resistor_shield"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "4F649EFFE23DC5E2"
+					item: "alexscaves:tesla_bulb"
+					type: "item"
+				}
+			]
+			x: -12.0d
+			y: 17.0d
+		}
+		{
+			dependencies: ["01B2B0B4C6110AC2"]
+			description: ["Смертоносна зброя епох, що пішли."]
+			icon: {
+				Count: 1
+				id: "alexscaves:extinction_spear"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "357FAEECCD7CCB67"
+			rewards: [{
+				id: "6FEB89C7F11662E0"
+				type: "xp"
+				xp: 1000
+			}]
+			tasks: [
+				{
+					id: "6F87B2AEC7374B77"
+					item: {
+						Count: 1
+						id: "alexscaves:primitive_club"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "46052B1CE8E345FF"
+					item: {
+						Count: 1
+						id: "alexscaves:extinction_spear"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Первісна зброя"
+			x: -20.0d
+			y: 9.5d
+		}
+		{
+			dependencies: ["525B255172C03A7E"]
+			description: ["Предмети, що випадають з монстрів &4забутих порожнеч."]
+			hide_dependency_lines: true
+			icon: {
+				Count: 1
+				id: "alexscaves:desolate_dagger"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "12BFF8C9730DB66F"
+			rewards: [{
+				id: "5D9F2FCE22259C5A"
+				type: "xp"
+				xp: 1000
+			}]
+			tasks: [{
+				id: "63D6207C6150EDCC"
+				item: {
+					Count: 1
+					id: "alexscaves:desolate_dagger"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			title: "Ритуальна зброя"
+			x: -17.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["59747E4FED7FF46F"]
+			description: ["Бомби з чорнила спрутів."]
+			hide_dependency_lines: true
+			icon: "alexscaves:glow_ink_bomb"
+			id: "5E7AF7CD58AEB1CD"
+			rewards: [{
+				id: "496FAFB5D20B544B"
+				type: "xp"
+				xp: 300
+			}]
+			tasks: [
+				{
+					id: "5A4F3C3AF6538C58"
+					item: "alexscaves:ink_bomb"
+					type: "item"
+				}
+				{
+					id: "236BFE685DF6826E"
+					item: "alexscaves:glow_ink_bomb"
+					type: "item"
+				}
+			]
+			title: "Глибинні бомби"
+			x: -7.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["40B20CED5F5F034A"]
+			description: ["Найрідкісніші речі підводної безодні."]
+			icon: "alexscaves:immortal_embryo"
+			id: "41A1EAE9CF93D9C6"
+			rewards: [{
+				id: "05C8B433E750F916"
+				type: "xp"
+				xp: 5000
+			}]
+			tasks: [
+				{
+					id: "78EA5CA20A6A70DD"
+					item: "alexscaves:immortal_embryo"
+					type: "item"
+				}
+				{
+					id: "5746AA0E350BB435"
+					item: {
+						Count: 1
+						id: "alexscaves:gazing_pearl"
+						tag: {
+							HasReputation: 1b
+							LastReputationTimestamp: 221890L
+							Reputation: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "524744CE44C8D550"
+					item: "alexscaves:enigmatic_engine"
+					type: "item"
+				}
+			]
+			title: "Підводні скарби"
+			x: -6.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["40B20CED5F5F034A"]
+			description: ["Стародавня технологія, що дозволяє нескінченно плавати під водою."]
+			id: "12C40FEBB4BD40CE"
+			rewards: [{
+				id: "4B7BF072BCFBB911"
+				type: "xp"
+				xp: 2000
+			}]
+			tasks: [{
+				id: "5AEF68C6571A14A6"
+				item: "alexscaves:submarine"
+				type: "item"
+			}]
+			x: -4.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["6EB8D1C82A0C63F0"]
+			description: ["Ці опромінені радіацією речі випадають з моторошних монстрів токсичних печер."]
+			hide_dependency_lines: true
+			icon: "alexscaves:fissile_core"
+			id: "05774552286C1F73"
+			rewards: [
+				{
+					id: "688C904D2A1BB05F"
+					type: "xp"
+					xp: 500
+				}
+				{
+					id: "310FE6A9C99E4EFD"
+					item: "alexscaves:waste_drum"
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					id: "5CF51B8D94E2E18A"
+					item: "alexscaves:charred_remnant"
+					type: "item"
+				}
+				{
+					id: "147A85AE67F725B6"
+					item: "alexscaves:fissile_core"
+					type: "item"
+				}
+			]
+			title: "Радіоактивні технології"
+			x: 0.5d
+			y: 8.0d
+		}
+		{
+			dependencies: ["3B08D63022E8D6A7"]
+			description: ["Зброя, заснована на явищі радіоактивності."]
+			icon: "alexscaves:raygun"
+			id: "3EEDC2C14BD73F44"
+			rewards: [{
+				id: "3974F434C40DF8FE"
+				type: "xp"
+				xp: 1000
+			}]
+			tasks: [
+				{
+					id: "10096AEB40EE078B"
+					item: "alexscaves:remote_detonator"
+					type: "item"
+				}
+				{
+					id: "09F66FFF7DD9F144"
+					item: {
+						Count: 1
+						id: "alexscaves:raygun"
+						tag: { }
+					}
+					type: "item"
+				}
+			]
+			title: "Ядерна міць"
+			x: -1.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["6EB8D1C82A0C63F0"]
+			description: ["Їжа, яку можна знайти в покинутих бункерах токсичних печер. Допомагає регенерувати при опроміненні."]
+			hide_dependency_lines: true
+			icon: "alexscaves:slam"
+			id: "2DE4C3DE6FC87007"
+			rewards: [{
+				id: "1E12E0E0404BBBFA"
+				type: "xp"
+				xp: 500
+			}]
+			tasks: [
+				{
+					id: "2C1D547E0DDADDB8"
+					item: "alexscaves:slam"
+					type: "item"
+				}
+				{
+					id: "43DEEAC295B468C2"
+					item: "alexscaves:spelunkie"
+					type: "item"
+				}
+				{
+					id: "154EDB4DA015F972"
+					item: "alexscaves:green_soylent"
+					type: "item"
+				}
+			]
+			title: "Радіоактивна їжа"
+			x: 0.5d
+			y: 9.5d
+		}
+		{
+			dependencies: ["0148232307C5D524"]
+			description: ["Некром — це сплав срібла і незериту, що робить його дуже міцним."]
+			hide_dependency_lines: true
+			id: "55E245DFAC86BC77"
+			rewards: [{
+				id: "75C5D9384BE4A994"
+				type: "xp"
+				xp: 750
+			}]
+			tasks: [{
+				id: "7042B4E1FAD1AFE4"
+				item: "caverns_and_chasms:necromium_ingot"
+				type: "item"
+			}]
+			title: "Некром"
+			x: -4.0d
+			y: 17.0d
+		}
+		{
+			dependencies: ["59747E4FED7FF46F"]
+			description: ["Вбийте кораблетрощівника — жахливого монстра, що живе в підводній безодні."]
+			icon: "alexscaves:depth_charge"
+			id: "40B20CED5F5F034A"
+			rewards: [{
+				id: "7BA1CEA2A323F92E"
+				type: "xp"
+				xp: 3000
+			}]
+			tasks: [{
+				entity: "alexscaves:hullbreaker"
+				icon: "aquamirae:ship_graveyard_echo"
+				id: "4B4ED961188746FC"
+				title: "&5Переможіть: &r Кораблетрощівника"
+				type: "kill"
+				value: 1L
+			}]
+			title: "Гроза морів"
+			x: -6.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["13FE27F2483D112C"]
+			description: ["Люкструктозавр — стародавній монстр, що живе у вулканах первісних печер."]
+			icon: "alexscaves:tectonic_shard"
+			id: "01B2B0B4C6110AC2"
+			rewards: [
+				{
+					id: "057BA56CC4FD9824"
+					type: "xp"
+					xp: 4000
+				}
+				{
+					id: "6860F6FFB703A7AB"
+					item: "artifacts:fire_gauntlet"
+					type: "item"
+				}
+			]
+			tasks: [{
+				entity: "alexscaves:luxtructosaurus"
+				icon: "alexscaves:primal_magma"
+				id: "2F09A52CE0D91D67"
+				title: "&4Переможіть:&r Люкструктозавра"
+				type: "kill"
+				value: 1L
+			}]
+			title: "Велике вимирання"
+			x: -18.0d
+			y: 9.5d
+		}
+	]
+	title: "&d4.2&r: &lПідземелля"
+}

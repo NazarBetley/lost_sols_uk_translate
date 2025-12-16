@@ -1,0 +1,31 @@
+{
+    "name": "Передвісник",
+    "icon": "cataclysm:witherite_block",
+    "sortnum": 9,
+    "category": "patchouli:boss_category",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Щоб знайти цього боса, потрібно скрафтити $(#9065E5)Меха-Око$(). З цього боса випадає одне з очей для Краю."
+        },
+        {
+            "type": "crafting",
+            "title": "Меха-Око",
+            "text": "Це око покаже вам, де знаходиться арена Передвісника.",
+            "recipe": "cataclysm:mech_eye"
+        },
+        {
+            "type": "entity",
+            "name": "Передвісник",
+            "text": "Цей бос знаходиться у звичайному світі під землею.",
+            "entity": "cataclysm:the_harbinger",
+            "scale": "0.8"
+        },
+        {
+            "type": "spotlight",
+            "title": "Зірка Незеру",
+            "text": "Зірка Незеру є активатором боса.",
+            "item": "minecraft:nether_star"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "name": "Карта та стяги",
+    "icon": "minecraft:filled_map",
+    "category": "patchouli:atlas_category",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Ще один цікавий спосіб запам'ятати місце — це використати карту та стяг. $(#AE2789)ПКМ $()картою по стягу створить мітку на карті."
+        },
+        {
+            "type": "image",
+            "text": "",
+            "title": "",
+            "border": true,
+            "images": [
+                "patchouli:atlas.png"
+            ]
+        }
+    ]
+}

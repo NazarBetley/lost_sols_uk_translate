@@ -1,0 +1,11 @@
+{
+    "name": "Тризуб та Тягун",
+    "icon": "minecraft:trident",
+    "category": "patchouli:movment_category",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Ще одна цікава механіка — це Тризуб із Тягуном. Вона вже для тих, хто прокачався в цьому світі, і для тих, хто знайшов Тризуб!"
+        }
+    ]
+}

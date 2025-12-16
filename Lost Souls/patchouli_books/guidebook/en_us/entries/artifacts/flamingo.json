@@ -1,0 +1,17 @@
+{
+    "name": "Гелієвий фламінго",
+    "icon": "artifacts:helium_flamingo",
+    "category": "patchouli:artefact_category",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Така рожевенька, гарна й цікава штучка! Цей рятувальний круг виглядає так цікаво! Цікаво, а він вміє літати?.."
+        },
+        {
+            "type": "spotlight",
+            "title": "Гелієвий фламінго",
+            "text": "Дозволяє власнику плавати в повітрі протягом обмеженого часу. Натисніть $(#F55C8E)Лівий CTRL$(), щоб почати пливти повітрям.",
+            "item": "artifacts:helium_flamingo"
+        }
+    ]
+}

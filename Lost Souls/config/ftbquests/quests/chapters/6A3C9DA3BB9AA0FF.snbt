@@ -1,0 +1,1464 @@
+{
+	autofocus_id: "631D6CFA456CD624"
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "6A3C9DA3BB9AA0FF"
+	group: "77B836E2F372761C"
+	icon: "eidolon:codex"
+	id: "6A3C9DA3BB9AA0FF"
+	images: [
+		{
+			height: 1.6d
+			image: "eidolon:textures/mob_effect/light_blessing.png"
+			rotation: 0.0d
+			width: 1.6d
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "eidolon:item/candlestick"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.8d
+			y: 1.0d
+		}
+		{
+			height: 1.0d
+			image: "eidolon:item/merammer_resin"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.3d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "eidolon:item/offering_incense"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.3d
+			y: -1.0d
+		}
+		{
+			height: 1.0d
+			image: "eidolon:item/calx_of_end"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.8d
+			y: -3.5d
+		}
+		{
+			height: 1.0d
+			image: "eidolon:item/research_notes"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.5d
+			y: -4.3d
+		}
+		{
+			height: 1.0d
+			image: "eidolon:item/parchment"
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.5d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "eidolon:item/goblet"
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.85d
+			y: 4.5d
+		}
+		{
+			height: 1.0d
+			image: "eidolon:item/censer"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.8d
+			y: 4.5d
+		}
+		{
+			height: 1.0d
+			image: "eidolon:item/gold_inlay"
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.8d
+			y: 7.5d
+		}
+		{
+			height: 1.0d
+			image: "eidolon:item/resolute_belt"
+			rotation: 0.0d
+			width: 1.0d
+			x: -13.3d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "eidolon:item/arcane_gold_ingot"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.0d
+			y: 7.5d
+		}
+		{
+			height: 1.5d
+			image: "eidolon:item/arcane_seal"
+			rotation: 0.0d
+			width: 1.5d
+			x: -3.5d
+			y: 7.0d
+		}
+		{
+			height: 1.0d
+			image: "eidolon:item/raw_lead"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.0d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "caverns_and_chasms:item/raw_silver"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.0d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "eidolon:item/bonelord_helm"
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.0d
+			y: 4.0d
+		}
+		{
+			height: 1.0d
+			image: "eidolon:item/bonelord_chestplate"
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.5d
+			y: 4.5d
+		}
+		{
+			height: 1.0d
+			image: "eidolon:item/bonelord_greaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.0d
+			y: 4.0d
+		}
+		{
+			height: 1.0d
+			image: "eidolon:item/void_amulet"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.9d
+			y: -3.5d
+		}
+		{
+			height: 1.0d
+			image: "eidolon:item/pewter_inlay"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.1d
+			y: -1.9d
+		}
+		{
+			height: 1.0d
+			image: "eidolon:item/pewter_blend"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.3d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "eidolon:item/pewter_ingot"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.6d
+			y: 0.5d
+		}
+		{
+			height: 1.5d
+			image: "eidolon:item/unholy_symbol"
+			rotation: 0.0d
+			width: 1.5d
+			x: -7.5d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "eidolon:item/angels_sight"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.5d
+			y: -4.0d
+		}
+		{
+			height: 1.0d
+			image: "eidolon:item/reaper_scythe"
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.1d
+			y: -4.5d
+		}
+		{
+			height: 1.0d
+			image: "eidolon:item/warlock_hat"
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.5d
+			y: -7.2d
+		}
+		{
+			height: 1.0d
+			image: "eidolon:item/warlock_cloak"
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.5d
+			y: -7.5d
+		}
+		{
+			height: 1.0d
+			image: "eidolon:item/warlock_boots"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.5d
+			y: -7.0d
+		}
+		{
+			height: 1.0d
+			image: "eidolon:item/wicked_weave"
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.5d
+			y: -5.5d
+		}
+		{
+			height: 1.0d
+			image: "eidolon:item/prestigious_palm"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.0d
+			y: -5.5d
+		}
+		{
+			height: 1.5d
+			image: "sanguine_arsenal:item/sigil_of_the_dark_lord"
+			rotation: 0.0d
+			width: 1.5d
+			x: -16.0d
+			y: -5.5d
+		}
+		{
+			height: 1.0d
+			image: "sanguine_arsenal:item/sanguine_praetor/sanguine_praetor_hood"
+			rotation: 0.0d
+			width: 1.0d
+			x: -15.0d
+			y: -7.0d
+		}
+		{
+			height: 1.0d
+			image: "sanguine_arsenal:item/sanguine_praetor/sanguine_praetor_tunic"
+			rotation: 0.0d
+			width: 1.0d
+			x: -16.5d
+			y: -7.5d
+		}
+		{
+			height: 1.0d
+			image: "sanguine_arsenal:item/sanguine_praetor/sanguine_praetor_leggings"
+			rotation: 0.0d
+			width: 1.0d
+			x: -18.0d
+			y: -6.5d
+		}
+		{
+			height: 1.0d
+			image: "sanguine_arsenal:item/sanguine_praetor/sanguine_praetor_boots"
+			rotation: 0.0d
+			width: 1.0d
+			x: -18.0d
+			y: -4.5d
+		}
+		{
+			height: 1.5d
+			image: "sanguine_arsenal:item/praetor_scythe"
+			rotation: 0.0d
+			width: 1.5d
+			x: -19.0d
+			y: -9.5d
+		}
+		{
+			height: 1.7d
+			image: "sanguine_arsenal:item/sanguine_crystal"
+			rotation: 0.0d
+			width: 1.7d
+			x: -14.0d
+			y: -3.5d
+		}
+		{
+			height: 1.0d
+			image: "eidolon:item/deathbringer_scythe"
+			rotation: 0.0d
+			width: 1.0d
+			x: -10.5d
+			y: -5.5d
+		}
+		{
+			height: 1.0d
+			image: "eidolon:item/soulbone_amulet"
+			rotation: 0.0d
+			width: 1.0d
+			x: -12.0d
+			y: -4.5d
+		}
+		{
+			height: 1.0d
+			image: "sanguine_arsenal:item/crimson_weave"
+			rotation: 0.0d
+			width: 1.0d
+			x: -10.2d
+			y: -2.5d
+		}
+		{
+			height: 1.7d
+			image: "eidolon:item/shadow_gem"
+			rotation: 0.0d
+			width: 1.7d
+			x: -12.0d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "eidolon:item/greater_soul_shard"
+			rotation: 0.0d
+			width: 1.0d
+			x: -11.0d
+			y: 2.9d
+		}
+		{
+			height: 1.0d
+			image: "sanguine_arsenal:item/shadow_infused_ingot"
+			rotation: 0.0d
+			width: 1.0d
+			x: -11.1d
+			y: 5.9d
+		}
+		{
+			height: 1.0d
+			image: "eidolon:item/reversal_pick"
+			rotation: -25.0d
+			width: 1.0d
+			x: -15.0d
+			y: 2.0d
+		}
+		{
+			height: 1.0d
+			image: "eidolon:item/gravity_belt"
+			rotation: 0.0d
+			width: 1.0d
+			x: -13.5d
+			y: 4.0d
+		}
+		{
+			height: 1.4d
+			image: "cataclysm:textures/entity/deepling/deepling_warlock_mark1.png"
+			rotation: 0.0d
+			width: 1.4d
+			x: -14.5d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "eidolon:item/raven_cloak"
+			rotation: 0.0d
+			width: 1.0d
+			x: -14.5d
+			y: 6.0d
+		}
+	]
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			description: ["Ласкаво просимо до Ейдолону. Неймовірний мод, де ви зможете займатися алхімією, проводити ритуали та опановувати давню магію. Створіть путівник, який допоможе вам розібратися у всіх тонкощах цього моду."]
+			id: "5355A57DC8A4A849"
+			rewards: [{
+				id: "6824F24EC7FDD2EC"
+				type: "xp"
+				xp: 50
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "27F69606B614F59B"
+				item: "eidolon:codex"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["5355A57DC8A4A849"]
+			description: ["Срібло та свинець є основними рудами цього моду."]
+			id: "65FCBC5B7F841AC4"
+			rewards: [{
+				id: "3C490C4ED3E07E94"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [
+				{
+					count: 2L
+					id: "63B7058753BE644C"
+					item: { Count: 2, id: "caverns_and_chasms:raw_silver" }
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "6E0FFA44B3075440"
+					item: { Count: 2, id: "eidolon:raw_lead" }
+					type: "item"
+				}
+			]
+			x: -2.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["65FCBC5B7F841AC4"]
+			description: ["Зі срібла та свинцю ви зможете виготовити пьютер — необхідний метал для вивчення моду."]
+			id: "304A25D219DD1CE4"
+			rewards: [{
+				id: "1C425966AB768A0A"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				count: 2L
+				id: "19E0FA1B9CBF2C74"
+				item: { Count: 2, id: "eidolon:pewter_ingot" }
+				type: "item"
+			}]
+			x: -5.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["304A25D219DD1CE4"]
+			description: ["Ці предмети дозволять вам проводити ритуали для створення магічних речей. Детальніше можете прочитати в Арс Екклесії."]
+			id: "631D6CFA456CD624"
+			rewards: [{
+				id: "2FB735974AEFB34C"
+				type: "xp"
+				xp: 150
+			}]
+			tasks: [
+				{
+					id: "3E7BDEB243985198"
+					item: "eidolon:stone_hand"
+					type: "item"
+				}
+				{
+					id: "2EB804670B493634"
+					item: "eidolon:brazier"
+					type: "item"
+				}
+			]
+			x: -7.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["631D6CFA456CD624"]
+			description: ["Уламок душі — перший предмет, який ви зможете створити за допомогою ритуалу. Є інгредієнтом для інших речей з моду."]
+			id: "2C4A3E21C2D92524"
+			rewards: [{
+				id: "2A13B47A170C90D2"
+				type: "xp"
+				xp: 200
+			}]
+			tasks: [{
+				id: "19676951EA439C08"
+				item: "eidolon:soul_shard"
+				type: "item"
+			}]
+			x: -10.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["3F7528CEE73E54FB"]
+			description: ["Цей меч має ефект вампіризму. Завдавайте шкоди ворогам, щоб відновити своє здоров'я."]
+			id: "08C7964400419E82"
+			rewards: [{
+				id: "585F1D88A6B1D4FB"
+				type: "xp"
+				xp: 500
+			}]
+			tasks: [{
+				id: "418DD0D26A80F018"
+				item: {
+					Count: 1
+					id: "eidolon:sapping_sword"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -14.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["2C4A3E21C2D92524"]
+			description: ["Тіньовий самоцвіт є кристалом, що просочився темрявою. Є інгредієнтом для багатьох предметів."]
+			id: "3F7528CEE73E54FB"
+			rewards: [{
+				id: "67A33FF83084C1D7"
+				type: "xp"
+				xp: 250
+			}]
+			shape: "hexagon"
+			tasks: [{
+				id: "368CFD971A9AB6EF"
+				item: "eidolon:shadow_gem"
+				type: "item"
+			}]
+			x: -12.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["631D6CFA456CD624"]
+			description: ["Киньте Арс Екклесію сільському священнику, щоб отримати цей символ."]
+			id: "0C357DAF1C644FE8"
+			rewards: [{
+				id: "76609D42AAAA6128"
+				type: "xp"
+				xp: 300
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "13207A2AB5D8EAD2"
+				item: "eidolon:holy_symbol"
+				type: "item"
+			}]
+			x: -7.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["631D6CFA456CD624"]
+			description: ["Киньте Арс Екклесію відьмі, щоб отримати цей символ."]
+			id: "472868767BEAA933"
+			rewards: [{
+				id: "17722E340C753D04"
+				type: "xp"
+				xp: 300
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "5C3660C5333893EA"
+				item: "eidolon:unholy_symbol"
+				type: "item"
+			}]
+			x: -7.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["304A25D219DD1CE4"]
+			description: ["Пьютерна інкрустація потрібна для створення багатьох предметів."]
+			id: "1A3A5EAABB7E080C"
+			rewards: [{
+				id: "3AA1CFB76EAB3E20"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				count: 4L
+				id: "3B502CC77E167A7C"
+				item: { Count: 4, id: "eidolon:pewter_inlay" }
+				type: "item"
+			}]
+			title: "Пьютерна інкрустація"
+			x: -3.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["1A3A5EAABB7E080C"]
+			description: ["Це магічна версія звичайного верстака, на якому створюються майже всі предмети з цього моду."]
+			id: "6475B46C1F29B339"
+			rewards: [{
+				id: "26A4E11A7C828BCC"
+				type: "xp"
+				xp: 300
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "61F5E903DC99EE88"
+				item: "eidolon:worktable"
+				type: "item"
+			}]
+			x: -2.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["1A3A5EAABB7E080C"]
+			description: ["Цей предмет є одним із п'єдесталів для ритуалів."]
+			id: "68C766DC0794471C"
+			rewards: [{
+				id: "72795E5403F5A6FC"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "712F43B15E425411"
+				item: "eidolon:necrotic_focus"
+				type: "item"
+			}]
+			x: -5.0d
+			y: -2.5d
+		}
+		{
+			dependencies: [
+				"1A3A5EAABB7E080C"
+				"6475B46C1F29B339"
+			]
+			description: ["Цей амулет дозволяє вам час від часу уникати снарядів, не отримуючи від них шкоди."]
+			id: "53DB771EB45A98A2"
+			rewards: [{
+				id: "1CAF55E086C3F27B"
+				type: "xp"
+				xp: 300
+			}]
+			tasks: [{
+				id: "750E35EB7C2D2C44"
+				item: "eidolon:void_amulet"
+				type: "item"
+			}]
+			x: -3.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["472868767BEAA933"]
+			description: ["Ця каблучка є найважливішою для лучника. Вона змушує ваші стріли самонаводитися на ціль."]
+			id: "255AC7A02512F64F"
+			rewards: [{
+				id: "1BE63E685EEA4C0F"
+				type: "xp"
+				xp: 500
+			}]
+			tasks: [{
+				id: "68B4C8CE51054DEE"
+				item: {
+					Count: 1
+					id: "eidolon:angels_sight"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: -6.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["472868767BEAA933"]
+			description: ["Ця коса колись використовувалася міськими катами."]
+			id: "6EFE84B255016181"
+			rewards: [{
+				id: "720FCFABE27B57A3"
+				type: "xp"
+				xp: 300
+			}]
+			tasks: [{
+				id: "771233E5FB1D2B06"
+				item: {
+					Count: 1
+					id: "eidolon:reaper_scythe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -9.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["472868767BEAA933"]
+			description: ["Міцна тканина, просочена темною магією."]
+			id: "05ADB3043369A18B"
+			rewards: [{
+				id: "3A46BC6CB6FCF73D"
+				type: "xp"
+				xp: 300
+			}]
+			shape: "hexagon"
+			tasks: [{
+				id: "7C4EEB603DB0B906"
+				item: "eidolon:wicked_weave"
+				type: "item"
+			}]
+			x: -7.5d
+			y: -6.0d
+		}
+		{
+			dependencies: ["05ADB3043369A18B"]
+			description: ["Створіть спорядження чаклуна — обладунки, що збільшують магічну силу власника."]
+			id: "2F1B37D9197F5AEA"
+			rewards: [{
+				id: "10CEA9088CC4338C"
+				type: "xp"
+				xp: 400
+			}]
+			tasks: [{
+				id: "65E669CA35ED861D"
+				item: {
+					Count: 1
+					id: "eidolon:warlock_boots"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -5.0d
+			y: -7.0d
+		}
+		{
+			dependencies: ["05ADB3043369A18B"]
+			description: ["Створіть спорядження чаклуна — обладунки, що збільшують магічну силу власника."]
+			id: "4D82C367F8FA2C77"
+			rewards: [{
+				id: "0127AC91FA496043"
+				type: "xp"
+				xp: 400
+			}]
+			tasks: [{
+				id: "51BA49BC60C8B5A5"
+				item: {
+					Count: 1
+					id: "eidolon:warlock_cloak"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -7.5d
+			y: -8.0d
+		}
+		{
+			dependencies: ["05ADB3043369A18B"]
+			description: ["Створіть спорядження чаклуна — обладунки, що збільшують магічну силу власника."]
+			id: "640FCFA127D2CC8A"
+			rewards: [{
+				id: "1A4C3CEDDD1930C3"
+				type: "xp"
+				xp: 400
+			}]
+			tasks: [{
+				id: "71650D159C107F34"
+				item: {
+					Count: 1
+					id: "eidolon:warlock_hat"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -10.0d
+			y: -7.0d
+		}
+		{
+			dependencies: ["3F7528CEE73E54FB"]
+			description: ["Цей амулет дозволяє отримати до 5 тимчасових сердець при вбивстві ворогів."]
+			id: "25328A6614F85EC3"
+			rewards: [{
+				id: "11E8286B57E41220"
+				type: "xp"
+				xp: 400
+			}]
+			tasks: [{
+				id: "51B42A58B9403CDF"
+				item: "eidolon:soulbone_amulet"
+				type: "item"
+			}]
+			x: -12.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["2C4A3E21C2D92524"]
+			description: ["Рішучий пояс — артефакт, що дозволяє вам набагато ефективніше опиратися відкиданню."]
+			id: "6CD261A19DEC27C3"
+			rewards: [{
+				id: "0FFF5E82CD4E36F3"
+				type: "xp"
+				xp: 200
+			}]
+			tasks: [{
+				id: "465F2FA68177BFF1"
+				item: "eidolon:resolute_belt"
+				type: "item"
+			}]
+			x: -13.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["2C4A3E21C2D92524"]
+			description: ["Збільшена у розмірах завдяки ритуалу версія уламка душі."]
+			id: "6DCD098F65E5CAA8"
+			rewards: [{
+				id: "61ECE35747D20B34"
+				type: "xp"
+				xp: 250
+			}]
+			tasks: [{
+				id: "060FB110EC182547"
+				item: "eidolon:lesser_soul_gem"
+				type: "item"
+			}]
+			x: -11.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["6DCD098F65E5CAA8"]
+			description: ["Пояс гравітації робить вас неймовірно легким, зменшуючи гравітацію навколо вас. Є однією з важливих складових мантії ворона."]
+			id: "59C4711252003EF2"
+			rewards: [{
+				id: "7952BC6A38FAF0C2"
+				type: "xp"
+				xp: 300
+			}]
+			tasks: [{
+				id: "677D1D55603D8029"
+				item: "eidolon:gravity_belt"
+				type: "item"
+			}]
+			x: -13.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["59C4711252003EF2"]
+			description: ["Мантія ворона — дуже складний у створенні артефакт, що дозволяє вам, наче птаху, ширяти в повітрі."]
+			id: "7BCBE7CD857DB438"
+			rewards: [{
+				id: "210B1ABF5B406F29"
+				type: "xp"
+				xp: 1000
+			}]
+			shape: "hexagon"
+			tasks: [{
+				id: "769EF54F8FE2AEAB"
+				item: "eidolon:raven_cloak"
+				type: "item"
+			}]
+			x: -14.5d
+			y: 5.5d
+		}
+		{
+			dependencies: ["0C357DAF1C644FE8"]
+			description: ["Створіть обладунки кісткового паладина, що дають вам неймовірний запас додаткового здоров'я."]
+			id: "3BAB64B59F459727"
+			rewards: [{
+				id: "58A798493D0923D0"
+				type: "xp"
+				xp: 500
+			}]
+			tasks: [{
+				id: "0C79794EB1BC6FAA"
+				item: {
+					Count: 1
+					id: "eidolon:bonelord_chestplate"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -7.5d
+			y: 5.0d
+		}
+		{
+			dependencies: ["0C357DAF1C644FE8"]
+			description: ["Створіть обладунки кісткового паладина, що дають вам неймовірний запас додаткового здоров'я."]
+			id: "39F821E24BCF62CB"
+			rewards: [{
+				id: "090A85F6759070D5"
+				type: "xp"
+				xp: 500
+			}]
+			tasks: [{
+				id: "4E0D1DEEDED98308"
+				item: {
+					Count: 1
+					id: "eidolon:bonelord_helm"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -9.5d
+			y: 4.0d
+		}
+		{
+			dependencies: ["0C357DAF1C644FE8"]
+			description: ["Створіть обладунки кісткового паладина, що дають вам неймовірний запас додаткового здоров'я."]
+			id: "5C055E5A52ED3DF3"
+			rewards: [{
+				id: "12F969C45326637F"
+				type: "xp"
+				xp: 500
+			}]
+			tasks: [{
+				id: "02DEE37C59A84A18"
+				item: {
+					Count: 1
+					id: "eidolon:bonelord_greaves"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -5.5d
+			y: 4.0d
+		}
+		{
+			dependencies: ["5355A57DC8A4A849"]
+			description: ["З сала можна зробити магічний віск."]
+			id: "4D4770E17C99C57C"
+			rewards: [{
+				id: "25326EF042DB4750"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "0239D83A544FC3BD"
+				item: "eidolon:tallow"
+				type: "item"
+			}]
+			x: 1.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["304A25D219DD1CE4"]
+			description: ["Тигель є дуже важливою складовою моду. З його допомогою ви зможете займатися алхімією та створювати багато цікавих речей."]
+			id: "7A8EC56D95A5CEB1"
+			rewards: [{
+				id: "1D25AE8A40E495AD"
+				type: "xp"
+				xp: 200
+			}]
+			tasks: [{
+				id: "4DC45AD1A846EF51"
+				item: "eidolon:crucible"
+				type: "item"
+			}]
+			x: -2.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["7A8EC56D95A5CEB1"]
+			description: ["Віск чарівника є інгредієнтом для створення печаток."]
+			id: "786FFF4FAE38D856"
+			rewards: [{
+				id: "5A299C1F7B0A4A8B"
+				type: "xp"
+				xp: 150
+			}]
+			tasks: [{
+				id: "55103272FE7C120E"
+				item: "eidolon:magicians_wax"
+				type: "item"
+			}]
+			x: -3.5d
+			y: 5.0d
+		}
+		{
+			dependencies: ["7A8EC56D95A5CEB1"]
+			description: ["Це золоті зливки, що просочилися магічною енергією."]
+			id: "60C28E392DDCB320"
+			rewards: [{
+				id: "3529403596126E5A"
+				type: "xp"
+				xp: 150
+			}]
+			tasks: [{
+				id: "79FE397042846183"
+				item: "eidolon:arcane_gold_ingot"
+				type: "item"
+			}]
+			x: -0.5d
+			y: 5.0d
+		}
+		{
+			dependencies: ["60C28E392DDCB320"]
+			description: ["Золота інкрустація потрібна для створення багатьох предметів."]
+			id: "2F8C768AC0FAF579"
+			rewards: [{
+				id: "1B20067638EE8205"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				count: 4L
+				id: "766E464D3F4B27A5"
+				item: { Count: 4, id: "eidolon:gold_inlay" }
+				type: "item"
+			}]
+			title: "Золота інкрустація"
+			x: -0.5d
+			y: 7.0d
+		}
+		{
+			dependencies: ["786FFF4FAE38D856"]
+			description: ["Печатка, створена для того, щоб робити сувої з дослідженнями."]
+			id: "294435F3367EFEB4"
+			rewards: [{
+				id: "69DABD7F5F4A8EFE"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "34DBDCA1E36D749D"
+				item: "eidolon:arcane_seal"
+				type: "item"
+			}]
+			x: -3.5d
+			y: 7.0d
+		}
+		{
+			dependencies: ["2F8C768AC0FAF579"]
+			description: ["Заклинач душ є покращеною версією столу зачарувань, споживає уламки душі замість лазуриту."]
+			id: "39EA47836663904F"
+			rewards: [{
+				id: "099F74CE25A1E5EF"
+				type: "xp"
+				xp: 300
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "6A67B370FEBCFF0B"
+				item: "eidolon:soul_enchanter"
+				type: "item"
+			}]
+			x: 1.5d
+			y: 7.0d
+		}
+		{
+			dependencies: ["5355A57DC8A4A849"]
+			description: ["Цей попіл є важливим реагентом в алхімії."]
+			id: "4104BBD7D8EBAF3B"
+			rewards: [{
+				id: "2EC106C8E8CFF403"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "23BD3C5633636D2B"
+				item: "eidolon:enchanted_ash"
+				type: "item"
+			}]
+			x: 1.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["4104BBD7D8EBAF3B"]
+			description: ["Цей пергамент є аркушем якісного паперу, зміцненого зачарованим попелом."]
+			id: "73A3A104ACBDCCA9"
+			rewards: [{
+				id: "134A54354CF8A728"
+				type: "xp"
+				xp: 150
+			}]
+			tasks: [{
+				id: "49931603A07173CD"
+				item: "eidolon:parchment"
+				type: "item"
+			}]
+			x: 0.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["4104BBD7D8EBAF3B"]
+			description: ["Ладан є паливом для кадила."]
+			id: "6CA2D2D6F130180F"
+			rewards: [{
+				id: "03F6B53C1A3B605F"
+				type: "xp"
+				xp: 150
+			}]
+			tasks: [{
+				id: "4FFFE9D28B9E1A00"
+				item: "eidolon:offering_incense"
+				type: "item"
+			}]
+			x: 3.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["4104BBD7D8EBAF3B"]
+			description: ["Цей порошок є подрібненими перлами краю, змішаними із зачарованим попелом."]
+			id: "3713EAD5652517FF"
+			rewards: [{
+				id: "22B586369F0EA91E"
+				type: "xp"
+				xp: 150
+			}]
+			tasks: [{
+				id: "5F2144FE9D3204F0"
+				item: "eidolon:ender_calx"
+				type: "item"
+			}]
+			x: 1.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["4104BBD7D8EBAF3B"]
+			description: ["Сірка — це суміш вугілля та зачарованого попелу, є важливим реагентом в алхімії."]
+			id: "5185E20FC2D0B1D3"
+			rewards: [{
+				id: "1E95DE8B3040CE37"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "177C636C83FDB9EF"
+				item: "eidolon:sulfur"
+				type: "item"
+			}]
+			x: 3.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["73A3A104ACBDCCA9"]
+			description: ["Аркуш міцного пергаменту та магічні чорнила для запису досліджень."]
+			id: "12FD8A62A3417580"
+			rewards: [{
+				id: "639BDC6A4FD5D666"
+				type: "xp"
+				xp: 300
+			}]
+			tasks: [{
+				id: "4CDAA40BF85F1CCE"
+				item: "eidolon:notetaking_tools"
+				type: "item"
+			}]
+			x: 0.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["5355A57DC8A4A849"]
+			description: ["Стіл для дослідження різних речей з цього моду."]
+			id: "0046867A72F53658"
+			rewards: [{
+				id: "524A2DE31EB41481"
+				type: "xp"
+				xp: 150
+			}]
+			shape: "hexagon"
+			tasks: [{
+				id: "66D2BB3B21706707"
+				item: "eidolon:research_table"
+				type: "item"
+			}]
+			x: -1.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["7A8EC56D95A5CEB1"]
+			description: ["Магічні чорнила для створення нотаток."]
+			id: "44E3D5B337A0DE4A"
+			rewards: [{
+				id: "2A5FADFB6A82B004"
+				type: "xp"
+				xp: 150
+			}]
+			tasks: [{
+				id: "6380458DC2768312"
+				item: "eidolon:magic_ink"
+				type: "item"
+			}]
+			x: -2.0d
+			y: 6.0d
+		}
+		{
+			dependencies: [
+				"6EFE84B255016181"
+				"3F7528CEE73E54FB"
+			]
+			description: ["Коса женця, що просочилася аурою смерті й одного разу поглинула душу ката, який її використовував."]
+			id: "1B139832668FAA9B"
+			rewards: [{
+				id: "41545D78A0DDD9DD"
+				type: "xp"
+				xp: 500
+			}]
+			tasks: [{
+				id: "67C9EDCA897A0776"
+				item: {
+					Count: 1
+					id: "eidolon:deathbringer_scythe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -10.5d
+			y: -5.0d
+		}
+		{
+			dependencies: ["60C28E392DDCB320"]
+			description: ["Келих та кадило є незамінними речами на вівтарях поклоніння богам."]
+			id: "2E6844E17BD34D64"
+			rewards: [{
+				id: "292931B64EA26529"
+				type: "xp"
+				xp: 150
+			}]
+			tasks: [
+				{
+					id: "73F28FB8E0656235"
+					item: "eidolon:censer"
+					type: "item"
+				}
+				{
+					id: "35D48F58F68A42C9"
+					item: "eidolon:goblet"
+					type: "item"
+				}
+			]
+			x: 1.5d
+			y: 5.0d
+		}
+		{
+			dependencies: ["05ADB3043369A18B"]
+			description: ["Цей артефакт збільшує вашу досяжність. Ніхто не втече від ваших рук."]
+			id: "547B70BCD3D0D3E9"
+			rewards: [{
+				id: "28BB8B9A553A5669"
+				type: "xp"
+				xp: 500
+			}]
+			tasks: [{
+				id: "44771268738816F4"
+				item: "eidolon:prestigious_palm"
+				type: "item"
+			}]
+			x: -5.0d
+			y: -5.0d
+		}
+		{
+			dependencies: ["3F7528CEE73E54FB"]
+			description: ["Тіньовий кристал, що просочився кров'ю. Дозволяє створити обладунки багряного чорнокнижника."]
+			id: "04A5665E55EE6E75"
+			rewards: [{
+				id: "096CEA2993A3765F"
+				type: "xp"
+				xp: 400
+			}]
+			tasks: [{
+				id: "4C5C867E0F43B2D4"
+				item: "sanguine_arsenal:sanguine_crystal"
+				type: "item"
+			}]
+			x: -14.0d
+			y: -3.5d
+		}
+		{
+			dependencies: ["04A5665E55EE6E75"]
+			description: ["Киньте Арс Екклесію \"...\", щоб отримати цю печатку."]
+			id: "28E7091B052AE126"
+			rewards: [{
+				id: "24AE6CA8D41B37E2"
+				type: "xp"
+				xp: 750
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "20DAB56C317A9F95"
+				item: "sanguine_arsenal:sigil_of_the_dark_lord"
+				type: "item"
+			}]
+			x: -16.0d
+			y: -5.5d
+		}
+		{
+			dependencies: ["6DCD098F65E5CAA8"]
+			description: ["Цей зливок, що ввібрав у себе тіньову енергію, є основним матеріалом для створення обладунків багряного чорнокнижника."]
+			id: "7D178C0C6CD75DB5"
+			rewards: [{
+				id: "497F9FE1F8BF7590"
+				type: "xp"
+				xp: 400
+			}]
+			tasks: [{
+				id: "4362C531EB4BE6DB"
+				item: "sanguine_arsenal:shadow_ingot"
+				type: "item"
+			}]
+			x: -11.5d
+			y: 5.5d
+		}
+		{
+			dependencies: ["3F7528CEE73E54FB"]
+			description: ["Ця тканина є основним матеріалом для обладунків багряного чорнокнижника."]
+			id: "562D4C4158620772"
+			rewards: [{
+				id: "2CC3F7ADB96572D5"
+				type: "xp"
+				xp: 400
+			}]
+			tasks: [{
+				id: "69A441D97667BA06"
+				item: "sanguine_arsenal:crimson_weave"
+				type: "item"
+			}]
+			x: -10.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["28E7091B052AE126"]
+			description: ["Створіть спорядження багряного чорнокнижника — обладунки, просочені кров'ю вбитих ворогів."]
+			id: "6D8D9566036F60C9"
+			rewards: [{
+				id: "519AA814384A0510"
+				type: "xp"
+				xp: 1000
+			}]
+			tasks: [{
+				id: "5D098F814E043649"
+				item: {
+					Count: 1
+					id: "sanguine_arsenal:sanguine_praetor_tunic"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -16.5d
+			y: -8.0d
+		}
+		{
+			dependencies: ["28E7091B052AE126"]
+			description: ["Створіть спорядження багряного чорнокнижника — обладунки, просочені кров'ю вбитих ворогів."]
+			id: "2082FDFABAF7A400"
+			rewards: [{
+				id: "3A3FA9A51D7D0EC1"
+				type: "xp"
+				xp: 1000
+			}]
+			tasks: [{
+				id: "7D9B3FB1898F1193"
+				item: {
+					Count: 1
+					id: "sanguine_arsenal:sanguine_praetor_leggings"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -18.5d
+			y: -6.5d
+		}
+		{
+			dependencies: ["28E7091B052AE126"]
+			description: ["Створіть спорядження багряного чорнокнижника — обладунки, просочені кров'ю вбитих ворогів."]
+			id: "7DB8EFC2C994640A"
+			rewards: [{
+				id: "682CAA93F362271F"
+				type: "xp"
+				xp: 1000
+			}]
+			tasks: [{
+				id: "4E2F96FE8417E3BA"
+				item: {
+					Count: 1
+					id: "sanguine_arsenal:sanguine_praetor_boots"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -18.5d
+			y: -4.5d
+		}
+		{
+			dependencies: ["28E7091B052AE126"]
+			description: ["Створіть спорядження багряного чорнокнижника — обладунки, просочені кров'ю вбитих ворогів."]
+			id: "42C19EE98D40258B"
+			rewards: [{
+				id: "5F9B45440CDD9FA1"
+				type: "xp"
+				xp: 1000
+			}]
+			tasks: [{
+				id: "6AD897CF904503CB"
+				item: {
+					Count: 1
+					id: "sanguine_arsenal:sanguine_praetor_hood"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -14.5d
+			y: -7.5d
+		}
+		{
+			dependencies: ["28E7091B052AE126"]
+			description: ["Створіть спорядження багряного чорнокнижника — косу, просочену кров'ю вбитих ворогів."]
+			id: "1268F7C7D8AF5CDC"
+			rewards: [{
+				id: "64DAB74FCDF15539"
+				type: "xp"
+				xp: 1000
+			}]
+			tasks: [{
+				id: "41905693F1234E17"
+				item: {
+					Count: 1
+					id: "sanguine_arsenal:praetor_scythe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -18.5d
+			y: -8.5d
+		}
+		{
+			dependencies: ["6DCD098F65E5CAA8"]
+			description: ["Кайло інверсії має дуже незвичайні властивості. Чим міцніший блок, тим швидше воно його ламає."]
+			id: "6A215D0ACDBCE0C9"
+			rewards: [{
+				id: "5A463CE4A2FCFB94"
+				type: "xp"
+				xp: 750
+			}]
+			tasks: [{
+				id: "2C3319A1F8C360F2"
+				item: {
+					Count: 1
+					id: "eidolon:reversal_pick"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -14.5d
+			y: 2.5d
+		}
+	]
+	title: "&d3.3&r: &lЕйдолон"
+}

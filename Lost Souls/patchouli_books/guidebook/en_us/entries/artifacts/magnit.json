@@ -1,0 +1,17 @@
+{
+    "name": "Універс. магніт",
+    "icon": "artifacts:universal_attractor",
+    "category": "patchouli:artefact_category",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Досить цікавий предмет, який може притягувати речі. До речі, я такий вже бачив, тільки у світі Сутінкового лісу. Там був схожий магніт, тільки він притягував до себе руди... чи то був ріг?.."
+        },
+        {
+            "type": "spotlight",
+            "title": "Універсальний магніт",
+            "text": "Цей магніт притягує найближчі предмети.",
+            "item": "artifacts:universal_attractor"
+        }
+    ]
+}

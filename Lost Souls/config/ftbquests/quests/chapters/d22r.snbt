@@ -1,0 +1,1155 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "d22r"
+	group: "7A6FEFAE00EAC5F4"
+	icon: {
+		Count: 1
+		id: "minecells:insufferable_crypt_doorway"
+		tag: {
+			BlockEntityTag: { }
+		}
+	}
+	id: "361C7349D9CE2C94"
+	images: [
+		{
+			height: 1.0d
+			image: "minecells:block/colored_torch/prison"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.2857142857142918d
+			y: -0.5306122448979522d
+		}
+		{
+			height: 1.0d
+			image: "aquamirae:item/echo"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.5d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "supplementaries:textures/particle/air_burst_3.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.5357142857142776d
+			y: -1.840136054421773d
+		}
+		{
+			height: 1.0d
+			image: "spell_power:textures/mob_effect/blood.png"
+			rotation: -10.0d
+			width: 1.0d
+			x: 1.5d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/campfire_fire"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.5d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "irons_spellbooks:item/cinder_essence"
+			rotation: 20.0d
+			width: 1.0d
+			x: 3.750000000000007d
+			y: 1.0646258503401356d
+		}
+		{
+			height: 1.0d
+			image: "cataclysm:item/flame_eye"
+			rotation: -20.0d
+			width: 1.0d
+			x: 0.202380952380949d
+			y: 1.040816326530603d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/campfire_fire"
+			rotation: 180.0d
+			width: 1.0d
+			x: 1.5d
+			y: 2.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:item/spawn_eggs/scorpion"
+			rotation: -25.0d
+			width: 1.0d
+			x: 5.572789115646259d
+			y: -1.8826530612245023d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/campfire_fire"
+			rotation: 0.0d
+			width: 1.0d
+			x: 9.0d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/campfire_fire"
+			rotation: 0.0d
+			width: 1.0d
+			x: 10.0d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/campfire_fire"
+			rotation: 0.0d
+			width: 1.0d
+			x: 11.0d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "relics:item/magma_walker_fire"
+			rotation: 0.0d
+			width: 1.0d
+			x: 12.5d
+			y: 1.0d
+		}
+		{
+			height: 2.0d
+			image: "alexsmobs:textures/entity/void_worm/portal/portal_idle_2.png"
+			rotation: 0.0d
+			width: 2.0d
+			x: 9.193537414966002d
+			y: 3.2227891156462576d
+		}
+		{
+			height: 4.0d
+			image: "ftbquests:block/afterlight_ua"
+			rotation: 0.0d
+			width: 8.64d
+			x: 6.0d
+			y: -6.0d
+		}
+	]
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			description: ["Вивчаючи звичайний світ, ви можете знайти стародавній портал, увійшовши в який, ви потрапите в тюремні камери. Невеликий світ, у якому колись тримали небезпечних злочинців."]
+			id: "03AEB33D12B22DB4"
+			rewards: [{
+				id: "6557B5BF8B5AAADC"
+				type: "xp"
+				xp: 500
+			}]
+			shape: "diamond"
+			size: 1.2d
+			tasks: [{
+				dimension: "minecells:prison"
+				icon: {
+					Count: 1
+					id: "minecells:prison_doorway"
+					tag: {
+						BlockEntityTag: { }
+					}
+				}
+				id: "273157385F26DCCB"
+				title: "&dВідвідайте&r: Тюремні камери"
+				type: "dimension"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["03AEB33D12B22DB4"]
+			description: ["У тюремних камерах ви можете зустріти сильних і небезпечних ворогів. Розберіться з кожним із них!"]
+			id: "094E701353B804FA"
+			rewards: [{
+				id: "75BE72D569325274"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "hexagon"
+			tasks: [{
+				entity: "minecells:grenadier"
+				id: "4C03A0B837F84082"
+				title: "&dВбийте&r: Гренадера"
+				type: "kill"
+				value: 1L
+			}]
+			x: -1.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["03AEB33D12B22DB4"]
+			description: ["У тюремних камерах ви можете зустріти сильних і небезпечних ворогів. Розберіться з кожним із них!"]
+			id: "4D41F5C89BD8169B"
+			rewards: [{
+				id: "79E598FFE90A708F"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "hexagon"
+			tasks: [{
+				entity: "minecells:leaping_zombie"
+				id: "67C9184E5DB61693"
+				title: "&dВбийте&r: Стрибучого зомбі"
+				type: "kill"
+				value: 1L
+			}]
+			x: -1.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["03AEB33D12B22DB4"]
+			description: ["У тюремних камерах ви можете зустріти сильних і небезпечних ворогів. Розберіться з кожним із них!"]
+			id: "7642AC3F434BDFBF"
+			rewards: [{
+				id: "44098876A7EBC649"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "hexagon"
+			tasks: [{
+				entity: "minecells:shieldbearer"
+				id: "4F22B0AFE53187DC"
+				title: "&dВбийте&r: Щитоносця"
+				type: "kill"
+				value: 1L
+			}]
+			x: -1.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["03AEB33D12B22DB4"]
+			description: ["У тюремних камерах ви можете зустріти сильних і небезпечних ворогів. Розберіться з кожним із них!"]
+			id: "5776EB5846454E71"
+			rewards: [{
+				id: "2765B8F5400F7E2E"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "hexagon"
+			tasks: [{
+				entity: "minecells:undead_archer"
+				id: "3B4D9927CD1DA888"
+				title: "&dВбийте&r: Неживого лучника"
+				type: "kill"
+				value: 1L
+			}]
+			x: -1.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["03AEB33D12B22DB4"]
+			description: ["Блукаючи тюремними камерами, ви можете натрапити на &4клітинний верстак&f, який дозволить вам створювати предмети з цього моду."]
+			id: "00DDCED34983095C"
+			rewards: [{
+				id: "3B94ABAC87E7C549"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "7EBFC30765714CC1"
+				item: "minecells:cell_crafter"
+				type: "item"
+			}]
+			title: "Лут з монстрів"
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			description: ["У тюремних камерах можна знайти багато цікавої зброї. З унікальними здібностями та властивостями."]
+			id: "3DC0EB3DFD818921"
+			rewards: [
+				{
+					id: "5E5775D459DC1388"
+					type: "xp"
+					xp: 100
+				}
+				{
+					id: "49DE0A226319E400"
+					item: {
+						Count: 1
+						id: "endermanoverhaul:savanna_hood"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			subtitle: "Нова зброя"
+			tasks: [{
+				id: "43392DC2292E7BEE"
+				item: {
+					Count: 1
+					id: "minecells:assassins_dagger"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 0.5d
+			y: -1.5d
+		}
+		{
+			description: ["У тюремних камерах можна знайти багато цікавої зброї. З унікальними здібностями та властивостями."]
+			id: "5757EBCB2468894C"
+			rewards: [{
+				id: "06FA1B005620528A"
+				type: "xp"
+				xp: 200
+			}]
+			subtitle: "Нова зброя"
+			tasks: [{
+				id: "6B88957DA9AF8051"
+				item: {
+					Count: 1
+					id: "minecells:broadsword"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 2.5d
+			y: -1.5d
+		}
+		{
+			description: ["У тюремних камерах можна знайти багато цікавої зброї. З унікальними здібностями та властивостями."]
+			id: "1C5C19CFD1532601"
+			rewards: [
+				{
+					id: "1E222AFB3B08A50B"
+					item: "artifacts:night_vision_goggles"
+					type: "item"
+				}
+				{
+					id: "3393C30EE94EF838"
+					type: "xp"
+					xp: 100
+				}
+			]
+			subtitle: "Нова зброя"
+			tasks: [{
+				id: "43855EFE92C44B29"
+				item: {
+					Count: 1
+					id: "minecells:crowbar"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 1.5d
+			y: 1.5d
+		}
+		{
+			description: ["У тюремних камерах можна знайти багато цікавої зброї. З унікальними здібностями та властивостями."]
+			id: "014987B0F2765118"
+			rewards: [
+				{
+					id: "4EB20FF9BDAF1419"
+					type: "xp"
+					xp: 100
+				}
+				{
+					count: 15
+					id: "048251C50FFF872A"
+					item: "ecologics:walnut"
+					type: "item"
+				}
+			]
+			subtitle: "Нова зброя"
+			tasks: [{
+				id: "09F86803A1082B95"
+				item: {
+					Count: 1
+					id: "minecells:nutcracker"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 2.5d
+			y: 1.5d
+		}
+		{
+			description: ["У тюремних камерах можна знайти багато цікавої зброї. З унікальними здібностями та властивостями."]
+			id: "0075259DCC7B1284"
+			rewards: [{
+				id: "0805C5DBF94EB4C2"
+				type: "xp"
+				xp: 100
+			}]
+			subtitle: "Нова зброя"
+			tasks: [{
+				id: "3E486340E1D7427B"
+				item: {
+					Count: 1
+					id: "minecells:balanced_blade"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 0.5d
+			y: 1.5d
+		}
+		{
+			description: ["У тюремних камерах можна знайти багато цікавої зброї. З унікальними здібностями та властивостями."]
+			id: "3DCDB30B04FA5F4C"
+			rewards: [{
+				id: "669D582A47B1CF1B"
+				type: "xp"
+				xp: 100
+			}]
+			subtitle: "Нова зброя"
+			tasks: [{
+				id: "57CC8874BE0F9A45"
+				item: {
+					Count: 1
+					id: "minecells:hattoris_katana"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 3.5d
+			y: -1.5d
+		}
+		{
+			description: ["У тюремних камерах можна знайти багато цікавої зброї. З унікальними здібностями та властивостями."]
+			id: "0CC09E071A5E0792"
+			rewards: [
+				{
+					id: "11C784799A2DA9C4"
+					item: "endermanoverhaul:crimson_pearl"
+					type: "item"
+				}
+				{
+					id: "579C8888E95FF6EB"
+					type: "xp"
+					xp: 100
+				}
+			]
+			subtitle: "Нова зброя"
+			tasks: [{
+				id: "2182CD68FABAE504"
+				item: {
+					Count: 1
+					id: "minecells:spite_sword"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 3.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["03AEB33D12B22DB4"]
+			description: ["Згодом ви знайдете &bпортал&r у нову локацію: Стежка приречених. Вона являє собою густий червоний ліс з безліччю аванпостів!"]
+			id: "3A71A877A7F8A641"
+			rewards: [{
+				id: "0F0ADDD8E02C4AB9"
+				type: "xp"
+				xp: 200
+			}]
+			shape: "diamond"
+			size: 1.2d
+			tasks: [{
+				dimension: "minecells:promenade"
+				icon: {
+					Count: 1
+					id: "minecells:promenade_doorway"
+					tag: {
+						BlockEntityTag: { }
+					}
+				}
+				id: "419B353B474786D7"
+				title: "&dВідвідайте&r: Стежку Приречених"
+				type: "dimension"
+			}]
+			x: 4.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["3A71A877A7F8A641"]
+			description: ["У цьому підземеллі з'являться нові вороги. Які будуть сильнішими та небезпечнішими, ніж попередні."]
+			id: "0F1EE0EF96BD7E03"
+			rewards: [{
+				id: "3CA9898FEEA1DC7B"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "hexagon"
+			tasks: [{
+				entity: "minecells:mutated_bat"
+				id: "0416AF3FD2A7D383"
+				title: "&dВбийте&r: Мутованого кажана"
+				type: "kill"
+				value: 1L
+			}]
+			x: 6.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["3A71A877A7F8A641"]
+			description: ["У цьому підземеллі з'являться нові вороги. Які будуть сильнішими та небезпечнішими, ніж попередні."]
+			id: "67C6CADB4BC8E0ED"
+			rewards: [{
+				id: "34A0F67C04867C09"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "hexagon"
+			tasks: [{
+				entity: "minecells:runner"
+				id: "630A3897E32E0FEA"
+				title: "&dВбийте&r: Бігуна"
+				type: "kill"
+				value: 1L
+			}]
+			x: 6.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["3A71A877A7F8A641"]
+			description: ["У підземеллі вам потрібно буде знайти руну лози. Вона дозволить вам потрапити в наступну локацію: &eтюремні вежі&r. Як тільки ви знайшли її, вирушайте до порталу і біля нього шукайте велику вежу. У ній вам потрібно буде використати руну на спеціальній рослині, а потім піднятися на ліфті та увійти в портал тюремних веж."]
+			id: "739735329B8F7AB8"
+			rewards: [
+				{
+					id: "40C78E761A146E77"
+					type: "xp"
+					xp: 500
+				}
+				{
+					id: "181ABC9E7C156BBC"
+					item: "quarkdelight:lush_moss_salad"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "456B7E7146442069"
+				item: {
+					Count: 1
+					id: "minecells:vine_rune"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 7.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["4C3761D98359722B"]
+			description: ["У цих вежах з'являться нові вороги. Які будуть сильнішими та небезпечнішими, ніж попередні."]
+			id: "690C27A1F6005B84"
+			rewards: [{
+				id: "062CDBD22B7B1A7A"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "hexagon"
+			tasks: [{
+				entity: "minecells:sweeper"
+				id: "444101966AD55342"
+				title: "&dВбийте&r: Чистильника"
+				type: "kill"
+				value: 1L
+			}]
+			x: 10.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["4C3761D98359722B"]
+			description: ["У цих вежах з'являться нові вороги. Які будуть сильнішими та небезпечнішими, ніж попередні."]
+			id: "69BB43BBB8C6EFEB"
+			rewards: [{
+				id: "463D0BBEA9DB371D"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "hexagon"
+			tasks: [{
+				entity: "minecells:inquisitor"
+				id: "7AB0A730745F7E32"
+				title: "&dВбийте&r: Інквізитора"
+				type: "kill"
+				value: 1L
+			}]
+			x: 9.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["4C3761D98359722B"]
+			description: ["У цих вежах з'являться нові вороги. Які будуть сильнішими та небезпечнішими, ніж попередні."]
+			id: "0AC3952ECBE3377E"
+			rewards: [{
+				id: "4BAF9A6B91AE25F2"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "hexagon"
+			tasks: [{
+				entity: "minecells:buzzcutter"
+				id: "3C232E939865BB86"
+				title: "&dВбийте&r: Різака"
+				type: "kill"
+				value: 1L
+			}]
+			x: 11.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["739735329B8F7AB8"]
+			description: ["Увійдіть у локацію: &eТюремні вежі&r."]
+			id: "4C3761D98359722B"
+			rewards: [{
+				id: "2C94C21C74FD1BDA"
+				type: "xp"
+				xp: 500
+			}]
+			shape: "diamond"
+			size: 1.2d
+			tasks: [{
+				dimension: "minecells:ramparts"
+				icon: {
+					Count: 1
+					id: "minecells:ramparts_doorway"
+					tag: {
+						BlockEntityTag: { }
+					}
+				}
+				id: "35771AC66EFB09CD"
+				title: "&dВідвідайте&r: Тюремні вежі"
+				type: "dimension"
+			}]
+			x: 10.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["4C3761D98359722B"]
+			description: ["У міні-вежі, відміченій фіолетовим кольором, ви можете знайти портал, що веде на локацію: &dЧорний міст&r. Де вам потрібно буде битися з босом."]
+			id: "7DC4B051DD4FFCEA"
+			rewards: [{
+				id: "28C0522DE1AE558B"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "diamond"
+			size: 1.0d
+			tasks: [{
+				dimension: "minecells:black_bridge"
+				icon: {
+					Count: 1
+					id: "minecells:black_bridge_doorway"
+					tag: {
+						BlockEntityTag: { }
+					}
+				}
+				id: "48E5E5C315C194C1"
+				title: "&dВідвідайте&r: Чорний міст"
+				type: "dimension"
+			}]
+			x: 11.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["7DC4B051DD4FFCEA"]
+			description: ["Бийтеся з босом і переможіть його в нерівному бою!"]
+			id: "24FB034FCD1F3F88"
+			rewards: [{
+				id: "4A017DB70FEA6D43"
+				type: "xp"
+				xp: 1000
+			}]
+			tasks: [{
+				entity: "minecells:concierge"
+				icon: "minecells:concierge_respawn_rune"
+				id: "5F5C6DD1E43EF1A8"
+				title: "&dВбийте Боса&r: Консьєржа"
+				type: "kill"
+				value: 1L
+			}]
+			x: 12.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["4C3761D98359722B"]
+			description: ["Тепер вам потрібно знову знайти руну лози, а потім вирушити в тюремні камери. Знайти там спеціальну рослину. А забравшись по ній, ви побачите портал у &dнестерпну в'язницю&r. Де на вас чекатиме головний бос моду."]
+			id: "399CFC120D142F72"
+			rewards: [{
+				id: "3203C16574B3DD1C"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "diamond"
+			tasks: [{
+				dimension: "minecells:insufferable_crypt"
+				icon: {
+					Count: 1
+					id: "minecells:insufferable_crypt_doorway"
+					tag: {
+						BlockEntityTag: { }
+					}
+				}
+				id: "5154037B057DCB97"
+				title: "&dВідвідайте&r: Нестерпну в'язницю"
+				type: "dimension"
+			}]
+			x: 9.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["399CFC120D142F72"]
+			description: ["Перемігши &dфінального боса&r, ви зможете скрафтити зброю, а також зручний інструмент для переміщення під час падіння."]
+			id: "171E62447DB95FAB"
+			rewards: [{
+				id: "7503AF44AA5A639E"
+				type: "xp"
+				xp: 1500
+			}]
+			tasks: [{
+				id: "2F4A4F90BE97C0A3"
+				item: {
+					Count: 1
+					id: "minecells:tentacle"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 9.0d
+			y: 3.0d
+		}
+		{
+			description: ["У тюремних камерах можна знайти багато цікавої зброї. З унікальними здібностями та властивостями."]
+			id: "30C63061D40F34C6"
+			rewards: [{
+				id: "43B7E74CDCDBE34D"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "3B03E3D6B2857F17"
+				item: {
+					Count: 1
+					id: "minecells:rampart"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 1.0d
+			y: 2.5d
+		}
+		{
+			description: ["У тюремних камерах можна знайти багато цікавої зброї. З унікальними здібностями та властивостями."]
+			id: "1A238979DAF371F9"
+			rewards: [{
+				id: "623689F560B642DD"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "0F2310C8D2DF1042"
+				item: {
+					Count: 1
+					id: "minecells:assault_shield"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 2.0d
+			y: 2.5d
+		}
+		{
+			description: ["У тюремних камерах можна знайти багато цікавої зброї. З унікальними здібностями та властивостями."]
+			id: "505041A326DC7FD2"
+			rewards: [{
+				id: "327959C46C45BD44"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "0B38FFB5A0F92A8F"
+				item: {
+					Count: 1
+					id: "minecells:cudgel"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 1.0d
+			y: -2.5d
+		}
+		{
+			description: ["У тюремних камерах можна знайти багато цікавої зброї. З унікальними здібностями та властивостями."]
+			id: "5A96C3D0F01B1B45"
+			rewards: [{
+				id: "3899123BEEEB26AB"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "74047DD277BBC6CD"
+				item: {
+					Count: 1
+					id: "minecells:bloodthirsty_shield"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 2.0d
+			y: -2.5d
+		}
+		{
+			description: ["У тюремних камерах можна знайти багато цікавої зброї. З унікальними здібностями та властивостями."]
+			id: "3B635C3161CEDF40"
+			rewards: [{
+				id: "663410ABDD728B98"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "19FA722AA558B0DD"
+				item: {
+					Count: 1
+					id: "minecells:greed_shield"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 3.0d
+			y: 2.5d
+		}
+		{
+			description: ["У тюремних камерах можна знайти багато цікавої зброї. З унікальними здібностями та властивостями."]
+			id: "1173BED16A6A0ABB"
+			rewards: [{
+				id: "4EB9064C055FFEFD"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "14609F7D25F97C8F"
+				item: {
+					Count: 1
+					id: "minecells:ice_shield"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 4.0d
+			y: -2.5d
+		}
+		{
+			description: ["У тюремних камерах можна знайти багато цікавої зброї. З унікальними здібностями та властивостями."]
+			id: "735F52B48B09FA8E"
+			rewards: [{
+				id: "11E232A3DE0EC13F"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "7350D0BFF0ED44B7"
+				item: {
+					Count: 1
+					id: "minecells:electric_whip"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 3.0d
+			y: -2.5d
+		}
+		{
+			description: ["У тюремних камерах можна знайти багато цікавої зброї. З унікальними здібностями та властивостями."]
+			id: "79928111A6F8F965"
+			rewards: [{
+				id: "6D6FBD9980A50A4F"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "70CFD6BFB1C26DC6"
+				item: {
+					Count: 1
+					id: "minecells:lightning_bolt"
+					tag: {
+						Damage: 0
+						targetId: -1
+					}
+				}
+				type: "item"
+			}]
+			x: 4.0d
+			y: 2.5d
+		}
+		{
+			description: ["У тюремних камерах можна знайти багато цікавої зброї. З унікальними здібностями та властивостями."]
+			id: "093BFFE927DF247A"
+			rewards: [{
+				id: "088A76C4BA2CE238"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "70BC720D1790EB2E"
+				item: "minecells:firebrands"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 2.5d
+		}
+		{
+			description: ["У тюремних камерах можна знайти багато цікавої зброї. З унікальними здібностями та властивостями."]
+			id: "2EB98EA09E92A9F7"
+			rewards: [{
+				id: "68A4433AE6CE4D13"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "70A1861E9417AF58"
+				item: {
+					Count: 1
+					id: "minecells:blood_sword"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 1.5d
+			y: -1.5d
+		}
+		{
+			description: ["У тюремних камерах можна знайти багато цікавої зброї. З унікальними здібностями та властивостями."]
+			id: "7E670593D94DA7A8"
+			rewards: [{
+				id: "2C8141E7F605BA6F"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "46EED7D1C4DF1AB5"
+				item: {
+					Count: 1
+					id: "minecells:cursed_sword"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 0.0d
+			y: -2.5d
+		}
+		{
+			description: ["У тюремних камерах можна знайти багато цікавої зброї. З унікальними здібностями та властивостями."]
+			id: "40698C39A0667758"
+			rewards: [{
+				id: "6E8703E92D7F0FA4"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "65C431C436EE6901"
+				item: {
+					Count: 1
+					id: "minecells:heavy_crossbow"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 0.5d
+			y: 3.5d
+		}
+		{
+			description: ["У тюремних камерах можна знайти багато цікавої зброї. З унікальними здібностями та властивостями."]
+			id: "485773C41F04E7A3"
+			rewards: [{
+				id: "5B4BBFF4413A6527"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "1F98F9C8702C5352"
+				item: {
+					Count: 1
+					id: "minecells:multiple_nocks_bow"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 1.5d
+			y: 3.5d
+		}
+		{
+			description: ["У тюремних камерах можна знайти багато цікавої зброї. З унікальними здібностями та властивостями."]
+			id: "1510677F035C9F54"
+			rewards: [{
+				id: "67402CBE79B52DCE"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "0235B3FC2B266B29"
+				item: {
+					Count: 1
+					id: "minecells:ice_bow"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 2.5d
+			y: 3.5d
+		}
+		{
+			description: ["У тюремних камерах можна знайти багато цікавої зброї. З унікальними здібностями та властивостями."]
+			id: "784B5694FEB97590"
+			rewards: [{
+				id: "77B22B4461E1F92F"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "2CD56981F2B71DAC"
+				item: {
+					Count: 1
+					id: "minecells:nerves_of_steel"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 3.5d
+			y: 3.5d
+		}
+		{
+			description: ["У тюремних камерах можна знайти багато цікавої зброї. З унікальними здібностями та властивостями."]
+			id: "40139F29FA1F71B4"
+			rewards: [{
+				id: "0F8706B9347E5549"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "1C4E3D11F9BF216D"
+				item: {
+					Count: 1
+					id: "minecells:bow_and_endless_quiver"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 0.5d
+			y: -3.5d
+		}
+		{
+			description: ["У тюремних камерах можна знайти багато цікавої зброї. З унікальними здібностями та властивостями."]
+			id: "6252EE2E96D0A990"
+			rewards: [{
+				id: "743C2506C4C5E3CD"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "267C7CA9083630E8"
+				item: {
+					Count: 1
+					id: "minecells:marksmans_bow"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 1.5d
+			y: -3.5d
+		}
+		{
+			description: ["У тюремних камерах можна знайти багато цікавої зброї. З унікальними здібностями та властивостями."]
+			id: "36CEF7E664CB69A2"
+			rewards: [{
+				id: "2A05B434898B2DD3"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "74D44B5A98F9D37A"
+				item: {
+					Count: 1
+					id: "minecells:infantry_bow"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 2.5d
+			y: -3.5d
+		}
+		{
+			description: ["У тюремних камерах можна знайти багато цікавої зброї. З унікальними здібностями та властивостями."]
+			id: "05999DDD1E23A6FF"
+			rewards: [{
+				id: "4E72BCFA3133414F"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "594E25D8902F15AD"
+				item: {
+					Count: 1
+					id: "minecells:quick_bow"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 3.5d
+			y: -3.5d
+		}
+	]
+	title: "&d2.2&r: &lЗабуті Катакомби"
+}

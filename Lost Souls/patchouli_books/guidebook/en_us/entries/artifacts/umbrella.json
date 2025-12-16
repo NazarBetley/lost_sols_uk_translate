@@ -1,0 +1,17 @@
+{
+    "name": "Парасоля",
+    "icon": "artifacts:umbrella",
+    "category": "patchouli:artefact_category",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Парасоля? Серйозно? Ну гаразд.. Глянемо на її плюси: вона гарна, добре лежить у руці, червоно-біла... і все?.."
+        },
+        {
+            "type": "spotlight",
+            "title": "Парасоля",
+            "text": "Уповільнює ваше падіння, якщо тримати в руці. Також можна використовувати як щит.",
+            "item": "artifacts:umbrella"
+        }
+    ]
+}

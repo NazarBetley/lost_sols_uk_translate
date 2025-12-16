@@ -1,0 +1,19 @@
+{
+    "name": "Альфа-Єті",
+    "icon": "twilightforest:alpha_yeti_trophy",
+    "sortnum": 6,
+    "category": "patchouli:boss2_category",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Альфа-Єті — це легкий бос $(l:patchouli:world/twilightforest)$(#5BA52E)Сутінкового лісу$(). Його можна знайти в зимовому біомі на поверхні, у невеликому пагорбі неподалік від крижаного замку. Цей бос є проміжним етапом для відкриття шляху до Королеви."
+        },
+        {
+            "type": "entity",
+            "name": "Альфа-Єті",
+            "text": "Цей бос зустрічається в $(l:patchouli:world/twilightforest)$(#5BA52E)Сутінковому лісі$().",
+            "entity": "twilightforest:alpha_yeti",
+            "scale": "0.6"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Коренеходи",
+    "icon": "artifacts:rooted_boots",
+    "category": "patchouli:artefact_category",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Ці черевики дуже схожі на ті, що дозволяють бігати по воді. Дивно: коли я біжу по землі, мої сили, витрачені за день, відновлюються. Мені подобається такий результат!"
+        },
+        {
+            "type": "spotlight",
+            "title": "Коренеходи",
+            "text": "Повільно втамовують голод під час ходьби по траві.",
+            "item": "artifacts:rooted_boots"
+        }
+    ]
+}

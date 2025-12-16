@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " #S",
+        "#S ",
+        "S B"
+    ],
+    "key": {
+        "#": {
+            "item": "savage_and_ravage:blast_proof_plating"
+        },
+        "S": {
+            "item": "caverns_and_chasms:necromium_ingot"
+        },
+        "B": {
+            "item": "fantasy_armor:moon_crystal"
+        }
+    },
+    "result": {
+        "item": "celestisynth:crescentia",
+        "count": 1
+    }
+}

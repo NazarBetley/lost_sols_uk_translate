@@ -1,0 +1,17 @@
+{
+    "name": "Намисто медузи",
+    "icon": "relics:jellyfish_necklace",
+    "category": "patchouli:relics_category",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Я завдаю шкоди своїм союзникам, просто торкаючись? Це ж електрика, яку ми проводимо під час натирання одягу!"
+        },
+        {
+            "type": "spotlight",
+            "title": "Намисто медузи",
+            "text": "Ви можете завдавати шкоди будь-яким мобам або гравцям, просто підійшовши до них впритул.",
+            "item": "relics:jellyfish_necklace"
+        }
+    ]
+}

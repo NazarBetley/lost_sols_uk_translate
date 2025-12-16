@@ -1,0 +1,17 @@
+{
+    "name": "Золотий гак",
+    "icon": "artifacts:golden_hook",
+    "category": "patchouli:artefact_category",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Здається, цей гак випав з якогось пірата, коли вони досліджували шахти... Гм, можливо, цей предмет допоможе з досвідом!"
+        },
+        {
+            "type": "spotlight",
+            "title": "Золотий гак",
+            "text": "Цей гак дозволяє отримувати більше досвіду за вбивство істот.",
+            "item": "artifacts:golden_hook"
+        }
+    ]
+}

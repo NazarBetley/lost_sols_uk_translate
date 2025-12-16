@@ -1,0 +1,17 @@
+{
+    "name": "Нагрівач кайла",
+    "icon": "artifacts:pickaxe_heater",
+    "category": "patchouli:artefact_category",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Ого! Ця рукавиця може бути дуже корисною в шахті. Вона така гаряча, що нею можна плавити руду одразу! Дуже цікаво..."
+        },
+        {
+            "type": "spotlight",
+            "title": "Нагрівач кайла",
+            "text": "Автоматично переплавляє видобуту вами руду.",
+            "item": "artifacts:pickaxe_heater"
+        }
+    ]
+}

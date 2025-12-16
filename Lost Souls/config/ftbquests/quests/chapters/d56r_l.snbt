@@ -1,0 +1,1266 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "d56r_l"
+	group: "5EB751CA5EA0FA30"
+	icon: {
+		Count: 1
+		id: "aquamirae:coral_lance"
+		tag: {
+			Damage: 0
+			Enchantments: [{
+				id: "minecraft:unbreaking"
+				lvl: 4s
+			}]
+		}
+	}
+	id: "3A51F81E62930284"
+	images: [
+		{
+			height: 1.0d
+			image: "aquamirae:item/luminescent_lamp"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.3500000000000085d
+			y: -0.965986394557838d
+		}
+		{
+			height: 1.0d
+			image: "aquamirae:item/luminescent_lamp"
+			rotation: 45.0d
+			width: 1.0d
+			x: 2.9860544217687135d
+			y: -0.5578231292517088d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:item/sweet_berries"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.319387755102042d
+			y: -0.8078231292517088d
+		}
+		{
+			height: 1.0d
+			image: "create:item/chocolate_glazed_berries"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.5d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "aquamirae:block/oxygelium_bud"
+			rotation: 15.0d
+			width: 1.0d
+			x: 1.2394557823129446d
+			y: -2.397959183673482d
+		}
+		{
+			height: 1.0d
+			image: "aether:item/accessories/golden_feather"
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.13129251700679134d
+			y: -3.8656462585034177d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/amethyst_cluster"
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.48843537414964544d
+			y: -1.1377551020408347d
+		}
+		{
+			height: 1.0d
+			image: "aquamirae:item/abyssal_amethyst"
+			rotation: -150.0d
+			width: 1.0d
+			x: -0.8557823129251574d
+			y: -0.3214285714285907d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:textures/mob_effect/poison.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.651700680272107d
+			y: 0.5357142857142705d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:textures/mob_effect/poison.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.059863945578229d
+			y: 1.7602040816326365d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:textures/mob_effect/poison.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.6721088435374085d
+			y: -0.40306122448981085d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:textures/mob_effect/poison.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.311564625850345d
+			y: 1.1853741496598502d
+		}
+		{
+			height: 1.0d
+			image: "alexsmobs:item/fish_bones"
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.07346938775510381d
+			y: 2.828231292516982d
+		}
+		{
+			height: 1.0d
+			image: "iceandfire:item/dragonbone"
+			rotation: -14.0d
+			width: 1.0d
+			x: -0.3353741496598772d
+			y: 1.9710884353741278d
+		}
+		{
+			height: 1.0d
+			image: "aquamirae:item/sharp_bones"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.0d
+			y: 3.0d
+		}
+		{
+			height: 1.0d
+			image: "aquamirae:item/echo"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.8360544217686936d
+			y: -0.273129251700702d
+		}
+		{
+			height: 1.0d
+			image: "aquamirae:item/wisteria_niveis"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.5d
+			y: 2.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/soul_campfire_fire"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.4568027210884367d
+			y: 0.5743197278911509d
+		}
+		{
+			height: 1.0d
+			image: "aquamirae:textures/mob_effect/crystallization.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.256802721088434d
+			y: 0.06003401360543137d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/mob_effect/paralysis.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.78537414965988d
+			y: 1.2981292517006722d
+		}
+		{
+			height: 1.0d
+			image: "aquamirae:item/oxygen_tank"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.118707482993209d
+			y: 2.5124149659863804d
+		}
+		{
+			height: 1.0d
+			image: "aquamirae:item/oxygen_tank"
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.642517006802734d
+			y: 3.0124149659863875d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:item/soul_fire_lantern"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.8465986394557916d
+			y: 3.637585034013604d
+		}
+		{
+			height: 1.0d
+			image: "alexsmobs:item/skreecher_soul"
+			rotation: -14.0d
+			width: 1.0d
+			x: 2.785374149659873d
+			y: 2.596768707482994d
+		}
+		{
+			height: 1.0d
+			image: "quark:block/blue_corundum_cluster"
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.556802721088445d
+			y: 0.9243197278911595d
+		}
+		{
+			height: 1.0d
+			image: "aquamirae:item/fin"
+			rotation: -14.0d
+			width: 1.0d
+			x: 0.6928571428571431d
+			y: 3.6454081632653086d
+		}
+		{
+			height: 1.0d
+			image: "aquamirae:item/fin"
+			rotation: 15.0d
+			width: 1.0d
+			x: 1.284693877551021d
+			y: 3.6862244897959187d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/medium_amethyst_bud"
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.526190476190479d
+			y: 6.318877551020414d
+		}
+		{
+			height: 1.0d
+			image: "cataclysm:item/amethyst_crab_meat"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.311904761904749d
+			y: 5.842687074829925d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/large_amethyst_bud"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.454761904761895d
+			y: 5.914115646258502d
+		}
+		{
+			height: 1.0d
+			image: "cataclysm:item/amethyst_crab_shell"
+			rotation: -175.0d
+			width: 1.0d
+			x: 2.9785714285714207d
+			y: 7.342687074829925d
+		}
+		{
+			height: 1.0d
+			image: "cataclysm:item/amethyst_crab_shell"
+			rotation: -5.0d
+			width: 1.0d
+			x: 3.6214285714285595d
+			y: 6.747448979591837d
+		}
+		{
+			height: 1.0d
+			image: "aquamirae:item/abyssal_amethyst"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.834013605442173d
+			y: 7.585884353741477d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/calibrated_sculk_sensor_amethyst"
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.344217687074824d
+			y: 7.994047619047599d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:item/amethyst_shard"
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.752380952380946d
+			y: 8.34098639455781d
+		}
+	]
+	order_index: 5
+	quest_links: [ ]
+	quests: [
+		{
+			description: [
+				"Цей біом є головною точкою інтересу в моді &b&lAquamirae!"
+				"Досліджуйте нові структури, розгадуйте складні загадки, а також перемагайте небезпечних супротивників!"
+			]
+			icon: "aquamirae:rune_of_the_storm"
+			id: "691576CCDF60F398"
+			rewards: [
+				{
+					id: "295D05C546E95786"
+					type: "xp"
+					xp: 200
+				}
+				{
+					id: "49DA1E1E01C15D43"
+					item: "aquamirae:luminescent_bubble"
+					type: "item"
+				}
+			]
+			subtitle: "Яка небезпека на вас тут чекає?.."
+			tasks: [{
+				biome: "#aquamirae:ice_maze"
+				icon: "aquamirae:rune_of_the_storm"
+				id: "27C580C95525F7E8"
+				title: "Таємничі Крижані скелі"
+				type: "biome"
+			}]
+			title: "Таємничі Крижані скелі"
+			x: 1.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["691576CCDF60F398"]
+			description: [
+				"Цей міні-бос схожий на ската, але на спині у нього будуть численні нарости аметистів &l&5безодні&r&r."
+				""
+				"Міні-бос з'являється в Крижаному лабіринті з маленьким шансом."
+				""
+				"&o&8При появі міні-боса, всі гравці отримують повідомлення в чаті: \"Ви відчуваєте вібрацію під льодом\"."
+			]
+			id: "5B5EAC4E2A01F42E"
+			rewards: [
+				{
+					id: "275103E2D44F1C7E"
+					type: "xp"
+					xp: 500
+				}
+				{
+					count: 2
+					id: "1804B942568B38C6"
+					item: "aquamirae:ship_graveyard_echo"
+					type: "item"
+				}
+			]
+			subtitle: "Що б це могло означати?"
+			tasks: [{
+				entity: "aquamirae:maze_mother"
+				id: "685ADA20E6AD2D8F"
+				title: "&d&lТремтіння під ногами"
+				type: "kill"
+				value: 1L
+			}]
+			x: -0.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["691576CCDF60F398"]
+			description: [
+				"Ця запіканка злегка збільшує наносиму гравцем шкоду!"
+				""
+				"&o&8Накладає ефекти \"Сила\", а також \"Натиск II\"."
+			]
+			id: "3279322DEC176897"
+			rewards: [{
+				id: "52671DD20964183A"
+				type: "xp"
+				xp: 100
+			}]
+			subtitle: "Дуже ситна запіканка"
+			tasks: [{
+				id: "65FDC9318E21ADCA"
+				item: "aquamirae:sea_casserole"
+				type: "item"
+			}]
+			x: 1.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["3279322DEC176897"]
+			description: ["Рецепт цієї страви давно гуляє морями, годуючи вже не одне покоління морських дослідників!"]
+			id: "01A7B8E3405A80BC"
+			rewards: [
+				{
+					id: "4DD28060BEAF7F58"
+					type: "xp"
+					xp: 200
+				}
+				{
+					id: "124F87938E258547"
+					item: "minecraft:pufferfish"
+					type: "item"
+				}
+				{
+					id: "5326B9E9F0336C29"
+					item: "aquamirae:spinefish"
+					type: "item"
+				}
+			]
+			subtitle: "Виглядає дивно, але чи смачне воно?"
+			tasks: [{
+				id: "6CF5F4053E753059"
+				item: "aquamirae:sea_stew"
+				type: "item"
+			}]
+			x: 1.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["01A7B8E3405A80BC"]
+			description: [
+				"Цю страву їв сам Посейдон!"
+				"Дуже важка у приготуванні страва, але дає безліч корисних ефектів!"
+			]
+			id: "21EC900302A23D9A"
+			rewards: [
+				{
+					id: "4F8D06125C4AF665"
+					type: "xp"
+					xp: 500
+				}
+				{
+					id: "75A9D1C1E55900BE"
+					item: "minecraft:golden_apple"
+					type: "item"
+				}
+			]
+			subtitle: "Неймовірно смачно, правда водорості в зубах застряють"
+			tasks: [{
+				id: "42ABA4961948FC77"
+				item: "aquamirae:poseidons_breakfast"
+				type: "item"
+			}]
+			title: "&b&lСніданок по-божественному "
+			x: -0.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["691576CCDF60F398"]
+			description: [
+				"Цей горн використовувався командою для призову капітана Корнелії, коли ті губилися в &bКрижаному лабіринті&r."
+				""
+				"&o&8Випадає цей предмет з розбійника у величезному форт-пості в біомі мода."
+			]
+			id: "1E5229F09038B2F6"
+			rewards: [
+				{
+					id: "45C529F3FB1B18BA"
+					type: "xp"
+					xp: 1000
+				}
+				{
+					id: "1041F71E30DFBD9A"
+					item: "aquamirae:poseidons_breakfast"
+					type: "item"
+				}
+			]
+			subtitle: "Хто вона?.."
+			tasks: [{
+				id: "69C994776C03E1F1"
+				item: "aquamirae:shell_horn"
+				type: "item"
+			}]
+			title: "&5&lГорн Корнелії"
+			x: 3.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["1E5229F09038B2F6"]
+			description: ["Ця зброя належала капітану Корнелії, так отримайте її в нерівному бою і скористайтеся її можутьністю!"]
+			id: "7314103860941036"
+			rewards: [
+				{
+					id: "70B2D95F233D13F7"
+					type: "xp"
+					xp: 200
+				}
+				{
+					id: "18830E5835C7C90F"
+					item: {
+						Count: 1
+						id: "minecraft:enchanted_book"
+						tag: {
+							StoredEnchantments: [{
+								id: "minecraft:respiration"
+								lvl: 3s
+							}]
+						}
+					}
+					type: "item"
+				}
+			]
+			subtitle: "Потужна зброя самої Корнелії!"
+			tasks: [{
+				id: "2DE625CA7D3F6E8B"
+				item: {
+					Count: 1
+					id: "aquamirae:coral_lance"
+					tag: {
+						Damage: 0
+						Enchantments: [{
+							id: "minecraft:unbreaking"
+							lvl: 4s
+						}]
+					}
+				}
+				type: "item"
+			}]
+			title: "&5&lКораловий спис "
+			x: 5.272108843537431d
+			y: 0.08571428571428896d
+		}
+		{
+			dependencies: ["1E5229F09038B2F6"]
+			description: ["Цей ключ потрібен для відкриття &bскарбниці&r піратів у їхньому &4сховищі&r."]
+			id: "2B665C7E9BC90576"
+			rewards: [{
+				id: "757C01D0429B8BED"
+				type: "xp"
+				xp: 450
+			}]
+			subtitle: "Скарби?"
+			tasks: [{
+				id: "2346D05D350AC6A4"
+				item: "aquamirae:frozen_key"
+				type: "item"
+			}]
+			x: 5.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["2B665C7E9BC90576"]
+			description: [
+				"З &1&bКорнелії&r&r падає мапа, яка вказує на сховище піратів, де і заритий скарб"
+				""
+				"&o&8Будьте обережні, адже скарб охороняється."
+			]
+			icon: "aquamirae:frozen_chest"
+			id: "43FC0034D94FDE81"
+			rewards: [
+				{
+					id: "4DFAA6DF0385E1D1"
+					type: "xp"
+					xp: 350
+				}
+				{
+					id: "09665F4838E86894"
+					item: {
+						Count: 1
+						id: "minecraft:potion"
+						tag: {
+							Potion: "alexsmobs:speed_iii"
+						}
+					}
+					type: "item"
+				}
+			]
+			subtitle: "Знайдіть заморожений скарб!"
+			tasks: [{
+				icon: "aquamirae:frozen_chest"
+				id: "24591D13D005004E"
+				structure: "aquamirae:shelter"
+				title: "Клад"
+				type: "structure"
+			}]
+			title: "Знайти, де заховані скарби!!!"
+			x: 8.482312925170078d
+			y: 1.5442176870748199d
+		}
+		{
+			dependencies: ["1E5229F09038B2F6"]
+			description: [
+				"Шолом з цього комплекту броні падає з самої Корнелії, інші частини ви зможете скрафтити з артефактів, що випали з боса. "
+				""
+				"&o&8Шолом з нагрудником дозволяють нескінченно дихати під водою, а повний комплект захистить вас від холоду"
+			]
+			id: "58E49BAE0A3D75D7"
+			rewards: [{
+				id: "039B3EB70FBEEE43"
+				type: "xp"
+				xp: 300
+			}]
+			subtitle: "Броня для підводних занурень"
+			tasks: [
+				{
+					id: "444F534AFD288D79"
+					item: {
+						Count: 1
+						id: "aquamirae:three_bolt_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "0270E2F7A010DAA7"
+					item: {
+						Count: 1
+						id: "aquamirae:three_bolt_suit"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "0784F6665E8EEB1A"
+					item: {
+						Count: 1
+						id: "aquamirae:three_bolt_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "1FB5799FC8ADF4F0"
+					item: {
+						Count: 1
+						id: "aquamirae:three_bolt_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: 4.772108843537431d
+			y: 2.7642857142857125d
+		}
+		{
+			dependencies: ["1E5229F09038B2F6"]
+			description: [
+				"Цей предмет потрібен для створення найкращого спорядження з даного мода. "
+				"&o&oВипадає з &4Корнелії&r та &9Вугра&r, які знаходяться у &1Сховищі&r&r&r"
+			]
+			id: "6DD9F95E8ED8D5AD"
+			rewards: [
+				{
+					id: "71F7C136CE6C471C"
+					type: "xp"
+					xp: 100
+				}
+				{
+					id: "76EB2BEB2F40187B"
+					item: "minecraft:golden_apple"
+					type: "item"
+				}
+			]
+			subtitle: "Чується скрегіт у палубі..."
+			tasks: [{
+				id: "289E49367E25B1C2"
+				item: "aquamirae:ship_graveyard_echo"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["691576CCDF60F398"]
+			description: [
+				"Випадає з пащі або &1Вудильника&r."
+				""
+				"&1Паща&r - новий моб, який спавниться вночі в &b&lкрижаному лабіринті"
+				""
+				"&1Вудильник&r - новий моб, який спавниться у воді &b&lкрижаного лабіринту"
+			]
+			id: "5A40A3BC30D4BCC3"
+			rewards: [
+				{
+					id: "3FE444690E2969DC"
+					type: "xp"
+					xp: 100
+				}
+				{
+					count: 2
+					id: "2A42CBEFCC45A19E"
+					item: "aquamirae:fin"
+					type: "item"
+				}
+			]
+			subtitle: "Плавник якоїсь страшної рибки"
+			tasks: [{
+				id: "02C858069571F0F5"
+				item: "aquamirae:fin"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 2.5d
+		}
+		{
+			dependencies: [
+				"5A40A3BC30D4BCC3"
+				"6DD9F95E8ED8D5AD"
+			]
+			description: ["Потужна броня, створена з останків підводних мешканців &b&lКрижаного лабіринту&r&b&r"]
+			id: "27B880ADB8AC0390"
+			rewards: [{
+				id: "40A2F823BDC281AF"
+				type: "xp"
+				xp: 500
+			}]
+			subtitle: "Броня, що вселяє жах..."
+			tasks: [
+				{
+					id: "3ACAE59B1632B620"
+					item: {
+						Count: 1
+						id: "aquamirae:terrible_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "0898F36206CB2355"
+					item: {
+						Count: 1
+						id: "aquamirae:terrible_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "50E3609A2D39CEBC"
+					item: {
+						Count: 1
+						id: "aquamirae:terrible_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "4F7E824E6D6CCC4C"
+					item: {
+						Count: 1
+						id: "aquamirae:terrible_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: 1.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["6DD9F95E8ED8D5AD"]
+			description: ["Ці нарости служать матеріалом для створення одного з &l&5найкращих споряджень&r&r, яке існує в &b&lКрижаному лабіринті&r&r"]
+			id: "1C60B170B028CEE3"
+			rewards: [{
+				id: "0D3D54A397651C42"
+				type: "xp"
+				xp: 250
+			}]
+			subtitle: "Нарости зі спини жахливого ската"
+			tasks: [{
+				id: "5E16F9431F0688BA"
+				item: "aquamirae:abyssal_amethyst"
+				type: "item"
+			}]
+			x: 3.5d
+			y: 5.5d
+		}
+		{
+			dependencies: ["1C60B170B028CEE3"]
+			description: [
+				"Сильна зброя, що володіє серйозними характеристиками. "
+				"&8&oДля детальної інформації при огляді предмета натисніть \"Shift\"."
+			]
+			id: "1D591841464CA82A"
+			rewards: [
+				{
+					id: "4C29E8D436E33FB1"
+					type: "xp"
+					xp: 200
+				}
+				{
+					id: "16881167BF0F3B49"
+					item: "cataclysm:amethyst_crab_meat"
+					type: "item"
+				}
+			]
+			subtitle: "Може вколоти"
+			tasks: [{
+				id: "26B64B99462B7C1F"
+				item: {
+					Count: 1
+					id: "aquamirae:maze_rose"
+					tag: {
+						Damage: 0
+						Enchantments: [
+							{
+								id: "obscure_api:distance"
+								lvl: 3s
+							}
+							{
+								id: "obscure_api:fast_spin"
+								lvl: 5s
+							}
+						]
+					}
+				}
+				type: "item"
+			}]
+			x: 5.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["1C60B170B028CEE3"]
+			description: [
+				"Сильна зброя, що володіє серйозними характеристиками. "
+				"&8&oДля детальної інформації при огляді предмета натисніть \"Shift\"."
+			]
+			id: "28823032317DFC8D"
+			rewards: [
+				{
+					id: "567431DAFFB86624"
+					type: "xp"
+					xp: 200
+				}
+				{
+					id: "3B8C2D920C5EE6A7"
+					item: {
+						Count: 1
+						id: "minecraft:enchanted_book"
+						tag: {
+							StoredEnchantments: [{
+								id: "minecraft:aqua_affinity"
+								lvl: 1s
+							}]
+						}
+					}
+					type: "item"
+				}
+			]
+			subtitle: "Серйозний аметистовий клинок"
+			tasks: [{
+				id: "566DBF46D464CB60"
+				item: {
+					Count: 1
+					id: "aquamirae:divider"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 2.5d
+			y: 6.5d
+		}
+		{
+			dependencies: ["1C60B170B028CEE3"]
+			description: [
+				"Сильний спис, що володіє серйозними характеристиками. "
+				"&8&oДля детальної інформації при огляді предмета натисніть \"Shift\"."
+			]
+			id: "48F04FD88B61FBEC"
+			rewards: [
+				{
+					id: "534D1460A0429620"
+					type: "xp"
+					xp: 200
+				}
+				{
+					id: "7A18E97E7B4629C0"
+					item: "cataclysm:amethyst_crab_meat"
+					type: "item"
+				}
+			]
+			subtitle: "Найнебезпечніша зброя, яку ви тільки могли бачити"
+			tasks: [{
+				id: "541ACB55A032946B"
+				item: {
+					Count: 1
+					id: "aquamirae:whisper_of_the_abyss"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 3.3027210884353977d
+			y: 7.1061224489795904d
+		}
+		{
+			dependencies: ["1C60B170B028CEE3"]
+			description: [
+				"З цією бронею ви станете самим володарем Крижаного Лабіринту!"
+				""
+				"&8&oБонус комплекту броні залежить від обраного шолома"
+			]
+			id: "2813252AA3005D27"
+			rewards: [
+				{
+					id: "73ABD76A6B8BEE89"
+					type: "xp"
+					xp: 300
+				}
+				{
+					id: "0F09EA83E657F8E0"
+					item: "cataclysm:blessed_amethyst_crab_meat"
+					type: "item"
+				}
+			]
+			subtitle: "Броня володаря Крижаного Лабіринту"
+			tasks: [
+				{
+					id: "3169BACD844D294D"
+					item: {
+						Count: 1
+						id: "aquamirae:abyssal_brigantine"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "3A0796834AE0F837"
+					item: {
+						Count: 1
+						id: "aquamirae:abyssal_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "74D342850B5DCBBE"
+					item: {
+						Count: 1
+						id: "aquamirae:abyssal_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: 4.5d
+			y: 7.0d
+		}
+		{
+			dependencies: ["2813252AA3005D27"]
+			description: [
+				"Ефект даного шолома полягає в тому, що ви зможете &l&6уникнути смерті&r&r, але натомість ваш персонаж буде &l&0проклятий&r&r на деякий час."
+				""
+				"&8&oДля детальної інформації при огляді предмета натисніть \"Shift\"."
+			]
+			id: "539B28708603660B"
+			rewards: [
+				{
+					id: "30E02EB455030A97"
+					item: {
+						Count: 1
+						id: "minecraft:enchanted_book"
+						tag: {
+							StoredEnchantments: [{
+								id: "minecraft:fortune"
+								lvl: 3s
+							}]
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "3EE91EF774652030"
+					type: "xp"
+					xp: 500
+				}
+			]
+			subtitle: "Обдури саму смерть!"
+			tasks: [{
+				id: "63F8B553ADBAFDE4"
+				item: {
+					Count: 1
+					id: "aquamirae:abyssal_heaume"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 4.5d
+			y: 8.5d
+		}
+		{
+			dependencies: ["2813252AA3005D27"]
+			description: [
+				"Здібність цієї &5&lтіари&r&r полягає в тому, що вона створює навколо вас &l&6поле&r, яке &l&6засліплює&r&r ваших ворогів"
+				""
+				"&8&oДля детальної інформації при огляді предмета натисніть \"Shift\"."
+			]
+			id: "365C7447A6734224"
+			rewards: [
+				{
+					id: "12B65B4CF2650D30"
+					type: "xp"
+					xp: 500
+				}
+				{
+					id: "5901410906456D16"
+					item: {
+						Count: 1
+						id: "minecraft:enchanted_book"
+						tag: {
+							StoredEnchantments: [{
+								id: "minecraft:unbreaking"
+								lvl: 3s
+							}]
+						}
+					}
+					type: "item"
+				}
+			]
+			subtitle: "Сліпуче красиво"
+			tasks: [{
+				id: "714F106F56D7385C"
+				item: {
+					Count: 1
+					id: "aquamirae:abyssal_tiara"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 5.5d
+			y: 8.0d
+		}
+		{
+			dependencies: ["691576CCDF60F398"]
+			description: [
+				"Ця шабля була втрачена одним з матросів корабля-привида, який довго орудував у морях Lost Souls! "
+				"Але тепер її знайшли ви! "
+				"&o&8Ця зброя завдає на 100% більше шкоди під водою, тому раджу її використовувати тільки в морських битвах!"
+			]
+			id: "6DC0FB66244969EF"
+			rewards: [
+				{
+					id: "6EBF059FE16939EF"
+					type: "xp"
+					xp: 300
+				}
+				{
+					count: 3
+					id: "40977A8C45612DF3"
+					item: "irons_spellbooks:frozen_bone"
+					type: "item"
+				}
+			]
+			subtitle: "Кому вона належала?.."
+			tasks: [{
+				id: "67DC6FD86CF4BE33"
+				item: {
+					Count: 1
+					id: "aquamirae:remnants_saber"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			title: "&8&lШабля мертвого пірата"
+			x: -0.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["691576CCDF60F398"]
+			description: [
+				"Гостре та отруйне ікло Вудильника."
+				"Потрібне для створення спорядження"
+			]
+			id: "52DE9CBEFCEBAA1A"
+			rewards: [
+				{
+					id: "11F84F449A3A1B25"
+					type: "xp"
+					xp: 200
+				}
+				{
+					id: "0024733487A7F855"
+					item: "aquamirae:anglers_fang"
+					type: "item"
+				}
+			]
+			subtitle: "Наскільки воно отруйне?"
+			tasks: [{
+				id: "6E70CFCDC4878024"
+				item: "aquamirae:anglers_fang"
+				type: "item"
+			}]
+			title: "&aІкло вудильника"
+			x: -2.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["52DE9CBEFCEBAA1A"]
+			description: [
+				"Цей клинок доволі хороша зброя, адже, одночасно завдаючи швидких ударів, він &aотруює&r супротивника."
+				"&o&8За детальною інформацією натисніть \"Shift\", навівшись на клинок."
+			]
+			id: "722E19CA6458979B"
+			rewards: [
+				{
+					id: "34A851DA71E6912F"
+					type: "xp"
+					xp: 300
+				}
+				{
+					id: "375F61369D28429A"
+					item: {
+						Count: 1
+						id: "minecraft:splash_potion"
+						tag: {
+							Potion: "minecraft:strong_poison"
+						}
+					}
+					type: "item"
+				}
+			]
+			subtitle: "Гострий настільки ж, наскільки й отруйний"
+			tasks: [{
+				id: "41E1EAEE3DB16F72"
+				item: {
+					Count: 1
+					id: "aquamirae:poisoned_blade"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			title: "&a&lОтруєний клинок"
+			x: -3.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["52DE9CBEFCEBAA1A"]
+			description: [
+				"Найгостріший чакрам, який буде кружляти навколо вас, не даючи супротивникам наблизитися до вас."
+				"&o&8За детальною інформацією натисніть \"Shift\", навівшись на чакрам."
+			]
+			id: "77AD8510C2F2CE4C"
+			rewards: [
+				{
+					id: "11A8D01043C99EEE"
+					type: "xp"
+					xp: 300
+				}
+				{
+					id: "6D9E12BDC23D7470"
+					item: "minecraft:golden_apple"
+					type: "item"
+				}
+			]
+			subtitle: "Гострий настільки ж, наскільки й отруйний"
+			tasks: [{
+				id: "1CE41100AC179340"
+				item: {
+					Count: 1
+					id: "aquamirae:poisoned_chakra"
+					tag: {
+						Damage: 0
+						Enchantments: [
+							{
+								id: "obscure_api:distance"
+								lvl: 3s
+							}
+							{
+								id: "obscure_api:fast_spin"
+								lvl: 5s
+							}
+						]
+					}
+				}
+				type: "item"
+			}]
+			title: "&a&lОтруєний чакрам"
+			x: -4.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["52DE9CBEFCEBAA1A"]
+			description: [
+				"Найнебезпечніша зброя в умілих руках! "
+				"Хоч не дивлячись і на швидкість атаки меча, &4критична&r шкода буде вражаючою..."
+				"&o&8За детальною інформацією натисніть \"Shift\", навівшись на клинок."
+			]
+			id: "51C7455B99834D5A"
+			rewards: [
+				{
+					id: "35C4D05CF7C32EA8"
+					type: "xp"
+					xp: 300
+				}
+				{
+					count: 3
+					id: "488DAD05342C615E"
+					item: "iceandfire:dread_shard"
+					type: "item"
+				}
+			]
+			subtitle: "Справжня зброя кровожерливого морського вовка"
+			tasks: [{
+				id: "2CB3E5E2270B887D"
+				item: {
+					Count: 1
+					id: "aquamirae:terrible_sword"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -3.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["691576CCDF60F398"]
+			description: ["Цей кинджал зможе допомогти вам при крадіжці &2смарагдів&r у &6жителів&r, але перед тим, як скоювати злочин, знайте, що є шанс отримати &4лихе знамення"]
+			id: "0D5D8867FC631C44"
+			rewards: [{
+				id: "56592D8BDFCB3958"
+				type: "xp"
+				xp: 300
+			}]
+			subtitle: "Наскільки ти жадібний?"
+			tasks: [{
+				id: "00DACD29F9277788"
+				item: {
+					Count: 1
+					id: "aquamirae:dagger_of_greed"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 2.5d
+			y: -0.5d
+		}
+	]
+	title: "&d4.5&r: &lКрижаний лабіринт"
+}

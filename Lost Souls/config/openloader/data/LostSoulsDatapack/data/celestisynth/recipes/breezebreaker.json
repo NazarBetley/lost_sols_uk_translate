@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "  #",
+        "## ",
+        "O# "
+    ],
+    "key": {
+        "#": {
+            "item": "caverns_and_chasms:necromium_ingot"
+        },
+        "O": {
+            "item": "alexsmobs:guster_eye"
+        }
+    },
+    "result": {
+        "item": "celestisynth:breezebreaker",
+        "count": 1
+    }
+}

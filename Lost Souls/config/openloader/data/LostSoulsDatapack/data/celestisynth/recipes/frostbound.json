@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "##S",
+        " B#",
+        "B  "
+    ],
+    "key": {
+        "#": {
+            "item": "twilightforest:ice_bomb"
+        },
+        "S": {
+            "item": "mowziesmobs:ice_crystal"
+        },
+        "B": {
+            "item": "irons_spellbooks:frosted_helve"
+        }
+    },
+    "result": {
+        "item": "celestisynth:frostbound",
+        "count": 1
+    }
+}

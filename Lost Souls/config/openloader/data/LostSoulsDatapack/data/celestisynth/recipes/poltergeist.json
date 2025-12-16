@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " #S",
+        " O#",
+        "F  "
+    ],
+    "key": {
+        "#": {
+            "item": "twilightforest:knightmetal_ingot"
+        },
+        "S": {
+            "item": "endrem:rogue_eye"
+        },
+        "O": {
+            "item": "cataclysm:black_steel_axe"
+        },
+        "F": {
+            "item": "cataclysm:black_steel_nugget"
+        }
+    },
+    "result": {
+        "item": "celestisynth:poltergeist",
+        "count": 1
+    }
+}

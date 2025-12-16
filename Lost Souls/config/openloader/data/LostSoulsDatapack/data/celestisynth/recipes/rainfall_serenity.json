@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "## ",
+        " S#",
+        "  #"
+    ],
+    "key": {
+        "#": {
+            "item": "iceandfire:ghost_ingot"
+        },
+        "S": {
+            "item": "cataclysm:cursed_bow"
+        }
+    },
+    "result": {
+        "item": "celestisynth:rainfall_serenity",
+        "count": 1
+    }
+}

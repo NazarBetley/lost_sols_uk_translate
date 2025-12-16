@@ -1,0 +1,62 @@
+
+["Skill Points"]
+	#Range: 1 ~ 1000
+	"Maximum skill points" = 110
+	#Range: > 0
+	"First skill point cost" = 15
+	#Range: > 0
+	"Last skill point cost" = 1400
+	#You can set cost for each skill point instead
+	"Use skill points costs array" = true
+	#This list's size must be equal to maximum skill points.
+	#Total experience up to 100 skill points: 0.0 , and for 110 skill points: 0.0
+	"Levelup costs" = [15, 19, 24, 30, 40, 48, 57, 67, 78, 98, 111, 125, 140, 156, 187, 205, 224, 244, 265, 310, 333, 357, 382, 408, 470, 498, 527, 557, 588, 670, 703, 737, 772, 808, 913, 951, 990, 1030, 1071, 1203, 1246, 1290, 1335, 1381, 1543, 1591, 1640, 1690, 1741, 1937, 1990, 2044, 2099, 2155, 2389, 2447, 2506, 2566, 2627, 2905, 2968, 3032, 3097, 3163, 3489, 3557, 3626, 3696, 3767, 4147, 4220, 4294, 4369, 4445, 4884, 4962, 5041, 5121, 5202, 5707, 5790, 5874, 5959, 6045, 6623, 6711, 6800, 6890, 6981, 7639, 7732, 7826, 7921, 8017, 8764, 8862, 8961, 9061, 9162, 10006, 10109, 12685, 15886, 19863, 24803, 30940, 38563, 48032, 59794, 74404]
+	#Disabling this will remove chat messages when you gain a skill point.
+	"Show chat messages" = true
+	#Warning: If you disable this make sure you make alternative way of getting skill points.
+	"Enable exprerience exchange for skill points" = true
+
+[Gems]
+	#Range: 0.0 ~ 1.0
+	"Base drop chance" = 0.0
+
+[Equipment]
+	#Range: 0 ~ 4
+	"Default Helmets Sockets" = 0
+	#Range: 0 ~ 4
+	"Default Chestplates Sockets" = 0
+	#Range: 0 ~ 4
+	"Default Leggings Sockets" = 0
+	#Range: 0 ~ 4
+	"Default Boots Sockets" = 0
+	#Range: 0 ~ 4
+	"Default Weapons Sockets" = 0
+	#Range: 0 ~ 4
+	"Default Shields Sockets" = 0
+	#Range: 0 ~ 4
+	"Default Rings Sockets" = 0
+	#Range: 0 ~ 4
+	"Default Necklaces Sockets" = 0
+	#You can remove sockets from items here
+	#Example: Blacklisting specific items: ["minecraft:diamond_hoe", "minecraft:golden_hoe"]
+	#Example: Blacklisting whole mod: ["<mod_id>:*"]
+	#Example: Blacklisting all items: ["*:*"]
+	"IDs of items that shouldn't have sockets" = []
+
+#You can force items from other mods into equipmentType categories here
+["Amnesia Scroll"]
+	#How much levels (percentage) player lose using amnesia scroll
+	#Range: 0.0 ~ 1.0
+	"Amnesia scroll penalty" = 0.2
+	"Drop amnesia scrolls from the Ender Dragon" = true
+
+[Experience]
+	#Range: 0.0 ~ 1.0
+	"Grindstone experience multiplier" = 0.1
+
+[Mixtures]
+	#Range: 0.0 ~ 2.0
+	"Effects duration multiplier" = 1.0
+	#Range: 0.0 ~ 2.0
+	"Effects strength multiplier" = 1.0
+

@@ -1,0 +1,35 @@
+{
+  "bookGuiScale": 0,
+  "clickedVisualize": false,
+  "bookData": {
+    "patchouli:guidebook": {
+      "viewedEntries": [
+        "patchouli:atlas/atlas",
+        "patchouli:pets/lejanka",
+        "patchouli:diet/bread",
+        "patchouli:relics/wz",
+        "patchouli:boss/chevo",
+        "patchouli:quest/quest",
+        "patchouli:boss2/ghast",
+        "patchouli:boss2/koroleva",
+        "patchouli:boss2/gribotavr",
+        "patchouli:artifacts/shokkylon"
+      ],
+      "bookmarks": [],
+      "completedManualQuests": []
+    },
+    "irons_spellbooks:iss_guide_book": {
+      "viewedEntries": [
+        "irons_spellbooks:spell_books/uncraftable_spell_books",
+        "irons_spellbooks:spell_books/scrolls",
+        "irons_spellbooks:progression/ink",
+        "irons_spellbooks:progression/late_game",
+        "irons_spellbooks:schools",
+        "irons_spellbooks:progression/early_game",
+        "irons_spellbooks:spell_books/craftable_spell_books"
+      ],
+      "bookmarks": [],
+      "completedManualQuests": []
+    }
+  }
+}

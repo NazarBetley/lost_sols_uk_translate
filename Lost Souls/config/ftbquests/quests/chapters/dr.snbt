@@ -1,0 +1,333 @@
+{
+	autofocus_id: "2ED0A803003B8475"
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "dr"
+	group: ""
+	icon: {
+		Count: 1
+		id: "relics:aqua_walker"
+		tag: {
+			abilities: {
+				walking: {
+					points: 0
+					stats: {
+						time: 57.49224d
+					}
+				}
+			}
+		}
+	}
+	id: "26C73B03C6536E13"
+	images: [
+		{
+			click: "https://send.monobank.ua/jar/4aQ12ZbyFc"
+			height: 1.0d
+			hover: ["Boosty"]
+			image: "relics:item/magic_mirror_3"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.0d
+			y: -5.5d
+		}
+		{
+			click: "https://discord.gg/YMBurn23rA"
+			height: 1.0d
+			hover: ["Діскорд Перекладача"]
+			image: "relics:item/magic_mirror_0"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.0d
+			y: -3.5d
+		}
+		{
+			height: 1.0d
+			image: "irons_spellbooks:item/divine_pearl"
+			rotation: -7.0d
+			width: 1.0d
+			x: 2.0d
+			y: -4.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:item/blaze_powder"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: -7.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:block/menuanim"
+			rotation: 0.0d
+			width: 0.03125d
+			x: 0.0d
+			y: -14.0d
+		}
+		{
+			click: "https://send.monobank.ua/jar/4aQ12ZbyFc"
+			height: 7.0d
+			image: "ftbquests:block/menuanim"
+			rotation: 0.0d
+			width: 7.0d
+			x: 0.0d
+			y: -11.0d
+		}
+		{
+			height: 1.7d
+			image: "cataclysm:textures/entity/flame_strike_sigil.png"
+			rotation: 0.0d
+			width: 1.7d
+			x: 0.0d
+			y: -4.5d
+		}
+		{
+			height: 1.2d
+			image: "cataclysm:textures/particle/trap_flame_2.png"
+			rotation: 0.0d
+			width: 1.2d
+			x: -1.5d
+			y: -2.5d
+		}
+	]
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			description: [
+				"&6✅&r Збірка модів Lost Souls для Minecraft створена з метою збагатити ігровий досвід та додати більше фентезійних елементів у виживання гравців."
+				""
+				"&d✅&r Завдяки включеним модам як для Fabric, так і для Forge, гравці отримують широкі можливості для налаштування ігрового процесу."
+				""
+				"&6✅&r Перекладена російською мовою, збірка полегшує взаємодію з ігровим контентом для російськомовних гравців!"
+				""
+				"&d✅&r Крім того, присутність власного ресурс-паку з переробленими текстурами більшості модів надає єдиний стиль усій збірці, що покращує враження від візуальної складової збірки!"
+				""
+				"&6✅&r Також для частини зброї зі збірки додано якісні 3D-моделі, що додає більшого візуального задоволення при її використанні!"
+				"Вдалого шляху, досліднику!"
+			]
+			hide: true
+			icon: "minecells:boss_stem_cell"
+			id: "2D8EB2902477E0E0"
+			rewards: [{
+				id: "1B2F7CCBA68A8A51"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "diamond"
+			size: 1.0d
+			tasks: [{
+				id: "5C53F6888CE40CA5"
+				title: "&dLost Souls"
+				type: "checkmark"
+			}]
+			title: "&6Lost Souls"
+			x: 0.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["2D8EB2902477E0E0"]
+			description: [
+				"&6Lost Souls&r має різні механіки, які зроблять геймплей на збірці набагато цікавішим і різноманітнішим. На наступних сторінках можете ознайомитися з усіма новими механіками."
+				"{@pagebreak}"
+				"&6I&r: Дієта"
+				""
+				"Тепер вам потрібно буде дотримуватися дієти, харчуючись різною їжею, всього є п'ять шкал: фрукти, зерна, протеїни, овочі та цукор. В описі кожної їжі буде написано, яку шкалу їжа заповнюватиме при поїданні."
+				"{@pagebreak}"
+				"&6II&r: Витривалість"
+				""
+				"Ви можете помітити, що над шкалою голоду з'явився новий індикатор. Ця шкала показує вашу витривалість. При надяганні броні ваша витривалість зменшуватиметься. А потрібна вона для перекатів, які будуть сильно допомагати в бою, дозволяючи вам ухилятися від атак супротивника. Підвищити кількість витривалості при надітій броні можна за допомогою зачарування \"Легкість\"."
+				"{@pagebreak}"
+				"&6III&r: Старовинний атлас"
+				""
+				"У цій збірці замість міні-мапи ви зможете створити старовинний атлас. Він є повною заміною міні-мапи. Створіть цей атлас за допомогою книги та компаса."
+				"{@pagebreak}"
+				"&6IV&r: Механіка сну"
+				""
+				"Тепер, щоб пропустити ніч, вам потрібно буде затиснути пробіл, коли ви ляжете. Також можна буде крутити головою і дивитися в будь-якому напрямку. Іноді ваш сон можуть потурбувати кошмари."
+				"{@pagebreak}"
+				"&6V&r: Прокачування персонажа"
+				""
+				"Тепер ви зможете прокачувати свого персонажа за допомогою дерева навичок. Вам буде доступна обмежена кількість очок прокачування, тому вибирайте з розумом."
+				"{@pagebreak}"
+				"&6VI&r: Дванадцять очей Ендера"
+				""
+				"Тепер по всьому світу вам потрібно буде знаходити очі, за їх допомогою ви зможете активувати портал в Енд, а звичайні перестануть працювати."
+				"{@pagebreak}"
+				"&6VII&r: Елітри та глайдери"
+				""
+				"Тепер ви не зможете використовувати елітри у верхньому світі та незері через іншу гравітацію. Замість елітр ви зможете створити планери, які будуть заміною."
+			]
+			icon: "minecells:ramparts_dimensional_rune"
+			id: "2F8849247EFF51EF"
+			rewards: [{
+				id: "3DAE3F98881BCAD3"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "hexagon"
+			size: 1.0d
+			tasks: [{
+				id: "4546A3A8CFE0C9FA"
+				title: "&dМеханіки"
+				type: "checkmark"
+			}]
+			title: "&6Механіки"
+			x: 2.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["2D8EB2902477E0E0"]
+			description: [
+				"Автором цього проекту є блогер &6Stefjinvu&r. Він також є засновником студії з майнкрафту &6Tale's Studio&r. "
+				""
+				"Через що можна зв'язатися?(нахуй вам з ними звязуватись) перекладав її ж я(&2zevs&r))"
+				""
+				"&6Discord&r - stefjinvu"
+				"&6Пошта&r - managerlostsouls10@gmail.com"
+				"&6Telegram&r - @stefjinvu"
+			]
+			icon: {
+				Count: 1
+				id: "minecells:ramparts_doorway"
+				tag: {
+					BlockEntityTag: { }
+				}
+			}
+			id: "5BA63489CDEC91F3"
+			rewards: [{
+				id: "6A5BC1FEA7C0709F"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "hexagon"
+			size: 1.0d
+			tasks: [{
+				id: "1CC81354065A0FF8"
+				title: "&dАвтор збірки"
+				type: "checkmark"
+			}]
+			title: "&6Автор Збірки"
+			x: -2.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["2D8EB2902477E0E0"]
+			description: [
+				"На збірці є моди, які бажано вивчити повністю, адже вони роблять гру дуже цікавою та атмосферною. На наступних сторінках є весь список основних модів."
+				"{@pagebreak}"
+				"&6I&r: Mine Cells;"
+				"&6II&r: Twilight Forest;"
+				"&6III&r: Ice And Fire;"
+				"&6IV&r: Create;"
+				"&6V&r: Iron's Spellnbooks;"
+			]
+			icon: "minecells:firebrands"
+			id: "2ED0A803003B8475"
+			rewards: [{
+				id: "330F27C09348CDA5"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "hexagon"
+			size: 1.0d
+			tasks: [{
+				id: "3FDE7F498DCC3AE0"
+				title: "&dОсновні моди"
+				type: "checkmark"
+			}]
+			title: "&6Основні моди"
+			x: 0.0d
+			y: -6.6000000000000005d
+		}
+		{
+			dependencies: ["2D8EB2902477E0E0"]
+			description: [
+				"Збірка наповнена різними унікальними аспектами, яких немає у більшості інших збірок. На наступній сторінці ви побачите весь список унікальних аспектів нашої збірки."
+				"{@pagebreak}"
+				"&6I&r: Кастомний текстур-пак;"
+				"&6II&r: Красиві квести;"
+				"&6III&r: Повний переклад усіх модів;"
+				"&6IV&r: Кастомні 3D-моделі;"
+			]
+			icon: "cataclysm:desert_eye"
+			id: "4188FC0C261F2F71"
+			rewards: [{
+				id: "35C174BD1774251E"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "circle"
+			size: 1.0d
+			tasks: [{
+				id: "43B0B3331F8DFFBC"
+				title: "&dУнікальність"
+				type: "checkmark"
+			}]
+			title: "&6Унікальність"
+			x: -1.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["2D8EB2902477E0E0"]
+			description: ["Створіть старовинний атлас, щоб орієнтуватися у світі &6Lost&r &dSouls&r!"]
+			id: "24B46540C32946C4"
+			rewards: [{
+				id: "3E5288FA520CB845"
+				type: "xp"
+				xp: 200
+			}]
+			tasks: [{
+				id: "1561FB5CFEECB084"
+				item: "antiqueatlas:empty_antique_atlas"
+				type: "item"
+			}]
+			title: "&6Старовинний атлас"
+			x: 1.5d
+			y: -6.0d
+		}
+		{
+			dependencies: ["2D8EB2902477E0E0"]
+			description: [
+				"Автором квестів є Aridj."
+				"А перекладом займався я Zevs"
+				"Щодо всіх проблем, пов'язаних із квестами, писати:"
+				""
+				"Discord - &6zevs_ua&f"
+			]
+			icon: "ftbquests:book"
+			id: "69F50911973A89A7"
+			rewards: [{
+				id: "4FBBEA57A5293B97"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "3E719D4413BDBFF5"
+				type: "checkmark"
+			}]
+			title: "&6Квестова система"
+			x: -1.5d
+			y: -6.0d
+		}
+		{
+			dependencies: ["2D8EB2902477E0E0"]
+			description: ["Однією з важливих речей у збірці є рюкзак. Його можна створити з шести кролячих шкурок, двох ниток і одного залізного зливка."]
+			id: "719D1E4E497920E6"
+			rewards: [{
+				id: "43FA317B29F75D09"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "25E93D059BBC1E18"
+				item: "backpacked:backpack"
+				type: "item"
+			}]
+			title: "&6Рюкзак"
+			x: 1.5d
+			y: -2.5d
+		}
+	]
+	title: "&d&l=>&r &lПро збірку"
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Гідра",
+    "icon": "twilightforest:hydra_trophy",
+    "sortnum": 3,
+    "category": "patchouli:boss2_category",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Гідра — це важкий бос $(l:patchouli:world/twilightforest)$(#5BA52E)Сутінкового лісу$(). Щоб її вбити, треба завдавати шкоди по активній голові. Як це? Коли голова Гідри починає вивергати полум'я, саме тоді її потрібно атакувати."
+        },
+        {
+            "type": "entity",
+            "name": "Гідра",
+            "text": "Цей бос зустрічається в $(l:patchouli:world/twilightforest)$(#5BA52E)Сутінковому лісі$()",
+            "entity": "twilightforest:hydra",
+            "scale": "1"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Шоковий кулон",
+    "icon": "artifacts:shock_pendant",
+    "category": "patchouli:artefact_category",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Бзз.. Цей кулон такий ел.. ле...ктричний, у ньому дуже сильна ее..нергія, мабуть, не варто його чіпати..."
+        },
+        {
+            "type": "spotlight",
+            "title": "Шоковий кулон",
+            "text": "Цей кулон може вдарити нападника блискавкою, а також дає захист від ударів блискавки!.",
+            "item": "artifacts:shock_pendant"
+        }
+    ]
+}

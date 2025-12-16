@@ -1,0 +1,14 @@
+{
+    "name": "Втрачені знання",
+    "landing_text": "Привіт, $(playername), ласкаво просимо до збірки LostSouls! Цей путівник допоможе тобі розібратися з контентом у цьому всесвіті, зараз проведемо тебе у світ цікавинок!",
+    "model": "patchouli:book_purple",
+    "book_texture": "patchouli:textures/gui/book_gray.png",
+    "use_blocky_font": true,
+    "link_color": "CF37EC",
+    "text_overflow_mode": "resize",
+    "progress_bar_color": "FFCD68",
+    "progress_bar_background": "D8A434",
+    "version": 1,
+    "creative_tab": "minecraft:ingredients",
+    "use_resource_pack": false
+}

@@ -1,0 +1,20 @@
+{
+    "name": "Атлас",
+    "icon": "antiqueatlas:antique_atlas",
+    "category": "patchouli:atlas_category",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Що таке атлас? Атлас — це карта всіх досліджених вами територій. Він замінює мінікарту на нашому проєкті. В атласі можна ставити мітки та давати їм назви. Скрафтити його можна з предметів: Компас + Книга."
+        },
+        {
+            "type": "image",
+            "text": "",
+            "title": "",
+            "border": true,
+            "images": [
+                "patchouli:atlas.png"
+            ]
+        }
+    ]
+}

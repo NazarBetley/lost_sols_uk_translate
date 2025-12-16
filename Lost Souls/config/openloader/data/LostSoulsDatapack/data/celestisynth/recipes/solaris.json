@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "  B",
+        "B# ",
+        "OB "
+    ],
+    "key": {
+        "#": {
+            "item": "iceandfire:dragonbone_sword_fire"
+        },
+        "B": {
+            "item": "cataclysm:ignitium_ingot"
+        },
+        "O": {
+            "item": "twilightforest:fiery_blood"
+        }
+    },
+    "result": {
+        "item": "celestisynth:solaris",
+        "count": 1
+    }
+}

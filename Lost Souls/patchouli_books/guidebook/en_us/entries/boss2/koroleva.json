@@ -1,0 +1,19 @@
+{
+    "name": "Снігова Королева",
+    "icon": "twilightforest:snow_queen_trophy",
+    "sortnum": 6,
+    "category": "patchouli:boss2_category",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Снігова Королева є майже останнім босом $(l:patchouli:world/twilightforest)$(#5BA52E)Сутінкового лісу$(). Її можна знайти на крижаних брилах у сніговому біомі. Там ви зможете зустріти мобів, які можуть вас уповільнити. А також там зустрічаються всі види особливих луків!"
+        },
+        {
+            "type": "entity",
+            "name": "Снігова Королева",
+            "text": "Цей бос зустрічається в $(l:patchouli:world/twilightforest)$(#5BA52E)Сутінковому лісі$().",
+            "entity": "twilightforest:snow_queen",
+            "scale": "0.8"
+        }
+    ]
+}

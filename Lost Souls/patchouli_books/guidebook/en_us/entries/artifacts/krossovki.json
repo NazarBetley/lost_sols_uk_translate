@@ -1,0 +1,17 @@
+{
+    "name": "Кросівки",
+    "icon": "artifacts:running_shoes",
+    "category": "patchouli:artefact_category",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Які гарні кросівки! Добре, що вони не білі, інакше могли б дуже швидко забруднитися. Чудовий день з новими кросівками, чи не так?"
+        },
+        {
+            "type": "spotlight",
+            "title": "Кросівки",
+            "text": "Збільшують швидкість руху власника. Також збільшують висоту кроку під час бігу.",
+            "item": "artifacts:running_shoes"
+        }
+    ]
+}

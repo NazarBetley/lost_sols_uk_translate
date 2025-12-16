@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:smithing_transform",
+    "category": "equipment",
+    "template": {
+        "item": "caverns_and_chasms:necromium_ingot"
+    },
+    "base": {
+        "item": "rogues:assassin_armor_chest"
+    },
+    "addition": {
+        "item": "fantasy_armor:moon_crystal"
+    },
+    "result": {
+        "item": "fantasy_armor:thief_chestplate"
+    }
+}

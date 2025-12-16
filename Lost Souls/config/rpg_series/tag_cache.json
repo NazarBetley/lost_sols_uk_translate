@@ -1,0 +1,34 @@
+{
+  "cache": {
+    "rpg_series:tier_4_weapons": [],
+    "rpg_series:tier_1_armors": [],
+    "rpg_series:tier_2_armors": [],
+    "rpg_series:tier_3_armors": [],
+    "rpg_series:tier_0_accessories": [],
+    "rpg_series:tier_1_accessories": [
+      "paladins:iron_kite_shield"
+    ],
+    "rpg_series:tier_3_weapons": [],
+    "rpg_series:tier_2_accessories": [
+      "paladins:diamond_kite_shield"
+    ],
+    "rpg_series:tier_3_accessories": [
+      "paladins:netherite_kite_shield"
+    ],
+    "rpg_series:tier_1_weapons": [],
+    "rpg_series:golden_weapons": [
+      "rogues:golden_dagger",
+      "rogues:golden_sickle",
+      "rogues:golden_double_axe",
+      "rogues:golden_glaive",
+      "archers:golden_spear",
+      "paladins:golden_claymore",
+      "paladins:golden_great_hammer",
+      "paladins:golden_mace",
+      "paladins:golden_kite_shield"
+    ],
+    "rpg_series:tier_2_weapons": [],
+    "rpg_series:tier_4_accessories": [],
+    "rpg_series:tier_0_weapons": []
+  }
+}
