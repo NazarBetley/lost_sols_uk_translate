@@ -27,7 +27,7 @@
 
 > **💡 Лайфхак для зручності:**
 > Щоб не зберігати скріншоти на комп, а просто копіювати їх і відразу вставляти у форму, юзай розширення для Chrome:
-> [Copy-n-Paste: Clipboard Upload Simplified](https://chromewebstore.google.com/detail/copy-n-paste-clipboard-up/idmmappkfbmjjffndmloidocljloghlg). 
+> [Copy-n-Paste: Clipboard Upload Simplified](https://chromewebstore.google.com/detail/copy-n-paste-clipboard-up/bnmdedmhngbeofnafobjmcihealecgnf). 
 > З ним можна просто тиснути **Ctrl+V** прямо у вікні вибору файлу.
 
 ---
